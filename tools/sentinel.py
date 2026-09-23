@@ -170,6 +170,31 @@ def main():
     else:
         add('profile', 'profile fetch', False, 'could not fetch the public profile README')
 
+    # ── OC status sheet (DD): must exist, be current, and match the site ──
+    if kit:
+        oc_path = os.path.join(kit, 'soul_land_devouring_dragon', 'foundation', 'OC_STATUS.md')
+        if os.path.exists(oc_path):
+            oc = open(oc_path, encoding='utf-8').read()
+            moc = re.search(r'LIVE AS OF: Chapter (\d+)', oc)
+            disk = count_md(os.path.join(kit, 'soul_land_devouring_dragon', 'chapters'))
+            if moc:
+                add('devouring_dragon', 'OC status sheet current', int(moc.group(1)) == disk,
+                    f'OC_STATUS live at Ch {moc.group(1)}; disk has {disk} chapters — '
+                    + ('current' if int(moc.group(1)) == disk else 'STALE: re-run tools/build_oc_status.py'))
+            else:
+                add('devouring_dragon', 'OC status sheet current', False,
+                    'OC_STATUS.md carries no LIVE AS OF stamp (regenerate it)')
+        else:
+            add('devouring_dragon', 'OC status sheet current', False,
+                'foundation/OC_STATUS.md missing (run tools/build_oc_status.py)')
+    ddst_html = open(os.path.join(SITE, 'dd-status.html'), encoding='utf-8').read() \
+        if os.path.exists(os.path.join(SITE, 'dd-status.html')) else ''
+    mds = re.search(r'LIVE AS OF: Chapter (\d+)', ddst_html)
+    add('devouring_dragon', 'site OC page current',
+        bool(mds) and int(mds.group(1)) == lib_edges.get('devouring_dragon', 0),
+        f'site dd-status.html live at Ch {mds.group(1) if mds else "—"}; '
+        f'library DD edge Ch {lib_edges.get("devouring_dragon", 0)}')
+
     order = {'pass': 0, 'warn': 1, 'fail': 2}
     checks.sort(key=lambda c: (order[c['status']], c['serial']))
     n_pass = sum(1 for c in checks if c['status'] == 'pass')

@@ -5,8 +5,11 @@
  <id>https://gm5206663-bit.github.io/soul-library/feed.xml</id>
  <link rel="self" href="https://gm5206663-bit.github.io/soul-library/feed.xml"/>
  <link rel="alternate" href="https://gm5206663-bit.github.io/soul-library/"/>
- <updated>2026-09-24T04:15:00Z</updated>
+ <updated>2026-09-24T05:30:00Z</updated>
  <author><name>Gaurav Meena</name></author>
+ <entry><title>The dragon, on one page — the OC status sheet</title>
+  <id>urn:soul-library:dd:oc-status</id><link href="https://gm5206663-bit.github.io/soul-library/dd-status.html"/>
+  <updated>2026-09-24T05:30:00Z</updated><summary>Everything about the Devouring Dragon on one page — auto-generated on every ship, freshness enforced by the Sentinel.</summary></entry>
  <entry><title>Devouring Dragon — Chapter 9, The Keeping Earned</title>
   <id>urn:soul-library:dd:canon-voice-ch9</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
   <updated>2026-09-24T04:15:00Z</updated><summary>The craft, the decoy, the voice's lessons, the ledge hunt, the greatness, the red thing — rewritten in the canon voice under the manhua lens. Facts unchanged.</summary></entry>
@@ -34,7 +37,4 @@
  <entry><title>Devouring Dragon — Chapters 19-24 rewritten in plain style</title>
   <id>urn:soul-library:dd:plain-rewrite</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
   <updated>2026-09-23T23:40:00Z</updated><summary>Author ruling: clear and simple, scenes not poetry, not summary. Six chapters rewritten, facts unchanged, all gates re-run.</summary></entry>
- <entry><title>The Soul Library — first audio edition (DD Ch 21)</title>
-  <id>urn:soul-library:audio:dd21</id><link href="https://gm5206663-bit.github.io/soul-library/audio.html"/>
-  <updated>2026-09-23T23:40:00Z</updated><summary>The Watch and the Pass, read aloud — the Library's first narrated chapter.</summary></entry>
 </feed>
