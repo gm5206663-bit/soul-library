@@ -5,8 +5,11 @@
  <id>https://gm5206663-bit.github.io/soul-library/feed.xml</id>
  <link rel="self" href="https://gm5206663-bit.github.io/soul-library/feed.xml"/>
  <link rel="alternate" href="https://gm5206663-bit.github.io/soul-library/"/>
- <updated>2026-09-23T22:00:00Z</updated>
+ <updated>2026-09-24T00:20:00Z</updated>
  <author><name>Gaurav Meena</name></author>
+ <entry><title>Devouring Dragon — the canon-voice edition begins (Ch 1–3)</title>
+  <id>urn:soul-library:dd:canon-voice</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
+  <updated>2026-09-24T00:20:00Z</updated><summary>Author ruling: write it like the source. Canon fetched and studied; Chapters 1–3 rewritten in the canon voice (facts unchanged), the rollout continues chapter by chapter.</summary></entry>
  <entry><title>Devouring Dragon — Chapter 24, The Stone Country</title>
   <id>urn:soul-library:dd:24</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
   <updated>2026-09-23T22:00:00Z</updated><summary>The opposite country: distance the ruler, the high kinds' teaching, the warmth map, and the thin bargain. The scree wrong — the mountain's memory of noise — and the first pass crossed in the gray kind's company. 2,198 words, PANEL: NONE, sweep PASS 24/24.</summary></entry>
@@ -34,7 +37,4 @@
  <entry><title>Devouring Dragon — Chapter 21, The Watch and the Pass</title>
   <id>urn:soul-library:dd:21</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
   <updated>2026-09-23T18:00:00Z</updated><summary>The watch, the old grazer's taking, the crossing inside the river, and THE READING — beneath notice, not mercy. Sweep PASS 21/21; Volume Two opens here.</summary></entry>
- <entry><title>Golden Lion — Chapter 7, Three Months</title>
-  <id>urn:soul-library:gl:7</id><link href="https://github.com/gm5206663-bit/soul-land-universal-kit"/>
-  <updated>2026-09-23T10:00:00Z</updated><summary>The live serial pushes near-daily; the Library snapshots at Chapter 7 with P-13 (the months-and-canon law).</summary></entry>
 </feed>

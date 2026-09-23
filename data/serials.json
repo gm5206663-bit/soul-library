@@ -2,13 +2,13 @@
  "serials": [
   {
    "title": "The Golden Lion",
-   "era": "Soul Land 2 \u00b7 The Unrivaled Tang Sect era",
-   "badge": "LIVE \u00b7 NEW CHAPTERS DAILY",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "LIVE · NEW CHAPTERS DAILY",
    "live": true,
    "desc": "Jin Yang, a village boy with a Golden Lion martial soul and a womb-born Adaptation Talent, walks the road to Shrek Academy at eleven. Canon shown, never skipped; the OC added, never centered.",
-   "note": "Snapshot taken 2026-09-23 at Chapter 7 \u2014 the live serial pushes near-daily; read the freshest chapters in the source repo.",
+   "note": "Snapshot taken 2026-09-23 at Chapter 7 — the live serial pushes near-daily; read the freshest chapters in the source repo.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 soul_land_2_new",
+   "repo_name": "soul-land-universal-kit · soul_land_2_new",
    "id": "golden_lion",
    "chapters": [
     {
@@ -65,32 +65,32 @@
   },
   {
    "title": "The Devouring Dragon",
-   "era": "Soul Land \u00b7 one thousand years after Book One",
-   "badge": "LIVE \u00b7 GATE-PASS \u00b7 CH 21",
+   "era": "Soul Land · one thousand years after Book One",
+   "badge": "LIVE · GATE-PASS · CH 21",
    "live": true,
-   "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's \u2014 his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
+   "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's — his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
    "note": "Every chapter passes the kit verify gate before shipping. The pacing law rules the road to the thousand-year barrier: sameness skipped, the years told by time-skip.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 soul_land_devouring_dragon",
+   "repo_name": "soul-land-universal-kit · soul_land_devouring_dragon",
    "id": "devouring_dragon",
    "chapters": [
     {
      "n": 1,
      "file": "Chapter_01_The_First_Hunger.md",
      "title": "The First Hunger",
-     "words": 2602
+     "words": 3217
     },
     {
      "n": 2,
      "file": "Chapter_02_The_Law_of_the_Snow.md",
      "title": "The Law of the Snow",
-     "words": 3104
+     "words": 3267
     },
     {
      "n": 3,
      "file": "Chapter_03_The_Ring_of_Light.md",
      "title": "The Ring of Light",
-     "words": 3397
+     "words": 3407
     },
     {
      "n": 4,
@@ -219,108 +219,108 @@
      "words": 2064
     }
    ],
-   "total_words": 65146,
-   "words_label": "57K"
+   "total_words": 65934,
+   "words_label": "65.9K words"
   },
   {
    "title": "Blue Silver",
-   "era": "Pre-canon \u00b7 775 years",
+   "era": "Pre-canon · 775 years",
    "badge": "BOOK ONE COMPLETE",
    "live": false,
    "desc": "A Blue Silver Emperor grass named Home. Seven hundred and seventy-five years of forest history, one absolute law: he never kills. Fifteen rebuilt chapters, all seven gates passing.",
-   "note": "Book One ends on the words THE KEEPER. The original fifteen chapters were rejected and fully rebuilt on a canon spine \u2014 the rebuild is what you read here.",
+   "note": "Book One ends on the words THE KEEPER. The original fifteen chapters were rejected and fully rebuilt on a canon spine — the rebuild is what you read here.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 blue_silver",
+   "repo_name": "soul-land-universal-kit · blue_silver",
    "id": "blue_silver",
    "chapters": [
     {
      "n": 1,
      "file": "Chapter_01_Awake.md",
-     "title": "Chapter One \u2014 Awake",
+     "title": "Chapter One — Awake",
      "words": 2821
     },
     {
      "n": 2,
      "file": "Chapter_02_What_the_Water_Teaches.md",
-     "title": "Chapter Two \u2014 What the Water Teaches",
+     "title": "Chapter Two — What the Water Teaches",
      "words": 2253
     },
     {
      "n": 3,
      "file": "Chapter_03_The_One_Who_Stayed.md",
-     "title": "Chapter Three \u2014 The One Who Stayed",
+     "title": "Chapter Three — The One Who Stayed",
      "words": 1960
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Teeth_in_the_Grass.md",
-     "title": "Chapter Four \u2014 The Teeth in the Grass",
+     "title": "Chapter Four — The Teeth in the Grass",
      "words": 2127
     },
     {
      "n": 5,
      "file": "Chapter_05_The_One_Who_Watched.md",
-     "title": "Chapter Five \u2014 The One Who Watched",
+     "title": "Chapter Five — The One Who Watched",
      "words": 1846
     },
     {
      "n": 6,
      "file": "Chapter_06_The_One_Below.md",
-     "title": "Chapter Six \u2014 The One Below",
+     "title": "Chapter Six — The One Below",
      "words": 1999
     },
     {
      "n": 7,
      "file": "Chapter_07_The_One_Who_Keeps.md",
-     "title": "Chapter Seven \u2014 The One Who Keeps",
+     "title": "Chapter Seven — The One Who Keeps",
      "words": 1898
     },
     {
      "n": 8,
      "file": "Chapter_08_The_One_Who_Crossed.md",
-     "title": "Chapter Eight \u2014 The One Who Crossed",
+     "title": "Chapter Eight — The One Who Crossed",
      "words": 2265
     },
     {
      "n": 9,
      "file": "Chapter_09_The_Last_Vigil.md",
-     "title": "Chapter Nine \u2014 The Last Vigil",
+     "title": "Chapter Nine — The Last Vigil",
      "words": 2225
     },
     {
      "n": 10,
      "file": "Chapter_10_The_One_Who_Answers.md",
-     "title": "Chapter Ten \u2014 The One Who Answers",
+     "title": "Chapter Ten — The One Who Answers",
      "words": 2488
     },
     {
      "n": 11,
      "file": "Chapter_11_The_Liar_at_the_Door.md",
-     "title": "Chapter Eleven \u2014 The Liar at the Door",
+     "title": "Chapter Eleven — The Liar at the Door",
      "words": 2575
     },
     {
      "n": 12,
      "file": "Chapter_12_The_Ten_Thousandth_Year.md",
-     "title": "Chapter Twelve \u2014 The Ten Thousandth Year",
+     "title": "Chapter Twelve — The Ten Thousandth Year",
      "words": 1873
     },
     {
      "n": 13,
      "file": "Chapter_13_The_One_Who_Goes.md",
-     "title": "Chapter Thirteen \u2014 The One Who Goes",
+     "title": "Chapter Thirteen — The One Who Goes",
      "words": 2502
     },
     {
      "n": 14,
      "file": "Chapter_14_The_Ground_That_Remembers.md",
-     "title": "Chapter Fourteen \u2014 The Ground That Remembers",
+     "title": "Chapter Fourteen — The Ground That Remembers",
      "words": 2494
     },
     {
      "n": 15,
      "file": "Chapter_15_The_One_Who_Is_Named.md",
-     "title": "Chapter Fifteen \u2014 The One Who Is Named",
+     "title": "Chapter Fifteen — The One Who Is Named",
      "words": 3385
     }
    ],
@@ -329,13 +329,13 @@
   },
   {
    "title": "The Adaptive Prodigy",
-   "era": "Soul Land 3 \u00b7 Legend of the Dragon King era",
-   "badge": "116 CHAPTERS \u00b7 ALL GREEN",
+   "era": "Soul Land 3 · Legend of the Dragon King era",
+   "badge": "116 CHAPTERS · ALL GREEN",
    "live": false,
-   "desc": "The flagship: OC Lin Hao across 116 gated chapters and a ten-layer verification suite (state \u00b7 footer \u00b7 locks \u00b7 sync \u00b7 zero-tolerance \u00b7 presence \u00b7 workspace \u00b7 divergence \u00b7 completeness \u00b7 momentum) \u2014 every layer green.",
+   "desc": "The flagship: OC Lin Hao across 116 gated chapters and a ten-layer verification suite (state · footer · locks · sync · zero-tolerance · presence · workspace · divergence · completeness · momentum) — every layer green.",
    "note": "Chapter files carry canon-coverage receipts and production notes alongside the prose; the suite-counted story total is ~354,700 words.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 Soul_Land_3_Project",
+   "repo_name": "soul-land-universal-kit · Soul_Land_3_Project",
    "id": "adaptive_prodigy",
    "chapters": [
     {
@@ -1040,13 +1040,13 @@
   },
   {
    "title": "The Unraveled Tide",
-   "era": "Soul Land 2 \u00b7 The Unrivaled Tang Sect era",
-   "badge": "24 CHAPTERS \u00b7 PAUSED",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "24 CHAPTERS · PAUSED",
    "live": false,
-   "desc": "OC Jiang Che in the SL2 era \u2014 the multi-panel law's home serial: canon always shown on the page, the OC beside it.",
-   "note": "Paused at Chapter 23 with its continuation prompt intact; a revival pass is queued in the workspace. Includes Chapter 8-B, 'The First Rank' (the blacksmith-craft chapter) \u2014 the serial's panel counts 23 numbered chapters.",
+   "desc": "OC Jiang Che in the SL2 era — the multi-panel law's home serial: canon always shown on the page, the OC beside it.",
+   "note": "Paused at Chapter 23 with its continuation prompt intact; a revival pass is queued in the workspace. Includes Chapter 8-B, 'The First Rank' (the blacksmith-craft chapter) — the serial's panel counts 23 numbered chapters.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 Soul_Land_2_Project",
+   "repo_name": "soul-land-universal-kit · Soul_Land_2_Project",
    "id": "unraveled_tide",
    "chapters": [
     {
