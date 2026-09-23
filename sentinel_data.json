@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23 09:03 UTC",
- "n_pass": 20,
+ "generated": "2026-09-23 09:06 UTC",
+ "n_pass": 21,
  "n_warn": 0,
- "n_fail": 2,
+ "n_fail": 1,
  "checks": [
   {
    "serial": "adaptive_prodigy",
@@ -39,6 +39,12 @@
    "check": "chapters on disk",
    "status": "pass",
    "receipt": "soul_land_devouring_dragon/chapters: 22 chapter files"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "panel live-edge vs disk",
+   "status": "pass",
+   "receipt": "foundation/STATUS_PANEL.md claims 22; disk has 22"
   },
   {
    "serial": "devouring_dragon",
@@ -123,12 +129,6 @@
    "check": "kit README DD row vs disk",
    "status": "pass",
    "receipt": "README says 22; disk has 22"
-  },
-  {
-   "serial": "devouring_dragon",
-   "check": "panel live-edge vs disk",
-   "status": "fail",
-   "receipt": "foundation/STATUS_PANEL.md claims 21; disk has 22"
   },
   {
    "serial": "profile",
