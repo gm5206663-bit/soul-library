@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gm5206663-bit.github.io/soul-library/sitemap.xml

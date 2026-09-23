@@ -124,6 +124,11 @@ def main():
                 'released kit == working copy' if rc == 0
                 else 'DRIFT: ' + '; '.join(out.strip().splitlines()[:2])[:200])
 
+        # ── cross-chapter continuity lint (2026-09-23 advanced layer) ────
+        out, rc = run(f'python3 tools/lint_continuity.py {kit}', SITE)
+        add('devouring_dragon', 'continuity lint (timeline/places/coverage)', rc == 0,
+            out.strip().splitlines()[-1][:110] if out.strip() else 'no output')
+
         # ── blue_silver live Book One under the unified gate ─────────────
         out, rc = run('python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py --project blue_silver', kit)
         add('blue_silver', 'unified gate (live Book One)', rc == 0,
