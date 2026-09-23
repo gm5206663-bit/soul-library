@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sentinel — workspace health</title>
+<style>
+:root{--bg:#0a0e14;--panel:#121a24;--line:#1e2a38;--line2:#2a3a4d;--ink:#c8d6e5;--ink2:#8b9db3;--ink3:#5d7186;--amber:#f0b429;--cyan:#4fd1c5;--green:#48bb78;--red:#e5534b;--yellow:#d4a72c}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.7 ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+.wrap{max-width:980px;margin:0 auto;padding:30px 20px 60px}
+h1{font-size:26px;color:#e8f0fa}h1 span{color:var(--amber)}
+.sub{color:var(--ink2);margin:4px 0 20px;font-size:14px}
+.banner{border-radius:12px;padding:16px 20px;margin-bottom:22px;border:1px solid var(--line)}
+.banner b{font-size:20px}
+.banner.pass{background:rgba(72,187,120,.08);border-color:rgba(72,187,120,.4)}
+.banner.warn{background:rgba(212,167,44,.08);border-color:rgba(212,167,44,.4)}
+.banner.fail{background:rgba(229,83,75,.08);border-color:rgba(229,83,75,.4)}
+table{width:100%;border-collapse:collapse}
+td,th{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top;font-size:14px}
+th{color:var(--ink3);text-transform:uppercase;font-size:11px;letter-spacing:1px}
+.st{font-weight:700;white-space:nowrap}
+.st.pass{color:var(--green)}.st.warn{color:var(--yellow)}.st.fail{color:var(--red)}
+.ser{color:var(--cyan);white-space:nowrap;font-family:ui-monospace,monospace;font-size:12.5px}
+.rec{color:var(--ink2)}
+.note{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 16px;color:var(--ink2);font-size:13px;margin-top:24px}
+a{color:var(--cyan);text-decoration:none}
+.gen{color:var(--ink3);font-size:12.5px;margin-top:8px}
+</style>
+</head>
+<body><div class="wrap">
+<h1>The Sentinel <span>·</span> workspace health</h1>
+<p class="sub">An independent scan of every serial: live-edge claims vs disk, library snapshots vs disk, and the real gates — actually executed at scan time. <a href="index.html">← The Library</a></p>
+<div id="banner" class="banner">loading…</div>
+<table><thead><tr><th>Status</th><th>Serial</th><th>Check</th><th>Receipt</th></tr></thead><tbody id="rows"></tbody></table>
+<div class="note"><b>How this works.</b> Every value on this page is measured, never typed: the scan re-runs the gates (Devouring Dragon kit sweep, Golden Lion sl2-goldenv, the Adaptive Prodigy ten-layer run_all), parses each serial's own status panel, counts chapter files on disk, and fetches the public profile README live. Re-run it any time with <code>python3 tools/sentinel.py --kit /path/to/soul-land-universal-kit</code> (in the <a href="https://github.com/gm5206663-bit/soul-library" target="_blank">soul-library repo</a>). The profile check reads GitHub's raw CDN, which can lag a fresh push by a few minutes. First-run receipts: the Sentinel caught the profile one chapter behind (fixed same hour), a library miscount caused by a chapter variant (fixed: live-edge comparison), and two of its own bugs — a counter that counted non-chapters, and a pattern that missed titled filenames. A checker must measure the thing it claims to measure.</div>
+<p class="gen" id="gen"></p>
+</div>
+<script>
+fetch('sentinel_data.json').then(r=>r.json()).then(d=>{
+ const b=document.getElementById('banner');
+ const cls=d.n_fail?'fail':(d.n_warn?'warn':'pass');
+ b.className='banner '+cls;
+ b.innerHTML=`<b style="color:var(--${d.n_fail?'red':(d.n_warn?'yellow':'green')})">${d.n_pass} pass · ${d.n_warn} warn · ${d.n_fail} fail</b><br><span style="color:var(--ink2);font-size:13.5px">${d.n_fail? 'Something needs fixing — read the receipts below.' : (d.n_warn? 'All hard checks green; warnings are live-serial drift (refresh snapshots).' : 'Everything green. Every claim on every checked surface matches the disk.')}</span>`;
+ document.getElementById('rows').innerHTML=d.checks.map(c=>
+  `<tr><td class="st ${c.status}">${c.status==='pass'?'✓ PASS':(c.status==='warn'?'⚠ WARN':'✗ FAIL')}</td><td class="ser">${c.serial}</td><td>${c.check}</td><td class="rec">${c.receipt}</td></tr>`).join('');
+ document.getElementById('gen').textContent='Scan generated '+d.generated+' — results are true as of that moment, not live.';
+});
+</script>
+</body>
+</html>

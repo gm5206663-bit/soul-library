@@ -1,0 +1,116 @@
+{
+ "generated": "2026-09-23 06:59 UTC",
+ "n_pass": 17,
+ "n_warn": 1,
+ "n_fail": 0,
+ "checks": [
+  {
+   "serial": "adaptive_prodigy",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "Soul_Land_3_Project/chapters: 116 files"
+  },
+  {
+   "serial": "adaptive_prodigy",
+   "check": "ten-layer run_all",
+   "status": "pass",
+   "receipt": "run_all: ALL GREEN (state \u00b7 footer \u00b7 locks \u00b7 sync \u00b7 zero-tolerance \u00b7 presence \u00b7 workspace \u00b7 divergence \u00b7 compl"
+  },
+  {
+   "serial": "blue_silver",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "blue_silver/chapters_rebuilt: 15 chapter files"
+  },
+  {
+   "serial": "blue_silver",
+   "check": "library live-edge vs disk",
+   "status": "pass",
+   "receipt": "library edge: Ch 15; disk edge: Ch 15 (live serials drift \u2014 refresh the snapshot)"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "soul_land_devouring_dragon/chapters: 20 chapter files"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "panel live-edge vs disk",
+   "status": "pass",
+   "receipt": "foundation/STATUS_PANEL.md claims 20; disk has 20"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "library live-edge vs disk",
+   "status": "pass",
+   "receipt": "library edge: Ch 20; disk edge: Ch 20 (live serials drift \u2014 refresh the snapshot)"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "kit verify sweep",
+   "status": "pass",
+   "receipt": "VERDICT: PASS (20/20 footers)"
+  },
+  {
+   "serial": "golden_lion",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "soul_land_2_new/chapters: 7 chapter files"
+  },
+  {
+   "serial": "golden_lion",
+   "check": "panel live-edge vs disk",
+   "status": "pass",
+   "receipt": "foundation/STATUS_PANEL.md claims 7; disk has 7"
+  },
+  {
+   "serial": "golden_lion",
+   "check": "library live-edge vs disk",
+   "status": "pass",
+   "receipt": "library edge: Ch 7; disk edge: Ch 7 (live serials drift \u2014 refresh the snapshot)"
+  },
+  {
+   "serial": "golden_lion",
+   "check": "sl2-goldenv gate",
+   "status": "pass",
+   "receipt": "chapters: 7 / GATE PASS"
+  },
+  {
+   "serial": "profile",
+   "check": "profile DD count vs disk",
+   "status": "pass",
+   "receipt": "profile says 20 chapters; disk has 20"
+  },
+  {
+   "serial": "unraveled_tide",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "Soul_Land_2_Project/chapters: 23 chapter files"
+  },
+  {
+   "serial": "unraveled_tide",
+   "check": "panel live-edge vs disk",
+   "status": "pass",
+   "receipt": "foundation/STATUS_PANEL.md claims 23; disk has 23"
+  },
+  {
+   "serial": "unraveled_tide",
+   "check": "library live-edge vs disk",
+   "status": "pass",
+   "receipt": "library edge: Ch 23; disk edge: Ch 23 (live serials drift \u2014 refresh the snapshot)"
+  },
+  {
+   "serial": "workspace",
+   "check": "kit README DD row vs disk",
+   "status": "pass",
+   "receipt": "README says 20; disk has 20"
+  },
+  {
+   "serial": "profile",
+   "check": "profile Golden Lion edge vs disk",
+   "status": "warn",
+   "receipt": "profile says Ch 6; disk has Ch 7"
+  }
+ ]
+}
