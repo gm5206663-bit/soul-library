@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Soul Library — gated Soul Land fanfiction</title>
+<style>
+:root{
+  --bg:#0a0e14;--bg2:#0f151d;--panel:#121a24;--panel2:#161f2b;--line:#1e2a38;--line2:#2a3a4d;
+  --ink:#c8d6e5;--ink2:#8b9db3;--ink3:#5d7186;--amber:#f0b429;--cyan:#4fd1c5;--green:#48bb78;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.75 Georgia,'Times New Roman',serif}
+h1,h2,h3,.sans{font-family:ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+a{color:var(--cyan);text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line);background:linear-gradient(180deg,var(--bg2),var(--bg));padding:34px 0 26px}
+header h1{font-size:30px;letter-spacing:.5px;color:#e8f0fa}
+header h1 .amp{color:var(--amber)}
+header p{color:var(--ink2);margin-top:6px;font-size:14.5px}
+.stats{display:flex;gap:26px;flex-wrap:wrap;margin-top:16px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 18px}
+.stat b{display:block;font-size:22px;color:var(--amber);font-family:ui-sans-serif,system-ui,sans-serif}
+.stat span{font-size:12px;color:var(--ink3);text-transform:uppercase;letter-spacing:1px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:22px;margin:30px 0 50px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;cursor:pointer;transition:border-color .15s,transform .15s;display:flex;flex-direction:column}
+.card:hover{border-color:var(--line2);transform:translateY(-2px)}
+.card .art{height:210px;background-size:cover;background-position:center;position:relative}
+.card .badge{position:absolute;top:10px;right:10px;background:rgba(10,14,20,.82);border:1px solid var(--line2);color:var(--green);font:600 11px/1 ui-sans-serif,system-ui,sans-serif;padding:5px 9px;border-radius:6px;letter-spacing:.5px}
+.card .badge.live{color:var(--amber)}
+.card .body{padding:14px 16px 16px;flex:1;display:flex;flex-direction:column}
+.card h2{font-size:18px;color:#e8f0fa}
+.card .era{font-size:12px;color:var(--ink3);text-transform:uppercase;letter-spacing:1px;margin:2px 0 8px}
+.card p{font-size:13.5px;color:var(--ink2);flex:1}
+.card .meta{display:flex;gap:14px;margin-top:12px;font:12px ui-sans-serif,system-ui,sans-serif;color:var(--ink3)}
+.card .meta b{color:var(--ink2)}
+.card .resume{margin-top:10px;font:12.5px ui-sans-serif,system-ui,sans-serif;color:var(--cyan)}
+.view{margin:26px 0 60px}
+.crumb{font:13px ui-sans-serif,system-ui,sans-serif;color:var(--ink3);cursor:pointer;margin-bottom:14px;display:inline-block}
+.crumb:hover{color:var(--cyan)}
+.serial-head{display:flex;gap:24px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px;flex-wrap:wrap}
+.serial-head img{width:150px;height:225px;border-radius:8px;object-fit:cover}
+.serial-head .info{flex:1;min-width:260px}
+.serial-head h2{color:#e8f0fa;font-size:24px}
+.serial-head .era{color:var(--ink3);text-transform:uppercase;letter-spacing:1.5px;font:12px ui-sans-serif,system-ui,sans-serif;margin:4px 0 10px}
+.serial-head p{color:var(--ink2);font-size:14.5px}
+.chlist{margin-top:22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:10px}
+.chitem{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:11px 14px;cursor:pointer;display:flex;gap:12px;align-items:baseline}
+.chitem:hover{border-color:var(--line2)}
+.chitem .n{font:700 13px ui-monospace,monospace;color:var(--amber);min-width:32px}
+.chitem .t{flex:1;font-size:14.5px;color:var(--ink)}
+.chitem .w{font:11.5px ui-sans-serif,system-ui,sans-serif;color:var(--ink3)}
+.chitem.read .t{color:var(--ink3)}
+.chitem.current{border-color:var(--cyan)}
+.reader{max-width:760px;margin:26px auto 80px}
+.reader h2{color:#e8f0fa;font-size:26px;margin-bottom:4px}
+.reader .sub{font:13px ui-sans-serif,system-ui,sans-serif;color:var(--ink3);margin-bottom:26px}
+.reader .content h3{color:var(--amber);font-size:19px;margin:30px 0 10px}
+.reader .content p{margin:0 0 18px}
+.reader .content blockquote{border-left:3px solid var(--line2);margin:14px 0;padding:4px 18px;color:var(--ink2)}
+.reader .content hr{border:0;border-top:1px solid var(--line);margin:30px 0}
+.reader .content ul{margin:0 0 18px 24px}
+.navrow{display:flex;justify-content:space-between;gap:12px;margin-top:40px}
+.navbtn{background:var(--panel);border:1px solid var(--line2);color:var(--ink);border-radius:9px;padding:10px 18px;cursor:pointer;font:14px ui-sans-serif,system-ui,sans-serif;max-width:46%}
+.navbtn:hover{border-color:var(--cyan)}
+.navbtn[disabled]{opacity:.35;cursor:default}
+footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--ink3);font:13px ui-sans-serif,system-ui,sans-serif}
+.disclaimer{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 18px;color:var(--ink2);font-size:13px;margin:8px 0 40px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>The Soul Library <span class="amp">·</span> gated fanfiction</h1>
+    <p>Soul Land (斗罗大陆) serials by <a href="https://github.com/gm5206663-bit">Gaurav Meena</a> — every shipped chapter machine-checked against canon before it lands here.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="grid" id="cards"></div>
+  <div class="view" id="view" style="display:none"></div>
+  <div class="disclaimer"><b>⚖️ Fan work.</b> Soul Land (Douluo Dalu) and all its characters, settings and terms belong to Tang Jia San Shao (唐家三少) and the original rights holders. Everything here is non-commercial derivative fan work — nothing is official, nothing is for sale. Reading copies only; prose may not be reposted or remixed. Method and tools: <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction">how-to-write-fanfiction</a>.</div>
+</div>
+
+<footer><div class="wrap">Built from the live workspace — <a href="https://github.com/gm5206663-bit/soul-land-universal-kit">soul-land-universal-kit</a> · gates: <a href="https://github.com/gm5206663-bit/soul-land-universal-kit">verify.py</a> · library code: stdlib-free, one file, no tracking. Reading progress lives in your browser only.</div></footer>
+
+<script>
+const $=q=>document.querySelector(q);
+const state={serials:[],cur:null,progress:JSON.parse(localStorage.getItem('soul-library-progress')||'{}')};
+function saveP(){localStorage.setItem('soul-library-progress',JSON.stringify(state.progress))}
+
+function md(text){
+  let h='',inul=false;
+  const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  for(let raw of text.split(/\r?\n/)){
+    let l=raw.trim();
+    if(!l){if(inul){h+='</ul>';inul=false}continue}
+    if(l==='---'){if(inul){h+='</ul>';inul=false}h+='<hr>';continue}
+    let m;
+    if(m=l.match(/^(#{1,3})\s+(.*)/)){if(inul){h+='</ul>';inul=false}h+=`<h3>${esc(m[2]).replace(/__(.*?)__/g,'<u>$1</u>')}</h3>`;continue}
+    if(m=l.match(/^[-*]\s+(.*)/)){if(!inul){h+='<ul>';inul=true}h+=`<li>${inline(m[1])}</li>`;continue}
+    if(l.startsWith('&gt;')||l.startsWith('>')){if(inul){h+='</ul>';inul=false}h+=`<blockquote>${inline(l.replace(/^>\s?/,''))}</blockquote>`;continue}
+    if(inul){h+='</ul>';inul=false}
+    h+=`<p>${inline(l)}</p>`;
+  }
+  if(inul)h+='</ul>';
+  return h;
+  function inline(s){return esc(s)
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*]+)\*/g,'$1<em>$2</em>')
+    .replace(/`(.+?)`/g,'<code>$1</code>')}
+}
+
+function card(s){
+  const p=state.progress[s.id],last=p&&p.lastCh;
+  const n=last?s.chapters.findIndex(c=>c.file===last):-1;
+  const resume=n>=0&&n<s.chapters.length-1?`↩ Continue — Ch ${s.chapters[Math.min(n+1,s.chapters.length-1)].n}`:(n===s.chapters.length-1?'✓ Fully read':(last?`↩ Continue — ${last.replace(/\.md$/,'')}`:''));
+  return `<div class="card" onclick="openSerial('${s.id}')">
+    <div class="art" style="background-image:url(covers/${s.id}.png)"><span class="badge ${s.live?'live':''}">${s.badge}</span></div>
+    <div class="body"><h2>${s.title}</h2><div class="era">${s.era}</div><p>${s.desc}</p>
+    <div class="meta"><span><b>${s.chapters.length}</b> chapters</span><span><b>${s.words_label}</b> words</span></div>
+    ${resume?`<div class="resume">${resume}</div>`:''}</div></div>`;
+}
+
+function openSerial(id){
+  const s=state.serials.find(x=>x.id===id);state.cur=s;
+  const p=state.progress[id]||{read:[]};
+  $('#cards').style.display='none';$('#view').style.display='block';window.scrollTo(0,0);
+  $('#view').innerHTML=`
+   <span class="crumb" onclick="home()">← The Library</span>
+   <div class="serial-head"><img src="covers/${s.id}.png" alt="${s.title} cover">
+    <div class="info"><h2>${s.title}</h2><div class="era">${s.era}</div><p>${s.desc}</p>
+    <p style="margin-top:10px;font-size:13px">${s.note}</p>
+    <p style="margin-top:8px;font-size:13px">Source of truth: <a href="${s.repo}" target="_blank">${s.repo_name}</a></p></div></div>
+   <div class="chlist">${s.chapters.map((c,i)=>`
+     <div class="chitem ${p.read.includes(c.file)?'read':''} ${p.lastCh===c.file?'current':''}" onclick="openCh('${s.id}',${i})">
+       <span class="n">${String(c.n).padStart(2,'0')}</span><span class="t">${c.title}</span><span class="w">${c.words.toLocaleString()}w</span></div>`).join('')}</div>`;
+}
+
+async function openCh(id,i){
+  const s=state.serials.find(x=>x.id===id);const c=s.chapters[i];
+  const r=await fetch(`chapters/${id}/${encodeURIComponent(c.file)}`);const t=await r.text();
+  const p=state.progress[id]||(state.progress[id]={read:[]});
+  if(!p.read.includes(c.file))p.read.push(c.file);p.lastCh=c.file;saveP();
+  $('#view').innerHTML=`
+   <span class="crumb" onclick="openSerial('${id}')">← ${s.title}</span>
+   <div class="reader"><h2>Chapter ${c.n} — ${c.title}</h2>
+   <div class="sub">${s.title} · ${c.words.toLocaleString()} words · ${s.badge}</div>
+   <div class="content">${md(t)}</div>
+   <div class="navrow">
+     <button class="navbtn" ${i>0?'':'disabled'} onclick="openCh('${id}',${i-1})">← Chapter ${s.chapters[i-1]?s.chapters[i-1].n:''}</button>
+     <button class="navbtn" ${i<s.chapters.length-1?'':'disabled'} onclick="openCh('${id}',${i+1})">Chapter ${s.chapters[i+1]?s.chapters[i+1].n:''} →</button>
+   </div></div>`;
+  window.scrollTo(0,0);
+}
+
+function home(){$('#view').style.display='none';$('#cards').style.display='grid';renderCards()}
+
+function renderCards(){
+  $('#cards').innerHTML=state.serials.map(card).join('');
+  const ch=state.serials.reduce((a,s)=>a+s.chapters.length,0);
+  const w=state.serials.reduce((a,s)=>a+s.total_words,0);
+  $('#stats').innerHTML=`<div class="stat"><b>${state.serials.length}</b><span>serials</span></div>
+   <div class="stat"><b>${ch}</b><span>chapters</span></div>
+   <div class="stat"><b>${(w/1000).toFixed(0)}K+</b><span>words</span></div>
+   <div class="stat"><b style="color:var(--green)">100%</b><span>gate-checked</span></div>`;
+}
+
+(async()=>{
+  const d=await fetch('data/serials.json');const j=await d.json();
+  state.serials=j.serials;
+  renderCards();
+})();
+</script>
+</body>
+</html>
