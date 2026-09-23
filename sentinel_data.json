@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23 09:53 UTC",
- "n_pass": 23,
+ "generated": "2026-09-23 09:59 UTC",
+ "n_pass": 22,
  "n_warn": 0,
- "n_fail": 0,
+ "n_fail": 1,
  "checks": [
   {
    "serial": "adaptive_prodigy",
@@ -38,31 +38,31 @@
    "serial": "devouring_dragon",
    "check": "chapters on disk",
    "status": "pass",
-   "receipt": "soul_land_devouring_dragon/chapters: 23 chapter files"
+   "receipt": "soul_land_devouring_dragon/chapters: 24 chapter files"
   },
   {
    "serial": "devouring_dragon",
    "check": "panel live-edge vs disk",
    "status": "pass",
-   "receipt": "foundation/STATUS_PANEL.md claims 23; disk has 23"
+   "receipt": "foundation/STATUS_PANEL.md claims 24; disk has 24"
   },
   {
    "serial": "devouring_dragon",
    "check": "library live-edge vs disk",
    "status": "pass",
-   "receipt": "library edge: Ch 23; disk edge: Ch 23 (live serials drift \u2014 refresh the snapshot)"
+   "receipt": "library edge: Ch 24; disk edge: Ch 24 (live serials drift \u2014 refresh the snapshot)"
   },
   {
    "serial": "devouring_dragon",
    "check": "kit verify sweep",
    "status": "pass",
-   "receipt": "VERDICT: PASS (23/23 footers)"
+   "receipt": "VERDICT: PASS (24/24 footers)"
   },
   {
    "serial": "devouring_dragon",
    "check": "continuity lint (timeline/places/coverage)",
    "status": "pass",
-   "receipt": "continuity lint: PASS \u2014 7 timeline rows monotonic; ch1\u201323 covered in TIMELINE and CONTINUITY; 30 place citatio"
+   "receipt": "continuity lint: PASS \u2014 8 timeline rows monotonic; ch1\u201324 covered in TIMELINE and CONTINUITY; 35 place citatio"
   },
   {
    "serial": "golden_lion",
@@ -93,12 +93,6 @@
    "check": "SERIAL_LOG row numbers unique",
    "status": "pass",
    "receipt": "22 rows, all unique"
-  },
-  {
-   "serial": "profile",
-   "check": "profile DD count vs disk",
-   "status": "pass",
-   "receipt": "profile says 23 chapters; disk has 23"
   },
   {
    "serial": "profile",
@@ -140,7 +134,13 @@
    "serial": "workspace",
    "check": "kit README DD row vs disk",
    "status": "pass",
-   "receipt": "README says 23; disk has 23"
+   "receipt": "README says 24; disk has 24"
+  },
+  {
+   "serial": "profile",
+   "check": "profile DD count vs disk",
+   "status": "fail",
+   "receipt": "profile says 23 chapters; disk has 24"
   }
  ]
 }
