@@ -60,7 +60,7 @@
   {
    "title": "The Devouring Dragon",
    "era": "Soul Land \u00b7 one thousand years after Book One",
-   "badge": "LIVE \u00b7 GATE-PASS",
+   "badge": "LIVE \u00b7 GATE-PASS \u00b7 CH 21",
    "live": true,
    "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's \u2014 his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
    "note": "Every chapter passes the kit verify gate before shipping. The pacing law rules the road to the thousand-year barrier: sameness skipped, the years told by time-skip.",
@@ -187,9 +187,15 @@
      "file": "Chapter_20_The_Road_Itself.md",
      "title": "The Road Itself",
      "words": 2132
+    },
+    {
+     "n": 21,
+     "file": "Chapter_21_The_Watch_and_the_Pass.md",
+     "title": "The Watch and the Pass",
+     "words": 2025
     }
    ],
-   "total_words": 57053,
+   "total_words": 59078,
    "words_label": "57K"
   },
   {
