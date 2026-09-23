@@ -107,6 +107,24 @@ def main():
         add('adaptive_prodigy', 'ten-layer run_all', rc == 0,
             out.strip().splitlines()[-1][:110])
 
+        # ── frozen trees must SAY they are frozen (2026-09-23 catch) ──────
+        p = os.path.join(kit, 'soul_land_3_new', 'foundation', 'STATUS_PANEL.md')
+        if os.path.exists(p):
+            frozen = 'FROZEN' in open(p, encoding='utf-8').read()
+            add('sl3_new_frozen', 'frozen panel asserts FROZEN', frozen,
+                'panel says FROZEN (author plan-change 2026-09-22)' if frozen
+                else 'panel does NOT say FROZEN — a frozen tree claiming liveness')
+
+        # ── no duplicated row numbers in the live serial's log ────────────
+        logp = os.path.join(kit, 'soul_land_2_new', 'foundation', 'SERIAL_LOG.md')
+        if os.path.exists(logp):
+            nums = [l.split('|')[1].strip() for l in
+                    open(logp, encoding='utf-8').read().splitlines()
+                    if l.startswith('| ') and l[2].strip().isdigit()]
+            dups = sorted({n for n in nums if nums.count(n) > 1})
+            add('golden_lion', 'SERIAL_LOG row numbers unique', not dups,
+                f'{len(nums)} rows, all unique' if not dups else f'duplicated rows: {", ".join(dups)}')
+
         # ── kit README serial rows vs disk (the drift that bit before) ────
         rd = open(os.path.join(kit, 'README.md'), encoding='utf-8').read()
         m = re.search(r'devouring-dragon serial \((\d+) chapters', rd)
