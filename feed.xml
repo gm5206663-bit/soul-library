@@ -5,8 +5,11 @@
  <id>https://gm5206663-bit.github.io/soul-library/feed.xml</id>
  <link rel="self" href="https://gm5206663-bit.github.io/soul-library/feed.xml"/>
  <link rel="alternate" href="https://gm5206663-bit.github.io/soul-library/"/>
- <updated>2026-09-24T05:30:00Z</updated>
+ <updated>2026-09-24T06:40:00Z</updated>
  <author><name>Gaurav Meena</name></author>
+ <entry><title>Devouring Dragon — the donghua lens (Ch 10)</title>
+  <id>urn:soul-library:dd:donghua-lens</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
+  <updated>2026-09-24T06:40:00Z</updated><summary>The animated series checked and its structure made law: complete mini-arc openings, merged beats, flashback panels, the ceremonial beat. The Cold Country under all three lenses.</summary></entry>
  <entry><title>The dragon, on one page — the OC status sheet</title>
   <id>urn:soul-library:dd:oc-status</id><link href="https://gm5206663-bit.github.io/soul-library/dd-status.html"/>
   <updated>2026-09-24T05:30:00Z</updated><summary>Everything about the Devouring Dragon on one page — auto-generated on every ship, freshness enforced by the Sentinel.</summary></entry>
@@ -34,7 +37,4 @@
  <entry><title>Devouring Dragon — Chapters 19 &amp; 20 shipped</title>
   <id>urn:soul-library:dd:19-20</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
   <updated>2026-09-23T06:00:00Z</updated><summary>The North Road (the pacing law's first time-skip chapter) and The Road Itself (the reversal, the first deep meal, the pass country). Sweep PASS 20/20.</summary></entry>
- <entry><title>Devouring Dragon — Chapters 19-24 rewritten in plain style</title>
-  <id>urn:soul-library:dd:plain-rewrite</id><link href="https://gm5206663-bit.github.io/soul-library/#devouring_dragon"/>
-  <updated>2026-09-23T23:40:00Z</updated><summary>Author ruling: clear and simple, scenes not poetry, not summary. Six chapters rewritten, facts unchanged, all gates re-run.</summary></entry>
 </feed>
