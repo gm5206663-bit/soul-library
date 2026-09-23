@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-23 08:18 UTC",
- "n_pass": 22,
+ "generated": "2026-09-23 09:03 UTC",
+ "n_pass": 20,
  "n_warn": 0,
- "n_fail": 0,
+ "n_fail": 2,
  "checks": [
   {
    "serial": "adaptive_prodigy",
@@ -38,25 +38,19 @@
    "serial": "devouring_dragon",
    "check": "chapters on disk",
    "status": "pass",
-   "receipt": "soul_land_devouring_dragon/chapters: 21 chapter files"
-  },
-  {
-   "serial": "devouring_dragon",
-   "check": "panel live-edge vs disk",
-   "status": "pass",
-   "receipt": "foundation/STATUS_PANEL.md claims 21; disk has 21"
+   "receipt": "soul_land_devouring_dragon/chapters: 22 chapter files"
   },
   {
    "serial": "devouring_dragon",
    "check": "library live-edge vs disk",
    "status": "pass",
-   "receipt": "library edge: Ch 21; disk edge: Ch 21 (live serials drift \u2014 refresh the snapshot)"
+   "receipt": "library edge: Ch 22; disk edge: Ch 22 (live serials drift \u2014 refresh the snapshot)"
   },
   {
    "serial": "devouring_dragon",
    "check": "kit verify sweep",
    "status": "pass",
-   "receipt": "VERDICT: PASS (21/21 footers)"
+   "receipt": "VERDICT: PASS (22/22 footers)"
   },
   {
    "serial": "golden_lion",
@@ -87,12 +81,6 @@
    "check": "SERIAL_LOG row numbers unique",
    "status": "pass",
    "receipt": "22 rows, all unique"
-  },
-  {
-   "serial": "profile",
-   "check": "profile DD count vs disk",
-   "status": "pass",
-   "receipt": "profile says 21 chapters; disk has 21"
   },
   {
    "serial": "profile",
@@ -134,7 +122,19 @@
    "serial": "workspace",
    "check": "kit README DD row vs disk",
    "status": "pass",
-   "receipt": "README says 21; disk has 21"
+   "receipt": "README says 22; disk has 22"
+  },
+  {
+   "serial": "devouring_dragon",
+   "check": "panel live-edge vs disk",
+   "status": "fail",
+   "receipt": "foundation/STATUS_PANEL.md claims 21; disk has 22"
+  },
+  {
+   "serial": "profile",
+   "check": "profile DD count vs disk",
+   "status": "fail",
+   "receipt": "profile says 21 chapters; disk has 22"
   }
  ]
 }
