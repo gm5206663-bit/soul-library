@@ -2,7 +2,7 @@
 
 **Read the serials.** Every gated Soul Land (斗罗大陆) fanfiction serial by
 [Gaurav Meena](https://github.com/gm5206663-bit), published as one clean reading
-site — 181 chapters, 766K+ words of chapter text, every shipped chapter
+site — 187 chapters, 781K+ words of chapter text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/
@@ -12,7 +12,7 @@ machine-checked against canon before it lands here.
 | Serial | Era | State |
 |---|---|---|
 | The Golden Lion | Soul Land 2 | 🔴 LIVE — new chapters near-daily (snapshot at build) |
-| The Devouring Dragon | Soul Land +1,000 years | 🔴 LIVE — 20 chapters, every one gate-PASS |
+| The Devouring Dragon | Soul Land +1,000 years | 🔴 LIVE — 24 chapters, every one gate-PASS; the canon-voice rollout is republishing the early chapters as they're rewritten (Ch 1–10 live in the new voice); [the dragon's full status sheet](dd-status.html) |
 | Blue Silver | pre-canon | ✅ Book One complete — 15 chapters, all seven gates passing |
 | The Adaptive Prodigy | Soul Land 3 | 116 chapters, ten-layer verification suite all green |
 | The Unraveled Tide | Soul Land 2 | 24 chapters, paused |
