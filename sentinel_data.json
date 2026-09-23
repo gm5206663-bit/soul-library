@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-23 07:33 UTC",
- "n_pass": 20,
- "n_warn": 0,
+ "generated": "2026-09-23 08:00 UTC",
+ "n_pass": 21,
+ "n_warn": 1,
  "n_fail": 0,
  "checks": [
   {
@@ -27,6 +27,12 @@
    "check": "library live-edge vs disk",
    "status": "pass",
    "receipt": "library edge: Ch 15; disk edge: Ch 15 (live serials drift \u2014 refresh the snapshot)"
+  },
+  {
+   "serial": "blue_silver",
+   "check": "unified gate (live Book One)",
+   "status": "pass",
+   "receipt": "VERDICT: PASS \u2014 all hard gates clean"
   },
   {
    "serial": "devouring_dragon",
@@ -56,43 +62,37 @@
    "serial": "golden_lion",
    "check": "chapters on disk",
    "status": "pass",
-   "receipt": "soul_land_2_new/chapters: 7 chapter files"
+   "receipt": "soul_land_2_new/chapters: 8 chapter files"
   },
   {
    "serial": "golden_lion",
    "check": "panel live-edge vs disk",
    "status": "pass",
-   "receipt": "foundation/STATUS_PANEL.md claims 7; disk has 7"
+   "receipt": "foundation/STATUS_PANEL.md claims 8; disk has 8"
   },
   {
    "serial": "golden_lion",
    "check": "library live-edge vs disk",
    "status": "pass",
-   "receipt": "library edge: Ch 7; disk edge: Ch 7 (live serials drift \u2014 refresh the snapshot)"
+   "receipt": "library edge: Ch 8; disk edge: Ch 8 (live serials drift \u2014 refresh the snapshot)"
   },
   {
    "serial": "golden_lion",
    "check": "sl2-goldenv gate",
    "status": "pass",
-   "receipt": "chapters: 7 / GATE PASS"
+   "receipt": "chapters: 8 / GATE PASS"
   },
   {
    "serial": "golden_lion",
    "check": "SERIAL_LOG row numbers unique",
    "status": "pass",
-   "receipt": "20 rows, all unique"
+   "receipt": "22 rows, all unique"
   },
   {
    "serial": "profile",
    "check": "profile DD count vs disk",
    "status": "pass",
    "receipt": "profile says 21 chapters; disk has 21"
-  },
-  {
-   "serial": "profile",
-   "check": "profile Golden Lion edge vs disk",
-   "status": "pass",
-   "receipt": "profile says Ch 7; disk has Ch 7"
   },
   {
    "serial": "sl3_new_frozen",
@@ -120,9 +120,21 @@
   },
   {
    "serial": "workspace",
+   "check": "kit trees byte-identical (D1 law)",
+   "status": "pass",
+   "receipt": "released kit == working copy"
+  },
+  {
+   "serial": "workspace",
    "check": "kit README DD row vs disk",
    "status": "pass",
    "receipt": "README says 21; disk has 21"
+  },
+  {
+   "serial": "profile",
+   "check": "profile Golden Lion edge vs disk",
+   "status": "warn",
+   "receipt": "profile says Ch 7; disk has Ch 8"
   }
  ]
 }

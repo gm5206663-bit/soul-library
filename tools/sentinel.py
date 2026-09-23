@@ -115,6 +115,20 @@ def main():
                 'panel says FROZEN (author plan-change 2026-09-22)' if frozen
                 else 'panel does NOT say FROZEN — a frozen tree claiming liveness')
 
+        # ── the kit's two trees must be ONE copy (2026-09-23 deep sweep) ─
+        u = os.path.join(kit, 'SOUL_LAND_UNIVERSAL_KIT')
+        w = os.path.join(kit, 'SOUL_LAND_WORKSPACE', 'kit')
+        if os.path.isdir(u) and os.path.isdir(w):
+            out, rc = run(f'diff -rq {u} {w}', kit)
+            add('workspace', 'kit trees byte-identical (D1 law)', rc == 0,
+                'released kit == working copy' if rc == 0
+                else 'DRIFT: ' + '; '.join(out.strip().splitlines()[:2])[:200])
+
+        # ── blue_silver live Book One under the unified gate ─────────────
+        out, rc = run('python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py --project blue_silver', kit)
+        add('blue_silver', 'unified gate (live Book One)', rc == 0,
+            out.strip().splitlines()[-1][:90])
+
         # ── no duplicated row numbers in the live serial's log ────────────
         logp = os.path.join(kit, 'soul_land_2_new', 'foundation', 'SERIAL_LOG.md')
         if os.path.exists(logp):
