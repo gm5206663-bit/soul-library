@@ -90,8 +90,8 @@ And that night, in loft, at gate of thing that had happened, he looked, and ledg
 > 「Level — 12 · Soul Master · the door open · the ring's gift」
 > 「Slots: 2 / 2 / 2」
 > 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」
-> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
-> 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% → Silent Wind Step Mid 1% (evolution chain) · the engine, passive · Mid」
+> 「Technique — The Hunter's Craft: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the second slot · Mid」
 > 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
 > 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」

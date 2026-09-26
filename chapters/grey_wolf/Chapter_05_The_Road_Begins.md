@@ -6,7 +6,7 @@ Thirteen came with first deep snow. Fourteen before thaw, fifteen with melt, six
 
 He did not go to Anlin. Crystal could not read what ledger already counted, and ledger counted everything.
 
-Engine had said MASTERED since first midwinter at six. Five years at mastery, all hours, at his best. Pool did not get new stage — county method has no stages, only mastery — it went dark. Dense. Water of deeper well fed by three bloodlines and seventeen poured levels. Reborn mind wasted no hour and no motion. Method ran while he carried water, while he sat black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
+Engine had said evolving since first midwinter at six. Five years at mastery, all hours, at his best. Pool did not get new stage — county method has no stages, only mastery — it went dark. Dense. Water of deeper well fed by three bloodlines and seventeen poured levels. Reborn mind wasted no hour and no motion. Method ran while he carried water, while he sat black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
 
 Body changed under it, not as ridge's ordinary weather of bone and meat, but with direction.
 
@@ -20,19 +20,19 @@ Patience grew too, and this was stranger than rest, because patience had seemed 
 
 Soul power control surfaced that winter, quiet as everything ledger did. Not new list world gave him — name for what reborn mind had been doing since first midwinter: flowing power where eye went, not where hand went. Observation surfaced with it — hunter's eye and tallykeeper's counting fused into one line. Running surfaced when storm-line seated. Stillness, Sense, Stride, Spear, Tally — all mastered, all feeding each other.
 
-Mastery made other things easier. That was cascade ledger never wrote in words but counted in numbers. Basic MASTERED made soul power control fifty percent easier. Craft MASTERED made Spear, Stillness, Sense, Stride, Tally fifty percent easier. When you learn one thing true, next comes faster. Smart person does not collect basics — he fuses them.
+Mastery made other things easier. That was cascade ledger never wrote in words but counted in numbers. Basic evolving made soul power control fifty percent easier. Craft evolving made Spear, Stillness, Sense, Stride, Tally fifty percent easier. When you learn one thing true, next comes faster. Smart person does not collect basics — he fuses them.
 
 By late summer they fused.
 
 It was not new technique world handed him. It was what happened when man who counted for living mastered every basic ridge could teach — soul power control, observation, running, patience, wind stride, quiet step — and ledger, which never invents roads, recognized that roads had become one road. Third seat, open since Soul Master, filled without him asking.
 
-> 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」
+> 「Technique — The Grey Ridge Hunt: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the third slot · High」
 
 Fused method: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Its own effects, its own name. County's plain method plus hunter's craft plus every life-skill ridge taught, become something more good — named method that has own effects. That was canon's own road: Tang Sect's Ghost Shadow Perplexing Track was observation plus running; Mysterious Heaven Skill was cultivation plus control. His was Grey Ridge Hunt.
 
 Ring aged — not by calendar, but by what poured through it. He had felt it turn in its seat on night it seated, and thought turning was settling. It was work. Seventeen levels poured through it in pouring year — thirteen through twenty nine — shelves holding less, water coming anyway, effective talent two point nine six at start of year, three point five by its end with three bloodlines and thousand-year rings feeding it. Year of engine at mastery, all hours. Number under ring's line was not number kill had left: hundred twenty at seating, thirteen fifty by leaving, twelve hundred thirty years of ghost-wolf poured into year's honest work, yellow to purple, color changing as years crossed thousand. Pelt beside mother's loom, faintly on warm evenings, smelled of live wolf, and wolf was older now.
 
-Nineteen arrived with first cold of autumn and did not stop. Twenty came week later. Twenty one, twenty two, twenty three, twenty four, twenty five — pour that had slowed shelf by shelf for half season now ran faster at its end than start, because blood feeds speed and speed feeds blood. Grey line at sixty five percent High gave plus one point three zero effective innate. Ghost at thirty five percent Mid gave plus zero point three five. Storm at fifteen percent Mid gave plus zero point two two five. Basic MASTERED High gave plus zero point five. Craft MASTERED High gave plus zero point three. Innate one became three point five. Wall at twenty was door with price, and price was paid, and water behind it kept coming. Twenty six, twenty seven, twenty eight, twenty nine — and stopped.
+Nineteen arrived with first cold of autumn and did not stop. Twenty came week later. Twenty one, twenty two, twenty three, twenty four, twenty five — pour that had slowed shelf by shelf for half season now ran faster at its end than start, because blood feeds speed and speed feeds blood. Grey line at sixty five percent High gave plus one point three zero effective innate. Ghost at thirty five percent Mid gave plus zero point three five. Storm at fifteen percent Mid gave plus zero point two two five. Basic evolving Low→Mid→High gave plus zero point five. Craft evolving Low→Mid→High gave plus zero point three. Innate one became three point five. Wall at twenty was door with price, and price was paid, and water behind it kept coming. Twenty six, twenty seven, twenty eight, twenty nine — and stopped.
 
 He knew stop. He had lived beside one for three years in father's shoulders. Water against stone, one number standing still in all world. Second wall at thirty. Door forest kept keys to.
 
@@ -95,30 +95,30 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Slots: 3 / 3 / 3」
 > 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」
 > 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」
-> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」
-> 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」
-> 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」
+> 「Technique — Basic Soul Power Cultivation: 100% → Silent Wind Step Mid 1% (evolution chain) · the engine, passive · High」
+> 「Technique — The Hunter's Craft: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the second slot · High」
+> 「Technique — The Grey Ridge Hunt: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the third slot · High」
 > 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」
 > 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」
 > 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」
 > 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」
 > 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」
 > 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」
-> 「Hunter's Sense: 100% · MASTERED · High」
-> 「Stillness: 100% · MASTERED · High」
-> 「Plain Speech: 100% · MASTERED · High」
-> 「Mountain Stride: 100% · MASTERED · High」
-> 「The Tally: 100% · MASTERED · High」
-> 「Spear: 100% · MASTERED · High」
-> 「Soul Power Control: 100% · MASTERED · High」
-> 「Observation: 100% · MASTERED · High」
-> 「Body Control: 100% · MASTERED · High」
-> 「Five Senses: 100% · MASTERED · High」
-> 「Reading: 100% · MASTERED · High」
-> 「Understanding: 100% · MASTERED · High」
-> 「Basic Spearmanship: 100% · MASTERED · High」
-> 「Cooking Skill: 100% · MASTERED · High」
-> 「Combat Style: 100% · MASTERED · High」
+> 「Hunter's Sense: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Stillness: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Plain Speech: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Mountain Stride: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「The Tally: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Spear: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Soul Power Control: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Observation: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Body Control: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Five Senses: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Reading: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Understanding: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Basic Spearmanship: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Cooking Skill: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Combat Style: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
 
 He read it twice, and found it honest — and found first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. Bloodline strange change — Grey sixty five High plus Ghost thirty five Mid plus Stormwind fifteen Mid plus both rings purple thousand-year — had awakened soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. Ledger counted evolution as it counted everything. Netherlight at thirteen fifty purple had upgraded — Ghost Veil: speed surge plus physical plus energy sliding off plus brief invisibility. Windstride at eighteen fifty purple had upgraded — Storm Step: burst plus wind blade plus afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — Hunt's own effects, and purple hidden as yellow to every eye but his.
 
@@ -128,8 +128,8 @@ Somewhere far down same turning of world, in same autumn, boy his own age with e
 
 ## Footer
 
-- Chapter time: pouring year — winter after first ring through leaving autumn, Ye Cang age ten going eleven. Levels pour 12→29 (17 levels) into second wall; engine MASTERED 5y High; craft MASTERED 1y High; fusion Grey Ridge Hunt High in third seat; last hunt at south crags — fast kind against patient kind, out-decided at fold in scree; Stormwind Demon Wolf 1,200→1,850 purple AGING by gate; RING TWO SEATED — second door opened, level 29 banked water, 30 gift, GREAT SOUL MASTER top at eleven, slots 3/3/3, storm-line blood Mid→High, third word arriving (*run.* — hunt. fade. run.) + fused Hunt; leaving; road east begun.
-- LAWS APPLIED: ENGINE'S OWN ARITHMETIC + THOUSAND-YEAR + LEVEL 29-30 — pour honest to hours + effective talent, wall alone ring-gated; MASTERY LAW — no invented stages — MASTERED first midwinter, 5y at mastery, grade Low→Mid→High, pool dark dense, fuses; craft MASTERED at kill, 1y at mastery High; FUSION LAW — smart people master complete all basics and fuse into named method with own effects; TRUE AGING THOUSAND-YEAR — rings age by pour, not calendar — Ghost 120→1,350 purple, Stormwind 1,200→1,850 purple; BLOODLINE INFLUENCE + CULTIVATION SPEED + GRADE EVOLUTION + APPEARANCE — bloodline not joke, gives many things canon perfectly, Grey Mid→High at 48→65, effective talent 2.96→3.5; RING'S FULL GRANT ring two thousand-year — skill, rank gift, soul's upgrade, body flood, blood, years, title; RING LAW — kill by own hand, father flank; KNOWLEDGE LAW — spirit-eyes boy's road converging same autumn, book opening; PANEL LAW — one FULL panel, road's first gate, 29 lines — thousand-year + everything Mid+ + fusion; NOTHING-FIXED LAW — every number current reading.
+- Chapter time: pouring year — winter after first ring through leaving autumn, Ye Cang age ten going eleven. Levels pour 12→29 (17 levels) into second wall; engine evolving 5y High; craft evolving 1y High; fusion Grey Ridge Hunt High in third seat; last hunt at south crags — fast kind against patient kind, out-decided at fold in scree; Stormwind Demon Wolf 1,200→1,850 purple AGING by gate; RING TWO SEATED — second door opened, level 29 banked water, 30 gift, GREAT SOUL MASTER top at eleven, slots 3/3/3, storm-line blood Mid→High, third word arriving (*run.* — hunt. fade. run.) + fused Hunt; leaving; road east begun.
+- LAWS APPLIED: ENGINE'S OWN ARITHMETIC + THOUSAND-YEAR + LEVEL 29-30 — pour honest to hours + effective talent, wall alone ring-gated; MASTERY LAW — no invented stages — evolving first midwinter, 5y at mastery, grade Low→Mid→High, pool dark dense, fuses; craft evolving at kill, 1y at mastery High; FUSION LAW — smart people master complete all basics and fuse into named method with own effects; TRUE AGING THOUSAND-YEAR — rings age by pour, not calendar — Ghost 120→1,350 purple, Stormwind 1,200→1,850 purple; BLOODLINE INFLUENCE + CULTIVATION SPEED + GRADE EVOLUTION + APPEARANCE — bloodline not joke, gives many things canon perfectly, Grey Mid→High at 48→65, effective talent 2.96→3.5; RING'S FULL GRANT ring two thousand-year — skill, rank gift, soul's upgrade, body flood, blood, years, title; RING LAW — kill by own hand, father flank; KNOWLEDGE LAW — spirit-eyes boy's road converging same autumn, book opening; PANEL LAW — one FULL panel, road's first gate, 29 lines — thousand-year + everything Mid+ + fusion; NOTHING-FIXED LAW — every number current reading.
 - Beats: frame arriving as freight + appearance; grey worn like coat; sledge runner and cold light arriving before fear; ring's work thousand-year; soul power control + observation + running surfaced and mastered; mastery cascade; fusion into Grey Ridge Hunt; honest five years at mastery; It's time / The skirts / Out-decide it + With Hunt; fold in scree; speed read as decision; point leading; shoulder's price; purple again; *run.*; mother's needle and silence; father's spear; Ye men stop at ten; road's just arithmetic; Old Kuo flat stroke; Little Shan two fingers returned whole; father watching road from inside trees; road's first gate; close — boy with eyes color of nothing walking out of great man's back gate toward same city, and ledger counting whole road.
 - PROPOSED: every number in road-gate panel; ring two whole; ring-aging pace thousand-year; level 29-30 per author's view; everything Mid+ per author's view; fusion method Grey Ridge Hunt; appearance; effective talent 3.5; bloodline not joke.
 - History: drafted 2026-09-26 — Gate 5, Arc 2 opened: pouring year, last hunt, road begun. Rebuilt clean and clear 2026-09-26 — prose tightened, avg 14-15, over60 0, the-way 0, band IN, 29 panels preserved.
