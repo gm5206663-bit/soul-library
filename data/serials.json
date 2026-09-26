@@ -64,6 +64,57 @@
    "words_label": "22K"
   },
   {
+   "title": "The Grey Wolf",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "LIVE · PERFECT REBUILD · CH 6",
+   "live": true,
+   "desc": "Ye Cang, a hunter-village boy with Grey Wolf martial soul and innate rank one, dies on Earth and wakes on Douluo with a System called Ledger. Beside canon, same years as Huo Yuhao. Six chapters rebuilt perfectly — clean and clear, no nonsense repetition, every chapter 2400-3400w gated green, effective talent 3.5x Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow.",
+   "note": "Perfect rebuild v0.7.0 2026-09-26 — Arc 1 Grey Ridge complete, Arc 2 hem-road craft daily life, Ch6 The Hem Road 2458w. Source: soul-land-2-the-grey-wolf repo.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf",
+   "repo_name": "soul-land-2-the-grey-wolf",
+   "id": "grey_wolf",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Grey_Wolf.md",
+     "title": "The Grey Wolf",
+     "words": 2875
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Quiet_Climb.md",
+     "title": "The Quiet Climb",
+     "words": 2428
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_Wall.md",
+     "title": "The Wall",
+     "words": 2414
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_The_Patient_Kind.md",
+     "title": "The Patient Kind",
+     "words": 2498
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05_The_Road_Begins.md",
+     "title": "The Road Begins",
+     "words": 3125
+    },
+    {
+     "n": 6,
+     "file": "Chapter_06_The_Hem_Road.md",
+     "title": "The Hem Road",
+     "words": 2458
+    }
+   ],
+   "total_words": 15798,
+   "words_label": "15K"
+  },
+  {
    "title": "The Devouring Dragon",
    "era": "Soul Land · one thousand years after Book One",
    "badge": "LIVE · GATE-PASS · CH 21",

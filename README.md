@@ -2,7 +2,7 @@
 
 **Read the serials.** Every gated Soul Land (斗罗大陆) fanfiction serial by
 [Gaurav Meena](https://github.com/gm5206663-bit), published as one clean reading
-site — 187 chapters, 781K+ words of chapter text, every shipped chapter
+site — 193 chapters, 796K+ words of chapter text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/
@@ -12,6 +12,7 @@ machine-checked against canon before it lands here.
 | Serial | Era | State |
 |---|---|---|
 | The Golden Lion | Soul Land 2 | 🔴 LIVE — new chapters near-daily (snapshot at build) |
+| The Grey Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 6 chapters — Arc 1 Grey Ridge complete, Arc 2 hem-road craft daily life, clean and clear gated |
 | The Devouring Dragon | Soul Land +1,000 years | 🔴 LIVE — 24 chapters, every one gate-PASS; the canon-voice rollout is republishing the early chapters as they're rewritten (Ch 1–10 live in the new voice); [the dragon's full status sheet](dd-status.html) |
 | Blue Silver | pre-canon | ✅ Book One complete — 15 chapters, all seven gates passing |
 | The Adaptive Prodigy | Soul Land 3 | 116 chapters, ten-layer verification suite all green |
@@ -20,7 +21,8 @@ machine-checked against canon before it lands here.
 ## How this is built
 
 - Chapter text is copied **unchanged** from the source of truth:
-  [soul-land-universal-kit](https://github.com/gm5206663-bit/soul-land-universal-kit).
+  [soul-land-universal-kit](https://github.com/gm5206663-bit/soul-land-universal-kit) and
+  [soul-land-2-the-grey-wolf](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf).
   When this library and the workspace disagree, the workspace wins.
 - Word counts are measured from the files, never typed.
 - The reader is one self-contained `index.html` — no frameworks, no CDN, no
