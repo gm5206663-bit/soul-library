@@ -1251,10 +1251,10 @@
   {
    "title": "Supergirl - Adrian Vale",
    "era": "DC TV Supergirl S01",
-   "badge": "LIVE \u00b7 CH 12 CLEAN \u00b7 53/53 PASS",
+   "badge": "LIVE \u00b7 CH 13 \u00b7 53/53 PASS",
    "live": true,
    "desc": "Native hybrid Kryptonian/Daxamite, Adaptation Talent, self-sealed human-level, works for Cat Grant. S01 canon on-page OC, no future knowledge. Ch9-12 clean rebuild: no ticker spam, no Cat private-secrets, proper superpowered fights, consensual romance kara.",
-   "note": "Foundation-022 2026-10-01 clean 8287w Ch9 R4 2148w Ch10 R3 2641w Ch11 R3 1933w Ch12 R3 1565w. Repo: supergirl-adrian-vale",
+   "note": "Foundation-023 Ch13 Human for a Day adopted 2460w clean - solar flare drain earthquake Jemm J'onn reveal Astra capture. Total 13 chapters.",
    "repo": "https://github.com/gm5206663-bit/supergirl-adrian-vale",
    "repo_name": "supergirl-adrian-vale",
    "id": "supergirl_adrian_vale",
@@ -1310,13 +1310,13 @@
     {
      "n": 9,
      "file": "Chapter_09_Red_Faced_and_Named.md",
-     "title": "Red Faced and Named",
+     "title": "09 Red Faced and Named",
      "words": 2148
     },
     {
      "n": 10,
      "file": "Chapter_10_Red_Faced_Consequence.md",
-     "title": "Red Faced Consequence",
+     "title": "10 Red Faced Consequence",
      "words": 2641
     },
     {
@@ -1330,10 +1330,16 @@
      "file": "Chapter_12_The_Kiss.md",
      "title": "12 The Kiss",
      "words": 1565
+    },
+    {
+     "n": 13,
+     "file": "Chapter_13_Human_for_a_Day.md",
+     "title": "13 Human for a Day",
+     "words": 2460
     }
    ],
-   "total_words": 41604,
-   "words_label": "41K"
+   "total_words": 44064,
+   "words_label": "44K"
   }
  ]
 }
