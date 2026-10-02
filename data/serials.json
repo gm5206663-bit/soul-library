@@ -1346,6 +1346,57 @@
    ],
    "total_words": 47261,
    "words_label": "47K"
+  },
+  {
+   "title": "One in a Thousand",
+   "era": "Soul Land 3 \u00b7 Legend of the Dragon King era",
+   "badge": "LIVE \u00b7 CH 6 \u00b7 NEW CHAPTERS AS GATED",
+   "live": true,
+   "desc": "Su Yan of Glorybound \u2014 the city physician's boy, born with the trash beast-soul Luo Sanpao and innate soul power one \u2014 walks his own road in the same town where canon's boy walks his. Canon whole, the OC woven in, every number earned and receipted.",
+   "note": "Chapters land only when the gates pass: canon fidelity, the register check, every seal held. Follow the freshest chapters in the source repo.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit \u00b7 soul_land_3_oc",
+   "id": "one_in_a_thousand",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Reading.md",
+     "title": "The Reading",
+     "words": 4558
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_House_and_the_Road.md",
+     "title": "The House and the Road",
+     "words": 5981
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_A_Bowl_and_a_Name.md",
+     "title": "A Bowl and a Name",
+     "words": 7444
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_A_Thousand_Times.md",
+     "title": "A Thousand Times",
+     "words": 10809
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05_Three_Winters.md",
+     "title": "Three Winters",
+     "words": 14033
+    },
+    {
+     "n": 6,
+     "file": "Chapter_06_Thirty_Thousand.md",
+     "title": "Thirty Thousand",
+     "words": 11490
+    }
+   ],
+   "total_words": 54315,
+   "words_label": "54.3K"
   }
  ]
 }
