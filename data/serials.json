@@ -1251,10 +1251,10 @@
   {
    "title": "Supergirl - Adrian Vale",
    "era": "DC TV Supergirl S01",
-   "badge": "LIVE \u00b7 CH 14 \u00b7 53/53 PASS",
+   "badge": "LIVE \u00b7 CH 14 \u00b7 NATURAL BUTTERFLY ALIVE",
    "live": true,
    "desc": "Native hybrid Kryptonian/Daxamite, Adaptation Talent, self-sealed human-level, works for Cat Grant. S01 canon on-page OC, no future knowledge. Ch9-12 clean rebuild: no ticker spam, no Cat private-secrets, proper superpowered fights, consensual romance kara.",
-   "note": "Ch14 Hostile Takeover adopted 2963w clean - Astra kryptonite suit immune Cat email hack Armstrong Adam son Cat knows Kara is Supergirl Lord Tech attack. Total 14 chapters.",
+   "note": "Ch13 R2 rebuilt natural butterfly alive Adrian seen 2694w - sun gave more energy so solar flare bigger deeper drain longer than canon 48h, Wraith helps debris private monitor closed, Adrian sealed chipped mug theater mask magnet, catches Kara, family now. Ch14 Hostile Takeover 2963w.",
    "repo": "https://github.com/gm5206663-bit/supergirl-adrian-vale",
    "repo_name": "supergirl-adrian-vale",
    "id": "supergirl_adrian_vale",
@@ -1335,7 +1335,7 @@
      "n": 13,
      "file": "Chapter_13_Human_for_a_Day.md",
      "title": "13 Human for a Day",
-     "words": 2460
+     "words": 2694
     },
     {
      "n": 14,
@@ -1344,7 +1344,7 @@
      "words": 2963
     }
    ],
-   "total_words": 47027,
+   "total_words": 47261,
    "words_label": "47K"
   }
  ]

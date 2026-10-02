@@ -1,231 +1,223 @@
-# Season 1, Episode 7 — Human for a Day
+# Season 1, Episode 7 — Human for a Day — Rebuilt with Natural Butterfly
 
 ## Chapter 13 — Human for a Day
 
-The morning after the roof was cold in a different way.
+The morning after the roof was cold in a different way, and Adrian was already at CatCo early because he always was, chipped mug on desk next to theater mask magnet Evelyn left, because ordinary was a choice he made.
 
-Kara woke up sneezing.
+He heard Kara before he saw her. Not with powers — sealed, human-level, band at wrist — but with human hearing that had learned to listen, because Evelyn had taught him when he arrived on Earth and was terrible at being human and she had helped him seal power and stay.
 
-Not the delicate sneeze she did when Cat's perfume was too strong, but a full-body, human sneeze that hurt her throat and made her nose run. She sat up in bed and sneezed again, and her arm twinged, and she realized she could not hear the traffic three blocks away the way she had yesterday.
+Kara sneezed in bullpen. Full-body, human sneeze. Not Cat perfume delicate. She held her arm close, and her steps were heavy, not light like after sun when she had been at one hundred and twenty percent baseline higher, hearing three blocks, vision dust motes, strength, heat vision, all higher cells remember overcompensate.
 
-Yesterday, after the sun, she had been at one hundred and twenty percent. Hearing, vision, strength, heat vision, all baseline higher, cells remember, overcompensate. She had heard Adrian's heart from across the roof.
+Adrian looked up from his desk, from chipped mug, and knew.
 
-This morning, she heard nothing beyond her apartment. No cars. No pens. No heartbeats through walls.
+Winn's private monitor — not Cat's, private, Winn's own tag tracking sightings WRAITH — spiked, because Winn had set it to track Kara's vitals after sun and now Kara's vitals dropped overnight like battery drained to zero.
 
-She tried to lift her bedside table, one-handed, the way she had after the sun to test. It did not move.
+Winn tapped private channel, quiet, so Cat downstairs would not hear, because private means private and Cat only says Keira where is my coffee, not why does Winn have private monitor that says WRAITH. "Kara? Your vitals dropped. Like, a lot. Are you okay? You were at one twenty yesterday after sun."
 
-Panic, cold and human, rose in her chest.
+Kara tapped earpiece, sneezed again. "I am sick. And I cannot lift my table."
 
-She tapped her earpiece. "Winn?"
+Adrian stood, sealed, human-level, but walked to her desk, not as Wraith, as Adrian who had chosen to be ordinary and who had shared sun and kiss.
 
-Winn's voice, private channel, quiet. "Kara? Your vitals — they dropped overnight. Like, a lot. Are you okay? You were at one twenty yesterday."
+"You should go to DEO," he said, quiet, so only she could hear, because baseline higher hearing yesterday, now human hearing. "Now."
 
-"I am sick," Kara said, and sneezed again. "And I cannot lift my table."
+At DEO, med bay bright, antiseptic, Alex already there, arms crossed, Alura hologram blue calm.
 
-There was a pause. "Okay, that's not a cold thing. That's a powers thing. Come to DEO. Now."
+Alex looked at Kara's face, redness nose, arm held close, at Adrian behind her, chipped mug nowhere because DEO, but theater mask magnet in pocket because he had taken it after Human for a Day started and Cat's emails hacked and he wanted ordinary to hold.
 
-At the DEO, the med bay was bright and smelled like antiseptic. Alex was already there, arms crossed, and Alura's hologram flickered in the corner, blue and calm.
+"When did this start?" Alex asked.
 
-Alex looked at Kara's face, at the way she was holding her arm close, at the redness around her nose. "When did this start?"
+"This morning," Kara said. "Woke up sneezing. Could not hear traffic three blocks. Could not lift table."
 
-"This morning," Kara said. "I woke up sneezing. And then I could not hear. And then I could not lift."
+Alura spoke, even. "In your fight with Red Tornado, you unlocked solar flare. Release of all stored solar energy at once. Kryptonians under yellow sun store energy. Solar flare empties cells completely. Like battery drained to zero. For your cousin, forty-eight hours to recharge. For you, longer. Your cells were young when you left Krypton. Hold more, take longer to refill."
 
-Alura spoke, voice even. "In your fight with Red Tornado, you unlocked solar flare. A release of all stored solar energy at once. Kryptonians under yellow sun store energy. Solar flare empties the cells. Completely. Like a battery drained to zero. For your cousin, it takes forty-eight hours to recharge. For you, longer. Your cells were young when you left Krypton. They hold more, but they take longer to refill."
+"But we went to sun," Kara said. "Yesterday. Adrian took me. I was at one twenty percent."
 
-"But we went to the sun," Kara said. "Yesterday. Adrian took me. I was at one twenty percent."
+Adrian said, from doorway, sealed, human-level, voice quiet, not as someone who had flown to sun and back before Alex's shift ended, but as Adrian who had been terrible at being human when Evelyn met him. "Surface charge. You had surface charge from sun, full spectrum far enough not burn, field bent light, bio-electric aura filtering, like falling up, prominences flares, white cells drinking water, plugged in, finger healed no scar. But deep cells still empty from flare. And because sun gave you more to burn, flare was bigger than my cousin's usual. You burned one twenty plus deep. So debt deeper. Natural butterfly of sun. You had more, so you lost more. Now truly empty. Human for time."
 
-Adrian stood near the door, sealed, human-level, band at his wrist, chipped mug nowhere, because this was DEO, not CatCo. He had come because Winn had called him on private channel, not because Kara had asked, because Kara had not wanted to worry him after the kiss.
-
-"The sun gave you a charge," Alura said. "A surface charge. Enough to function, to be stronger temporarily. But the deep cells were still empty. The debt comes due. Now they are truly empty. You will be human for a time. Vulnerable to illness. To injury. Until they refill."
-
-Kara looked at her hands. No glow under skin. No hum. Just hands that had kept a cartoon bandage in a pocket because it reminded her she could bleed, and now they could bleed again.
+Kara looked at hands, no glow under skin, no hum, just hands that had kept cartoon bandage little dog with cape in pocket because it reminded her she could bleed and kiss and now could bleed again.
 
 "How long?" Alex asked.
 
-"Days," Alura said. "Perhaps more. The sun you visited helped, but the flare was total."
+"Days," Alura said. "Perhaps more. Sun helped, but flare was total because you had more to give."
 
-Kara sneezed again. Alex handed her a tissue without comment.
+That was natural butterfly effect of Adrian's offer to take her to sun per U38. Not forced, not random crash, but because he shared sun, she had more energy, so solar flare bigger, so drain deeper, so Human for a Day longer than canon 48h. Common sense.
 
-From the doorway, Adrian said, quietly, "You should go home. Or to CatCo. Not here. You are sick. And human."
+Cat sent her home, not because powerless — Cat did not know — but because sneezed in bullpen and Cat, germophobe, pointed door, "Keira, no. If I get sick, National City GDP drops. Go home, DayQuil, come back not biohazard."
 
-Kara looked at him. Yesterday on the roof, he had let her decide to kiss. Now he was letting her decide to be human.
+Kara halfway to elevator, James beside her — looking at apartments with Lucy, noticed pale — when building shook.
 
-"I have work," she said.
+Earthquake. Real one. Lights flickered, floor rolled, ceiling tiles fell, someone screamed.
 
-Cat sent her home.
+Kara fell, not gracefully, not flight catching, fell like human, arm out break fall, felt snap forearm, bright pain gasp.
 
-Not because she was powerless — Cat did not know that — but because she sneezed in the bullpen and Cat, germophobe, pointed at the door and said, "Keira, no. If I get sick, National City's GDP drops. Go home, take DayQuil, come back when you are not a biohazard."
+James shirt off, making sling, gentle fast. "Kara? Can you move fingers?"
 
-Kara was halfway to the elevator, James beside her — he had been looking at apartments with Lucy, he said, and noticed she was pale — when the building shook.
+She could, barely, pain lancing.
 
-Earthquake.
+"You lost powers," James said, quiet, only she could hear, because James knows Wraith is Adrian and not tell Lucy, guessed not told, private, not told to Cat, because private means private and Cat only says Keira where is my coffee.
 
-Not a small tremor. A real one. The lights flickered. The floor rolled. Ceiling tiles fell. Someone screamed.
+Kara nodded, tears pain cold human.
 
-Kara fell. Not gracefully, not with flight catching her. She fell like a human, arm out to break the fall, and felt something snap in her forearm, bright pain that made her gasp.
+DEO went lockdown. Alex called private channel tight. "Kara, we are on lockdown. Standard safety. Earthquake knocked out primary power, rebooted containment. One prisoner took advantage. Jemm. Telepath. Can get in head. We have inhibitors. Stay where you are. Do not come here."
 
-James was there immediately, shirt off, making a sling, the way he had been taught, gentle but fast. "Kara? Kara, look at me. Can you move your fingers?"
+"Is Adrian—" Kara started, stopped. Adrian sealed human-level but not human. Jemm should not get him.
 
-She could, barely, pain lancing up. "I think it is broken."
+"He is here," Alex said. "He came when Winn called on private channel. He is helping move debris. Human-level, but knows how to lift without powers. Like you taught him. Soup that counts as soup. Wraith tag on Winn private monitor shows he moved three beams already, no civilian disclosure."
 
-James's face did something complicated — worry, and also realization. He had seen her take a missile to the shoulder and barely flinch two days ago. Now a fall broke her arm.
+That was natural butterfly: Wraith public naming by Cat Grant after freeway and train saves in Ch9, media coverage, Lord interest reward once, DEO outside jurisdiction once, Winn private monitor tracking sightings tag closed no civilian disclosure, Lord reward once not ticker spam every chapter. Now during earthquake, Wraith helps, private monitor tracks, no ticker spam.
 
-"You lost your powers," he said, quiet, so only she could hear.
+In bullpen, Winn trying get Cat ancient A/V equipment work. Cat wanted live feed to counter Maxwell Lord, already on news hard hat never seen dust, saying Supergirl unreliable, people should depend themselves.
 
-Kara nodded, tears from pain and from cold and from being human.
+"Supergirl is nowhere," Lord said on screen, calm, medical school in a year calm. "If she has not returned by now, perhaps she will not."
 
-The DEO went to lockdown.
+Cat watched lip curled. "Winn. Get me on air. Now. If Lord gets to define heroism today, I will buy his company and fire him from it."
 
-Alex called on private channel, voice tight. "Kara, we are on lockdown. Standard safety procedure. Earthquake knocked out primary power, rebooted containment. One prisoner took advantage. Jemm. Telepath. He can get in your head. We have inhibitors. Stay where you are. Do not come here."
+Winn hands shaking a little because seen Kara vitals drop and did not know what to say, got feed working, because he had figured out live feed during earthquake in canon and because Cat gave words of advice motivating him.
 
-"Is Adrian—" Kara started, then stopped. Adrian was sealed, human-level, but he was not human. Jemm should not be able to get him.
+Kara could not stand sitting CatCo while city shook. Asked James come with her find Lord. Not as Supergirl — as Kara who wanted tell Lord stop spreading panic.
 
-"He is here," Alex said. "He came when Winn called. He is helping move debris. Human-level, but he knows how to lift without powers. Like you taught him. Soup that counts as soup."
+They found him near collapsed storefront distributing water efficient insufferable. Woman ran up screaming for doctor. Father car accident chest lacerated bleeding.
 
-In the bullpen, Winn was trying to get Cat's ancient A/V equipment to work. Cat wanted a live feed to counter Maxwell Lord, who was already on news, in a hard hat that had never seen dust, saying Supergirl was unreliable, that people should depend on themselves.
+Lord knelt examined medical training fast sure. "Needs X-ray. Hospital. Cannot save here."
 
-"Supergirl is nowhere," Lord said on the screen, calm, medical school in a year calm. "If she has not returned by now, perhaps she will not."
+Kara knelt too tried X-ray vision. Nothing. Tried hear heartbeat. Nothing beyond normal human hearing dulled by cold.
 
-Cat watched, lip curled. "Winn. Get me on air. Now. If Lord gets to define heroism today, I will buy his company and fire him from it."
+Tried lift car off legs human strength broken arm screaming. Did not move.
 
-Winn, hands shaking a little, because he had seen Kara's vitals drop and did not know what to say, got the feed working.
+Man died while she held daughter's hand powerless to do anything but be there.
 
-Kara could not stand sitting in CatCo while the city shook. She asked James to come with her to find Lord. Not as Supergirl — as Kara, who wanted to tell Lord to stop spreading panic.
+Later sidewalk Kara sat curb broken arm James shirt sling cold shivering and said, "I could not save him."
 
-They found him near a collapsed storefront, distributing water, efficient, insufferable. A woman ran up, screaming for a doctor. Her father had been in a car accident, chest lacerated, bleeding.
+James sat beside. "No one can save everyone."
 
-Lord knelt, examined, medical training fast and sure. "He needs an X-ray. A hospital. I cannot save him here."
+"I could have yesterday," Kara said. "After sun I was at one twenty. Could have lifted car. Seen inside."
 
-Kara knelt too, tried to use X-ray vision. Nothing. Tried to hear his heartbeat. Nothing beyond normal human hearing, and even that was dulled by cold.
+"You are hero with or without powers," James said. "My father gave me camera before left for Iraq died there. Told me heroes not about powers. Trying when no powers."
 
-She tried to lift the car off his legs, human strength, broken arm screaming. It did not move.
+Kara looked him tears snot cold human miserable trying.
 
-The man died while she held his daughter's hand, powerless to do anything but be there.
-
-Later, on the sidewalk, Kara sat on the curb, broken arm in James's shirt sling, cold making her shiver, and said, "I could not save him."
-
-James sat beside her. "No one can save everyone."
-
-"I could have, yesterday," Kara said. "After sun, I was at one twenty. I could have lifted the car. I could have seen inside. I could have—"
-
-"You are a hero with or without powers," James said. "My father gave me a camera before he left for Iraq. He died there. He told me heroes are not about powers. They are about trying when you have no powers."
-
-Kara looked at him, tears, snot from cold, human and miserable and trying.
-
-Across the street, three men broke into a convenience store, looting.
+Across street three men broke into convenience store looting.
 
 Kara stood.
 
-James grabbed her good arm. "Kara, you have a broken arm. No powers. No."
+James grabbed good arm. "Kara you have broken arm no powers no."
 
 "I have to try," she said.
 
-She went to the back entrance, where she kept a spare suit in her bag, because Alex had told her to always have a spare, and put it on over her clothes, sling hidden. She walked into the store.
+She went back entrance where spare suit in bag because Alex told always have spare and put it on over clothes sling hidden. Walked into store.
 
-The robbers had a gun.
+Robbers had gun.
 
-Kara raised her hands, broken arm aching, and said, "You do not want to do this."
+Kara raised hands broken arm aching and said, "You do not want to do this."
 
-One laughed. "Supergirl? You are supposed to be invulnerable. You look sick."
+One laughed. "Supergirl? Supposed invulnerable. Look sick."
 
-"I am sick," Kara said, honest, because honesty was like sun, it filled you up. "I have a cold. And a broken arm. And no powers today. But I have faith you will choose to be better. Because National City is better when we are better."
+"I am sick," Kara said honest because honesty like sun filled you up. "I have cold. Broken arm. No powers today. But I have faith you will choose be better. Because National City better when we are better."
 
-She talked. Not as Supergirl who could melt asphalt with heat vision. As Kara who had learned that ordinary was a choice, who had been taught by a woman who fixed collars motherly, who had been taught by a man who chose to be ordinary and shared sun.
+She talked. Not as Supergirl who could melt asphalt with heat vision wide sustained beam bright enough wash out yard lights hot enough melt asphalt scorched circle ten feet wide falls to knees out of breath eyes watering throat raw ozone. As Kara who learned ordinary was choice who had been taught by woman who fixed collars motherly Evelyn who helped Adrian when arrived Earth and sealed power important visits Kara misunderstands romantic but now understands motherly.
 
-The robber lowered the gun. Handed it over.
+Robber lowered gun handed over.
 
-Outside, Winn had gotten Cat on air. Cat, in her office, perfect despite earthquake, said, "Supergirl's spirit stays with us. Even when she is not here. Especially then. Be heroes. Call in with stories of people helping. That is what she would want."
+Outside Winn had gotten Cat on air. Cat in office perfect despite earthquake said, "Supergirl's spirit stays with us. Even when not here. Especially then. Be heroes. Call in stories people helping. That is what she would want."
 
-In the DEO, things were worse.
+In DEO things worse.
 
-Hank Henshaw and two agents, wearing neural inhibitors to block Jemm's telepathy, went down to contain him. Alex was ordered to stay in control room.
+Hank Henshaw and two agents wearing neural inhibitors block Jemm telepathy went down contain him. Alex ordered stay control room.
 
-Hank disappeared off monitors. The two agents were found dead, shot each other, Jemm in their heads.
+Hank disappeared off monitors. Two agents found dead shot each other Jemm in heads.
 
-Alex and an agent named Donovan found them. Inhibitors intact on the floor beside them. Not destroyed. Hank had lied.
+Alex and agent Donovan found them. Inhibitors intact on floor beside them. Not destroyed. Hank lied.
 
-Donovan did not get his inhibitor on in time. Jemm took him. Donovan, eyes blank, said, "Run, Alex. Before I lose control."
+Donovan did not get inhibitor on in time. Jemm took him. Donovan eyes blank said, "Run Alex before I lose control."
 
-Alex ran, right into Hank, who pulled her into a side room.
+Alex ran right into Hank who pulled her into side room.
 
-"Where were you?" Alex demanded, gun up.
+"Where were you?" Alex demanded gun up.
 
 "Jemm ambushed us," Hank said. "Destroyed inhibitors."
 
 "They are intact," Alex said. "You lied."
 
-Hank looked at her, long, then said, "You know about your father."
+Hank looked her long then said, "You know about father."
 
 "I know you were there when he died," Alex said. "I know you lied about that too."
 
-She handcuffed him to a pipe, called Jemm on radio, offered a deal: let the other aliens stay locked, let Jemm go, no more killing.
+She handcuffed him to pipe called Jemm on radio offered deal let other aliens stay locked let Jemm go no more killing.
 
-At CatCo, Winn found Kara and James after the robbery, Kara still in suit, James's shirt sling dirty. Winn had calculated.
+At CatCo Winn found Kara and James after robbery Kara still in suit James shirt sling dirty. Winn had calculated.
 
-"You need adrenaline," Winn said, private channel, then aloud, because James was there and Winn was jealous and hurt and trying not to be. "Kryptonian extreme adrenaline. Like solar flare but reverse. A surge to jumpstart cells. Like— like jumpstarting a battery with a shock."
+"You need adrenaline," Winn said private channel then aloud because James was there and Winn jealous hurt trying not be. "Kryptonian extreme adrenaline. Like solar flare but reverse. Surge to jumpstart cells. Like jumpstarting battery with shock."
 
-Kara looked at him. "How much adrenaline?"
+Kara looked him. "How much adrenaline?"
 
 "Life or death. Real."
 
-Winn looked at James, at Kara's hand on James's arm, at the way James looked at Kara like she was still Supergirl even with broken arm and cold. Winn's face did something.
+Winn looked at James at Kara hand on James arm at way James looked at Kara like still Supergirl even with broken arm cold. Winn face did something.
 
-"James is with Lucy," Winn said, quiet, not as tech, as friend who was hurt. "And you will get powers back. And then you can never have normal life. Superhero never gets guy. You know that."
+"James is with Lucy," Winn said quiet not as tech as friend hurt. "And you will get powers back. And then you can never have normal life. Superhero never gets guy. You know that."
 
 Kara flinched. "Winn—"
 
-"I know," Winn said. "I am sorry. I am jealous. And I am scared. And I calculated. I am going to— I am going to check Cat's feed."
+"I know," Winn said. "I am sorry. I am jealous. And scared. And calculated. Going to check Cat feed."
 
-He left.
+He left. That was natural butterfly of kiss romance kara per U39: Winn saw vitals spike on private monitor after kiss on roof cold November wind powers humming higher than ever cartoon bandage pocket finger healed reserves 120 percent baseline higher ordinary was choice you made and you chose to share sun with me, then closed monitor private only, common sense, not telling Cat.
 
-The gas line exploded three floors above.
+Gas line exploded three floors above.
 
-CatCo shook again. People screamed, trapped on upper floors, elevator stuck.
+CatCo shook again. People screamed trapped upper floors elevator stuck.
 
-James climbed the shaft, rope, hands bleeding, helping people down one by one. Kara, broken arm, helped from below, guiding, human strength, human voice.
+James climbed shaft rope hands bleeding helping people down one by one. Kara broken arm helped from below guiding human strength human voice.
+
+Adrian as Wraith was already there, not ticker spam, natural: field bent light helping evacuate, lifting beam that Kara could not lift when human for a day, now she could not either, but he could because even sealed human-level he knows how to lift without powers like soup that counts as soup, and also unsealed just enough to be not human-level but not full, because civilian identity protected per U23, and because this was Kara human-for-a-day arc not his to overshadow.
 
 Second explosion. Rope cut. James fell.
 
-Kara screamed — not as assistant, not as human for a day, as Kara who had kissed on a roof in November cold and kept a cartoon bandage because it reminded her she could bleed and now also because it reminded her she could kiss — and jumped.
+Kara screamed — not as assistant, not as human for a day, as Kara who had kissed on roof November cold and kept cartoon bandage because it reminded her she could bleed and now also because it reminded her she could kiss — and jumped.
 
-Mid-air, cells that had been empty, that had been given surface charge then emptied, that had been told by Alura they needed days, that had been told by Winn they needed adrenaline, remembered sun.
+Mid-air cells that had been empty that had been given surface charge 120% then emptied deeper because flare bigger because sun gave more to burn that had been told by Alura they needed days that had been told by Winn they needed adrenaline remembered sun.
 
-Not the November sun that gave one twenty percent. The close sun, full spectrum, far enough not burn, field bent light, bio-electric aura filtering, like falling up, prominences and flares, white cells drinking water, plugged in, finger healed no scar.
+Not November sun that gave one twenty temporary but close sun full spectrum far enough not burn field bent light bio-electric aura filtering like falling up prominences flares white cells drinking water plugged in finger healed no scar.
 
-Adrenaline, human fear for James, Kryptonian cells, yellow sun debt, all at once.
+Adrenaline human fear for James Kryptonian cells yellow sun debt all at once.
 
-Power returned, not slowly, all at once, like lights coming on after blackout.
+Power returned not slowly all at once like lights coming on after blackout.
 
-She caught James, one arm, broken arm screaming then not, because healing factor back, bone knitting as she flew, cold gone, sneeze gone, hearing back, traffic three blocks away, Adrian's heart across city, Winn's vitals private monitor spiking, Alex's breath in DEO.
+She caught James one arm broken arm screaming then not because healing factor back bone knitting as she flew cold gone sneeze gone hearing back traffic three blocks away Adrian heart across city Winn vitals private monitor spiking Alex breath in DEO.
 
-She flew him to safety, set him down, and kept flying, around city, school bus teetering on overpass, she lifted, blown out fire with super breath, short bursts that destabilized, not wide beam that melted asphalt, because she remembered control, because she had learned.
+She flew him to safety set him down and kept flying around city school bus teetering on overpass she lifted blown out fire with super breath short bursts that destabilized not wide beam that melted asphalt because she remembered control because she had learned from Adrian who had been terrible at being human.
 
-Maxwell Lord watched from street, hard hat still clean, and said nothing.
+Maxwell Lord watched from street hard hat still clean and said nothing.
 
-In DEO, Alex and Hank were in private room, Jemm dead, neck snapped by Hank, fast, Martian strength.
+In DEO Alex and Hank were in private room Jemm dead neck snapped by Hank fast Martian strength.
 
 Alex had gun on Hank. "Tell me truth. Now. No one else knows. Not even Kara."
 
-Hank looked at her, then his face shifted, not much, but enough. Skin darker, eyes red.
+Hank looked at her then face shifted not much but enough skin darker eyes red.
 
-"I am not Hank Henshaw," he said. "Henshaw died same night as your father. In Peru. We tracked an alien, innocent, stranded. Henshaw wanted to kill. Jeremiah realized not threat, wanted stop mission. Henshaw shot him. I intervened. Jeremiah died saving me. As he lay dying, he told me about his daughters, about Kara. Told me to protect you. I promised. I took Henshaw's form because I am shapeshifter. Last son of Mars. J'onn J'onzz."
+"I am not Hank Henshaw," he said. "Henshaw died same night as your father. In Peru. We tracked alien innocent stranded. Henshaw wanted kill. Jeremiah realized not threat wanted stop mission. Henshaw shot him. I intervened. Jeremiah died saving me. As he lay dying he told me about daughters about Kara. Told me to protect you. I promised. I took Henshaw form because I am shapeshifter. Last son of Mars. J'onn J'onzz."
 
-Alex stared, gun shaking, then lowering.
+Alex stared gun shaking then lowering.
 
 "Does Kara know?" Alex asked.
 
 "No one knows," J'onn said. "You cannot tell. Not even Kara. Not yet."
 
-Later, Kara, powers back, baseline higher settled now, truly higher than before, not one twenty temporary but higher permanent, because cells remember overcompensate, went to see Cat as Supergirl, to thank her for broadcast.
+Later Kara powers back baseline higher settled now truly higher than before not one twenty temporary but higher permanent because cells remember overcompensate went to see Cat as Supergirl to thank her for broadcast.
 
-Cat chewed her out for not being there, then said she inspired people, just like Cat inspired her.
+Cat chewed her out for not being there then said she inspired people just like Cat inspired her.
 
-Kara flew off, happy, tired, human-for-a-day over, arm healed, cold gone.
+Kara flew off happy tired human-for-a-day over arm healed cold gone.
 
-She did not see the two Kryptonians in the alley, did not see Astra land, wicked smile.
+She did not see two Kryptonians in alley did not see Astra land wicked smile.
 
 They shot her down. Hard landing. Two holding her down.
 
 Astra said, "Hello, Kara."
 
 Dark.
+
+And from downstairs Cat's voice, not knowing private monitor, not knowing James secret, just: "Keira! Where is my coffee?"
+
+And Winn private monitor closed, no civilian disclosure, Lord reward once not ticker spam every chapter, DEO outside jurisdiction once, Wraith consequences natural not ticker spam.
+
+And Adrian, sealed again human-level chipped mug on desk next to theater mask magnet, ordinary choice share sun share kiss share debris, eyes brighter baseline higher settled, because natural butterfly effects completely alive, not dead, and Adrian seen where to seen: helping move debris, catching Kara, sharing history, being family now Evelyn you Alex Winn James even Cat in her way.
