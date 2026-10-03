@@ -2,7 +2,7 @@
 
 **Read the serials.** Every gated Soul Land (斗罗大陆) fanfiction serial by
 [Gaurav Meena](https://github.com/gm5206663-bit), published as one clean reading
-site — 214 chapters, 906K+ words of chapter text, every shipped chapter
+site — 214 chapters, 907K+ words of chapter text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/
@@ -17,7 +17,7 @@ machine-checked against canon before it lands here.
 | Blue Silver | pre-canon | ✅ Book One complete — 15 chapters, all seven gates passing |
 | The Adaptive Prodigy | Soul Land 3 | 116 chapters, ten-layer verification suite all green |
 | The Unraveled Tide | Soul Land 2 | 24 chapters, paused |
-| One in a Thousand | Soul Land 3 | 🔴 LIVE — 7 chapters, 62K words; the OC beside canon in Glorybound |
+| One in a Thousand | Soul Land 3 | 🔴 LIVE — 7 chapters, 63K words; the OC beside canon in Glorybound |
 
 ## How this is built
 
