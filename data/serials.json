@@ -1350,7 +1350,7 @@
   {
    "title": "One in a Thousand",
    "era": "Soul Land 3 \u00b7 Legend of the Dragon King era",
-   "badge": "LIVE \u00b7 CH 6 \u00b7 GATE-PASS",
+   "badge": "LIVE \u00b7 CH 7 \u00b7 GATE-PASS",
    "live": true,
    "desc": "Su Yan of Glorybound \u2014 the city physician's boy, born with the trash beast-soul Luo Sanpao and innate soul power one \u2014 walks his own road in the same town where canon's boy walks his. Canon whole, the OC woven in, every number earned and receipted.",
    "note": "Chapters land only when the gates pass. The canon runs whole; the OC walks beside it.",
@@ -1393,10 +1393,16 @@
      "file": "Chapter_06_Thirty_Thousand.md",
      "title": "Thirty Thousand",
      "words": 11314
+    },
+    {
+     "n": 7,
+     "file": "Chapter_07_The_Refusal.md",
+     "title": "The Refusal",
+     "words": 10331
     }
    ],
-   "total_words": 51963,
-   "words_label": "52K"
+   "total_words": 62294,
+   "words_label": "62K"
   }
  ]
 }
