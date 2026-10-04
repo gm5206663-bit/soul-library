@@ -1251,10 +1251,10 @@
   {
    "title": "Supergirl - Adrian Vale",
    "era": "DC TV Supergirl S01",
-   "badge": "LIVE \u00b7 CH 14 \u00b7 NATURAL BUTTERFLY ALIVE ADRIAN SEEN",
+   "badge": "LIVE \u00b7 CH 15 \u00b7 NATURAL BUTTERFLY ALIVE",
    "live": true,
    "desc": "Native hybrid Kryptonian/Daxamite, Adaptation Talent, self-sealed human-level, works for Cat Grant. S01 canon on-page OC, no future knowledge. Ch9-12 clean rebuild: no ticker spam, no Cat private-secrets, proper superpowered fights, consensual romance kara.",
-   "note": "Ch13 R2 2694w natural butterfly alive: sun gave more energy so solar flare bigger deeper drain longer than canon 48h, Wraith helps debris private monitor closed, Adrian sealed chipped mug theater mask magnet catches Kara family now. Ch14 R2 2250w natural butterfly alive Adrian seen where to seen early CatCo DEO bullpen debris Wraith evacuate catch family. Total 14 chapters.",
+   "note": "Ch15 Blood Bonds 1675w natural butterfly alive Adrian seen - Non takes Hank hostage, Alex Director Danvers, Cat interrogates Kara Titanic, Lane Kryptonite torture, James Winn infiltrate Lord Tech biometric door Max punches breaks camera, Astra gives up Non position trap bomb, Kara finds bloodied James, Alura believed Krypton doomed hope not fear, trade Hank for Astra Non summons prisoners Astra orders stand down, J'onn poses as Supergirl Cat convinced not, Jane Doe black eyes Bizarro. Total 15 chapters.",
    "repo": "https://github.com/gm5206663-bit/supergirl-adrian-vale",
    "repo_name": "supergirl-adrian-vale",
    "id": "supergirl_adrian_vale",
@@ -1342,10 +1342,16 @@
      "file": "Chapter_14_Hostile_Takeover.md",
      "title": "14 Hostile Takeover",
      "words": 2250
+    },
+    {
+     "n": 15,
+     "file": "Chapter_15_Blood_Bonds.md",
+     "title": "15 Blood Bonds",
+     "words": 1675
     }
    ],
-   "total_words": 46548,
-   "words_label": "46K"
+   "total_words": 48223,
+   "words_label": "48K"
   },
   {
    "title": "One in a Thousand",
