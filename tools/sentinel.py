@@ -63,6 +63,10 @@ def main():
 
     # ── per-serial checks against the live workspace ─────────────────────
     if kit:
+        # 2026-10-07 sweep: blue_silver was PARKED by the author on 2026-09-30 and
+        # moved under _archive/2026-09-30_park/ — the old path here crashed nothing
+        # but counted a missing tree as a fail. Parked trees get checked where they
+        # now live, and their receipts must still say what they say.
         specs = [
             ('devouring_dragon', 'soul_land_devouring_dragon', 'chapters',
              r'after Chapter (\d+)', 'foundation/STATUS_PANEL.md'),
@@ -70,16 +74,18 @@ def main():
              r'chapters live: \*\*(\d+)\*\*', 'foundation/STATUS_PANEL.md'),
             ('unraveled_tide', 'Soul_Land_2_Project', 'chapters',
              r'Chapter (\d+)', 'foundation/STATUS_PANEL.md'),
-            ('blue_silver', 'blue_silver', 'chapters_rebuilt',
+            ('one_in_a_thousand', 'soul_land_3_oc', 'chapters', None, None),
+            ('blue_silver (parked)', '_archive/2026-09-30_park/blue_silver', 'chapters_rebuilt',
              r'(\d+) rebuilt chapters', 'README.md'),
         ]
         for sid, rel, chdir, rx, panelf in specs:
+            lid = sid.split(' ')[0]          # library id (display names may carry a note)
             disk = count_md(os.path.join(kit, rel, chdir))
             if disk < 0:
                 add(sid, 'chapters on disk', False, f'{rel}/{chdir} not found'); continue
             add(sid, 'chapters on disk', True, f'{rel}/{chdir}: {disk} chapter files')
-            p = os.path.join(kit, rel, panelf)
-            if os.path.exists(p):
+            p = os.path.join(kit, rel, panelf) if panelf else ''
+            if panelf and os.path.exists(p):
                 m = re.search(rx, open(p, encoding='utf-8').read())
                 if m:
                     claimed = int(m.group(1))
@@ -87,15 +93,22 @@ def main():
                         f'{panelf} claims {claimed}; disk has {disk}')
             # compare LIVE EDGES (max numbered chapter), not raw counts: the
             # library may legitimately carry labelled variants (e.g. Tide 8-B)
-            lib_max = lib_edges.get(sid)
+            lib_max = lib_edges.get(lid)
             if lib_max is not None:
                 disk_max = max((int(m.group(2)) for f2 in os.listdir(os.path.join(kit, rel, chdir))
                                 for m in [re.match(r'^(chapter_|Chapter_)([0-9]+)([_].*)?[.]md$', f2)] if m), default=0)
                 add(sid, 'library live-edge vs disk', lib_max == disk_max,
                     f'library edge: Ch {lib_max}; disk edge: Ch {disk_max} (live serials drift — refresh the snapshot)',
                     warn=(lib_max != disk_max and sid in ('golden_lion', 'devouring_dragon')))
-        sl3 = count_md(os.path.join(kit, 'Soul_Land_3_Project', 'chapters'))
-        add('adaptive_prodigy', 'chapters on disk', sl3 >= 116, f'Soul_Land_3_Project/chapters: {sl3} files')
+        # 2026-10-03 the author's word ("delete, not joke around") removed the
+        # Adaptive Prodigy tree from the kit; its 116 chapters live on the shelf and
+        # in the private fiction repo. Absence is the CORRECT state now — assert it
+        # instead of measuring a tree that must not exist (the old check crashed).
+        sl3p = os.path.join(kit, 'Soul_Land_3_Project')
+        add('adaptive_prodigy', 'tree absent (deleted by author ruling 2026-10-03)',
+            not os.path.isdir(sl3p),
+            'tree deleted 2026-10-03 by the author\'s word — shelf (116 ch) + private repo are the copies'
+            if not os.path.isdir(sl3p) else 'tree is BACK on disk — confirm against the author\'s delete ruling')
 
         # ── the real gates, actually run ──────────────────────────────────
         out, rc = run('python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py --project soul_land_devouring_dragon', kit)
@@ -103,9 +116,10 @@ def main():
             'VERDICT: ' + ('PASS' if rc == 0 else 'FAIL') + f' ({count_md(os.path.join(kit,"soul_land_devouring_dragon","chapters"))}/{count_md(os.path.join(kit,"soul_land_devouring_dragon","chapters"))} footers)')
         out, rc = run('python3 checks/verify.py', os.path.join(kit, 'soul_land_2_new'))
         add('golden_lion', 'sl2-goldenv gate', rc == 0, out.strip().splitlines()[-1][:90])
-        out, rc = run('sh checks/run_all.sh', os.path.join(kit, 'Soul_Land_3_Project'))
-        add('adaptive_prodigy', 'ten-layer run_all', rc == 0,
-            out.strip().splitlines()[-1][:110])
+        if os.path.isdir(os.path.join(kit, 'Soul_Land_3_Project')):
+            out, rc = run('sh checks/run_all.sh', os.path.join(kit, 'Soul_Land_3_Project'))
+            add('adaptive_prodigy', 'ten-layer run_all', rc == 0,
+                out.strip().splitlines()[-1][:110])
 
         # ── frozen trees must SAY they are frozen (2026-09-23 catch) ──────
         p = os.path.join(kit, 'soul_land_3_new', 'foundation', 'STATUS_PANEL.md')
@@ -129,10 +143,12 @@ def main():
         add('devouring_dragon', 'continuity lint (timeline/places/coverage)', rc == 0,
             out.strip().splitlines()[-1][:110] if out.strip() else 'no output')
 
-        # ── blue_silver live Book One under the unified gate ─────────────
-        out, rc = run('python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py --project blue_silver', kit)
-        add('blue_silver', 'unified gate (live Book One)', rc == 0,
-            out.strip().splitlines()[-1][:90])
+        # ── blue_silver Book One under the unified gate (parked path) ────
+        bspath = '_archive/2026-09-30_park/blue_silver'
+        if os.path.isdir(os.path.join(kit, bspath)):
+            out, rc = run(f'python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py --project {bspath}', kit)
+            add('blue_silver (parked)', 'unified gate (Book One)', rc == 0,
+                out.strip().splitlines()[-1][:90])
 
         # ── no duplicated row numbers in the live serial's log ────────────
         logp = os.path.join(kit, 'soul_land_2_new', 'foundation', 'SERIAL_LOG.md')

@@ -2,7 +2,7 @@
 
 **Read the serials.** Every gated Soul Land (斗罗大陆) fanfiction serial by
 [Gaurav Meena](https://github.com/gm5206663-bit), published as one clean reading
-site — 214 chapters, 907K+ words of chapter text, every shipped chapter
+site — 214 chapters, 903K+ words of chapter text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/

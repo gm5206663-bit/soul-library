@@ -1,36 +1,30 @@
 {
- "generated": "2026-09-26 08:09 UTC",
- "n_pass": 25,
+ "generated": "2026-10-07 09:41 UTC",
+ "n_pass": 26,
  "n_warn": 0,
  "n_fail": 0,
  "checks": [
   {
    "serial": "adaptive_prodigy",
+   "check": "tree absent (deleted by author ruling 2026-10-03)",
+   "status": "pass",
+   "receipt": "tree deleted 2026-10-03 by the author's word \u2014 shelf (116 ch) + private repo are the copies"
+  },
+  {
+   "serial": "blue_silver (parked)",
    "check": "chapters on disk",
    "status": "pass",
-   "receipt": "Soul_Land_3_Project/chapters: 116 files"
+   "receipt": "_archive/2026-09-30_park/blue_silver/chapters_rebuilt: 15 chapter files"
   },
   {
-   "serial": "adaptive_prodigy",
-   "check": "ten-layer run_all",
-   "status": "pass",
-   "receipt": "run_all: ALL GREEN (state \u00b7 footer \u00b7 locks \u00b7 sync \u00b7 zero-tolerance \u00b7 presence \u00b7 workspace \u00b7 divergence \u00b7 compl"
-  },
-  {
-   "serial": "blue_silver",
-   "check": "chapters on disk",
-   "status": "pass",
-   "receipt": "blue_silver/chapters_rebuilt: 15 chapter files"
-  },
-  {
-   "serial": "blue_silver",
+   "serial": "blue_silver (parked)",
    "check": "library live-edge vs disk",
    "status": "pass",
    "receipt": "library edge: Ch 15; disk edge: Ch 15 (live serials drift \u2014 refresh the snapshot)"
   },
   {
-   "serial": "blue_silver",
-   "check": "unified gate (live Book One)",
+   "serial": "blue_silver (parked)",
+   "check": "unified gate (Book One)",
    "status": "pass",
    "receipt": "VERDICT: PASS \u2014 all hard gates clean"
   },
@@ -104,7 +98,19 @@
    "serial": "golden_lion",
    "check": "SERIAL_LOG row numbers unique",
    "status": "pass",
-   "receipt": "22 rows, all unique"
+   "receipt": "25 rows, all unique"
+  },
+  {
+   "serial": "one_in_a_thousand",
+   "check": "chapters on disk",
+   "status": "pass",
+   "receipt": "soul_land_3_oc/chapters: 7 chapter files"
+  },
+  {
+   "serial": "one_in_a_thousand",
+   "check": "library live-edge vs disk",
+   "status": "pass",
+   "receipt": "library edge: Ch 7; disk edge: Ch 7 (live serials drift \u2014 refresh the snapshot)"
   },
   {
    "serial": "profile",
