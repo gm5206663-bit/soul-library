@@ -13,7 +13,7 @@ machine-checked against canon before it lands here.
 |---|---|---|
 | The Golden Lion | Soul Land 2 | 🔴 LIVE — new chapters near-daily (snapshot at build) |
 | The Grey Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 6 chapters — Arc 1 Grey Ridge complete, Arc 2 hem-road craft daily life, clean and clear gated |
-| The Devouring Dragon | Soul Land +1,000 years | 🔴 LIVE — 24 chapters, every one gate-PASS; the canon-voice rollout is republishing the early chapters as they're rewritten (Ch 1–10 live in the new voice); [the dragon's full status sheet](dd-status.html) |
+| The Devouring Dragon | Soul Land +1,000 years | 🔴 LIVE — 24 chapters, every one gate-PASS; the canon-voice rollout is republishing the early chapters as they're rewritten (Ch 1–12 live in the new voice; the s52 plain-scene pass has already redone Ch 19–24); [the dragon's full status sheet](dd-status.html) |
 | Blue Silver | pre-canon | ✅ Book One complete — 15 chapters, all seven gates passing |
 | The Adaptive Prodigy | Soul Land 3 | 116 chapters, ten-layer verification suite all green |
 | The Unraveled Tide | Soul Land 2 | 24 chapters, paused |
