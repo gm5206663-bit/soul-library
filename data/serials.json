@@ -61,7 +61,7 @@
     }
    ],
    "total_words": 24806,
-   "words_label": "22K"
+   "words_label": "25K"
   },
   {
    "title": "The Grey Wolf",
@@ -112,7 +112,7 @@
     }
    ],
    "total_words": 15798,
-   "words_label": "15K"
+   "words_label": "16K"
   },
   {
    "title": "The Devouring Dragon",
@@ -271,7 +271,7 @@
     }
    ],
    "total_words": 65253,
-   "words_label": "65.3K words"
+   "words_label": "65K"
   },
   {
    "title": "Blue Silver",
@@ -376,7 +376,7 @@
     }
    ],
    "total_words": 34711,
-   "words_label": "34.7K"
+   "words_label": "35K"
   },
   {
    "title": "The Adaptive Prodigy",
@@ -1087,7 +1087,7 @@
     }
    ],
    "total_words": 572212,
-   "words_label": "572K text"
+   "words_label": "572K"
   },
   {
    "title": "The Unraveled Tide",
@@ -1351,7 +1351,7 @@
     }
    ],
    "total_words": 45852,
-   "words_label": "45K"
+   "words_label": "46K"
   },
   {
    "title": "One in a Thousand",
@@ -1409,6 +1409,45 @@
    ],
    "total_words": 63209,
    "words_label": "63K"
+  },
+  {
+   "title": "Qian Xun Ji Reborn",
+   "era": "Soul Land \u00b7 eleven years before canon (2619\u20132620)",
+   "badge": "LIVE \u00b7 CH 4 \u00b7 GATE-PASS",
+   "live": true,
+   "desc": "The era\u2019s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji\u2019s body the night after the assault, and writes his own road \u2014 a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
+   "note": "Chapters land only when the gates pass. The canon runs whole; the story present has reached the turn of 2619 into 2620.",
+   "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
+   "repo_name": "qian-xunji-adaptation",
+   "id": "qian_xunji",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Night_After.md",
+     "title": "The Night After",
+     "words": 3392
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Codex.md",
+     "title": "The Codex",
+     "words": 2490
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_First_Cut.md",
+     "title": "The First Cut",
+     "words": 2694
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_The_Second_Core.md",
+     "title": "The Second Core",
+     "words": 2716
+    }
+   ],
+   "total_words": 11292,
+   "words_label": "11K"
   }
  ]
 }

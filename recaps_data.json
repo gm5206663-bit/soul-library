@@ -1,6 +1,6 @@
 {
 "golden_lion": {
-"title": "golden_lion",
+"title": "The Golden Lion",
 "chapters": [
 [
 "1",
@@ -44,8 +44,43 @@
 ]
 ]
 },
+"grey_wolf": {
+"title": "The Grey Wolf",
+"chapters": [
+[
+"1",
+"The Grey Wolf",
+"the only egg hatches, kinless"
+],
+[
+"2",
+"The Quiet Climb",
+"the country learned; first kills"
+],
+[
+"3",
+"The Wall",
+"winter survived; the long hunger"
+],
+[
+"4",
+"The Patient Kind",
+"the stag-kind fight; the red thing first ridden"
+],
+[
+"5",
+"The Road Begins",
+"first witnessing of the year-takers; the pale-gold ring"
+],
+[
+"6",
+"The Hem Road",
+"FIRST BARRIER CROSSED; bloodline step + first crown; the dragon's voice; sense of years; race-skill's deeper face"
+]
+]
+},
 "devouring_dragon": {
-"title": "devouring_dragon",
+"title": "The Devouring Dragon",
 "chapters": [
 [
 "1",
@@ -170,7 +205,7 @@
 ]
 },
 "blue_silver": {
-"title": "blue_silver",
+"title": "Blue Silver",
 "chapters": [
 [
 "1",
@@ -250,7 +285,7 @@
 ]
 },
 "adaptive_prodigy": {
-"title": "adaptive_prodigy",
+"title": "The Adaptive Prodigy",
 "chapters": [
 [
 "1",
@@ -835,7 +870,7 @@
 ]
 },
 "unraveled_tide": {
-"title": "unraveled_tide",
+"title": "The Unraveled Tide",
 "chapters": [
 [
 "1",
@@ -959,43 +994,148 @@
 ]
 ]
 },
+"supergirl_adrian_vale": {
+"title": "Supergirl - Adrian Vale",
+"chapters": [
+[
+"1",
+"01 Adrian Vale",
+"the only egg hatches, kinless"
+],
+[
+"2",
+"02 A Familiar Face",
+"the country learned; first kills"
+],
+[
+"3",
+"03 The Name He Feared",
+"winter survived; the long hunger"
+],
+[
+"4",
+"04 What Remains",
+"the stag-kind fight; the red thing first ridden"
+],
+[
+"5",
+"05 In Plain Sight",
+"first witnessing of the year-takers; the pale-gold ring"
+],
+[
+"6",
+"06 Under the Headline",
+"FIRST BARRIER CROSSED; bloodline step + first crown; the dragon's voice; sense of years; race-skill's deeper face"
+],
+[
+"7",
+"07 How Does She Do It",
+"the deciding; the country that made him kept whole"
+],
+[
+"8",
+"08 The Woman Who Stayed",
+"Black-Ravine Serpent's ground crossed; deep country entered; first deep-fringe kill; bloodline dividend explicit"
+],
+[
+"9",
+"09 Red Faced and Named",
+"the keeping earned; kill-word placed; voice at calling; the greatness reads him and lets him go; red thing ridden"
+],
+[
+"10",
+"10 Red Faced Consequence",
+"the deep year turned; war of the lists opened; cold country keeps him"
+],
+[
+"11",
+"11 The Sun",
+"the green season: the second line taken, the race's line won, the two reds met, the parallel panel (faces to the reader); the season's question over the green"
+],
+[
+"12",
+"12 The Kiss",
+"the green at its height: the bull taken at the water, the crossing (the spirit hound's scent), the war's shape changed — the next line of both lists is the reading of the other's mark"
+],
+[
+"13",
+"13 Human for a Day",
+"the falling of the green: the after-cost paid, the kill-word read as a sign, THE KEEPERS' LINE SET (the watch craft), the voice spent at the deep edge, the want wakened patient — two lists over one country and only one of them can read"
+],
+[
+"14",
+"14 Hostile Takeover",
+"the deep country's second winter: the season of the watch, the second edge of the sign (the pale beast reading him), the watch-fold broken and a man killed, the WRONG FACE on the keepers' line, the hound's second reading, the aimed word paid for, the line turned south"
+],
+[
+"15",
+"15 Blood Bonds",
+"the thaw: the south watch on the pale beast's chosen ground, the beast seen and counted, the hound's third reading, the paper held with no light for the box, the low country taken"
+]
+]
+},
 "one_in_a_thousand": {
-"title": "one_in_a_thousand",
+"title": "One in a Thousand",
 "chapters": [
 [
 "1",
 "The Reading",
-"the awakening at six: a trash beast-soul and the plate's one; the reading stays"
+"the only egg hatches, kinless"
 ],
 [
 "2",
 "The House and the Road",
-"the first term paid; the feeding economy opens; the first cultivation hour"
+"the country learned; first kills"
 ],
 [
 "3",
 "A Bowl and a Name",
-"the bowl grows; the nose tested wrong and vindicated; the circle closes"
+"winter survived; the long hunger"
 ],
 [
 "4",
 "A Thousand Times",
-"the forge beside his winter: the wage, the wrong jar sent back, the fog read"
+"the stag-kind fight; the red thing first ridden"
 ],
 [
 "5",
 "Three Winters",
-"the skip paid year by year; the record check prints nine; the teacher and the father"
+"first witnessing of the year-takers; the pale-gold ring"
 ],
 [
 "6",
 "Thirty Thousand",
-"the spring tests print ten; the price wall in the clinic's book; the tin counted; the first coin"
+"FIRST BARRIER CROSSED; bloodline step + first crown; the dragon's voice; sense of years; race-skill's deeper face"
 ],
 [
 "7",
 "The Refusal",
-"the pig refuses a clean boat; the hold was clean and the buy was lost; the reason found in the boat's own wood; the tin stands at 580 coins"
+"the deciding; the country that made him kept whole"
+]
+]
+},
+"qian_xunji": {
+"title": "Qian Xun Ji Reborn",
+"chapters": [
+[
+"1",
+"The Night After",
+"the only egg hatches, kinless"
+],
+[
+"2",
+"The Codex",
+"the country learned; first kills"
+],
+[
+"3",
+"The First Cut",
+"winter survived; the long hunger"
+],
+[
+"4",
+"The Second Core",
+"the stag-kind fight; the red thing first ridden"
 ]
 ]
 }

@@ -1,8 +1,8 @@
 # The Soul Library
 
-**Read the serials.** Every gated Soul Land (斗罗大陆) fanfiction serial by
-[Gaurav Meena](https://github.com/gm5206663-bit), published as one clean reading
-site — 214 chapters, 903K+ words of chapter text, every shipped chapter
+**Read the serials.** The shelf of [Gaurav Meena](https://github.com/gm5206663-bit) —
+live, complete, and paused serials in Soul Land and beyond, published as one clean
+reading site — 218 chapters, 917K+ words of chapter text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/
@@ -18,12 +18,16 @@ machine-checked against canon before it lands here.
 | The Adaptive Prodigy | Soul Land 3 | 116 chapters, ten-layer verification suite all green |
 | The Unraveled Tide | Soul Land 2 | 24 chapters, paused |
 | One in a Thousand | Soul Land 3 | 🔴 LIVE — 7 chapters, 63K words; the OC beside canon in Glorybound |
+| Supergirl — Adrian Vale | DC TV · Supergirl S01 | 🔴 LIVE — 15 chapters, ultra clean prose; a native Kryptonian/Daxamite OC in season one |
+| Qian Xun Ji Reborn | Soul Land · 11 years before canon | 🔴 LIVE — 4 chapters, gate-pass; the era's Angel Douluo — a codex instead of a war, the second core formed through the sword's winter |
 
 ## How this is built
 
 - Chapter text is copied **unchanged** from the source of truth:
-  [soul-land-universal-kit](https://github.com/gm5206663-bit/soul-land-universal-kit) and
-  [soul-land-2-the-grey-wolf](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf).
+  [soul-land-universal-kit](https://github.com/gm5206663-bit/soul-land-universal-kit),
+  [soul-land-2-the-grey-wolf](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf),
+  [qian-xunji-adaptation](https://github.com/gm5206663-bit/qian-xunji-adaptation), and
+  [supergirl-adrian-vale](https://github.com/gm5206663-bit/supergirl-adrian-vale).
   When this library and the workspace disagree, the workspace wins.
 - Word counts are measured from the files, never typed.
 - The reader is one self-contained `index.html` — no frameworks, no CDN, no
