@@ -2,7 +2,8 @@
 
 **Read the serials.** The shelf of [Gaurav Meena](https://github.com/gm5206663-bit) —
 live, complete, and paused serials in Soul Land and beyond, published as one clean
-reading site — 218 chapters, 917K+ words of chapter text, every shipped chapter
+reading site — 219 chapters (The Unraveled Tide counts its 8-B special), 917K+ words of chapter
+text, every shipped chapter
 machine-checked against canon before it lands here.
 
 **Live:** https://gm5206663-bit.github.io/soul-library/
