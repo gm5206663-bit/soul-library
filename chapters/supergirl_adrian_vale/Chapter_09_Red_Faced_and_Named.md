@@ -1,230 +1,233 @@
-# Season 1, Episode 6 — Red Faced (Part 1)
+# Chapter 9 — Red Faced and Named
+# S01E06 Red Faced Part 1 - Full 3000+ Words
 
-## Chapter 9 — Red Faced and Named
+By Monday morning, National City had decided that the masked helper from the freeway and the train was a story it could not leave alone.
 
-By Monday morning, National City had decided that one unnamed masked helper was a story it could not leave alone.
+Kara found it on Winn's private monitor in the old office. He had angled the screen away from the door, with a sticky note that said DO NOT SHOW CAT YET in Winn's handwriting, the letters a little shaky, a little hurried.
 
-Kara found it on Winn's private monitor in the old office. He had angled the screen away from the door, with a sticky note that said *DO NOT SHOW CAT YET*.
+Two clips looped.
 
-The screen showed two clips, looped.
+First: freeway, three days ago. A bus on its side, smoke, people screaming, a child crying. A figure in black catching a gauntlet mid-blast, turning the blast into sky. The figure moved inside the line of fire, caught a forearm, carried the motion upward with leverage, not brute force. The blast went up, not out. Passengers moved, driver pulled out, bus driver thanking.
 
-First: freeway, three days ago. A bus on its side, a figure in black catching a gauntlet mid-blast, turning the blast into sky. The figure moved inside the line of fire, caught a forearm, carried the motion upward with leverage, not brute force. The blast went up, not out.
-
-Second: train station, maglev platform, two days ago. A car separating, a lean figure in a long high-collared split coat bracing a door with one shoulder while passengers moved to the back, weight distributed, door held, not ripped. Same angular mask, same coat tails disappearing up a service ladder after.
+Second: train station, maglev platform, two days ago. A car separating, sparks, a lean figure in a long high-collared split coat bracing a door with one shoulder while passengers moved to the back, weight distributed, door held, not ripped. Same angular mask, same coat tails disappearing up a service ladder after. No cape, no symbol, no S, just black.
 
 Underneath, comments scrolled.
 
-*Who is the man in black?*
-*He saved my cousin on the freeway. No cape.*
+Who is the man in black?
+He saved my cousin on the freeway. No cape.
+Is he Kryptonian? No, moves different.
+My kid said he caught a door and didn't ask anything after.
+Wraith? Who is Wraith?
 
-Winn clicked to a second tab. A photo of Cat's desk, taken from above. In Cat's handwriting:
+Winn clicked to a second tab. A photo of Cat's desk, taken from above, a little blurred, coffee ring. In Cat's handwriting, black marker, big letters:
 
-*The Wraith of National City — Meet the Man Who Isn't Supergirl*
+The Wraith of National City — Meet the Man Who Isn't Supergirl
 
 Kara stared. "Wraith?"
 
-"Cat named him at seven this morning," Winn said quietly. "She said Supergirl has a name, so the man in black needs a name. She considered Onyx, Nocturne, and Obsidian, but decided Wraith was more searchable."
+"Cat named him at seven this morning," Winn said quietly, not looking at screen, looking at Kara, hands tight. "She said Supergirl has a name, so the man in black needs a name. She considered Onyx, Nocturne, and Obsidian, but decided Wraith was more searchable. She said Wraith is SEO, more searchable than Onyx."
 
 "Does she know—"
 
-"No one knows it is Adrian. She thinks he is a new player. She wants an interview."
+"No one knows it is Adrian. She thinks he is a new player. She wants an interview. She asked me to set up private monitor tracking sightings tag WRAITH but I closed it, no civilian disclosure. I told her DEO said outside jurisdiction once, Lord offered reward for info on Wraith once, but we don't share. Private means private."
 
-Kara looked again at the freeway clip. She had been there. She knew whose hands those were. The way he slipped inside, the way he carried the blast up instead of trying to overpower it.
+Kara looked again at the freeway clip. She had been there. She knew whose hands those were. The way he slipped inside, the way he carried the blast up instead of trying to overpower it, advanced restraint not brute, absorbing momentum, proper superpowered.
 
-Adrian came in with two folders and the chipped mug Evelyn had left, now washed. He had changed privately and re-engaged the seal before returning to work; the closed case was back in his work bag. He looked at the monitor, then at Kara.
+Adrian came in with two folders. He had changed privately before returning to work, the closed case back in his work bag, band at wrist, ordinary clothes. He looked at the monitor, then at Kara.
 
 "You saw."
 
 "Yes," Kara said. "Cat named you."
 
-Adrian set the folders down. "She named the masked figure. Not me."
+"She named the masked figure. Not me."
 
-Evelyn arrived an hour later, duffel smaller now, hair pulled back for travel. She was leaving for Los Angeles that afternoon.
+Evelyn arrived an hour later, duffel smaller now, hair pulled back for travel, eyes tired but smiling, bus ticket in pocket, Los Angeles.
 
-She saw the draft headline on Cat's desk when she stopped to say goodbye in the lobby.
+She saw the draft headline on Cat's desk when she stopped to say goodbye in the lobby, Cat not there, just headline.
 
-"Wraith?" She read it twice, then looked at Adrian. "You let Cat Grant name you Wraith? Kid, you could have picked something with better SEO. Onyx was right there."
+"Wraith?" She read it twice, then looked at Adrian, then at Kara. "You let Cat Grant name you Wraith? Kid, you could have picked something with better SEO. Onyx was right there. Nocturne. Midnight Tailor. Obsidian. Wraith is... okay, Wraith is okay, but Onyx was right there. SEO."
 
-Adrian almost smiled. "I did not pick."
+Adrian almost smiled. Small, real. "I did not pick."
 
-"You never pick." She fixed his collar, motherly, then reached out and fixed Kara's collar too when Kara came down. "There. Now you both look presentable."
+"You never pick." She fixed his collar, motherly, fingers quick, then reached out and fixed Kara's too when Kara came down, same gesture, motherly. "There. Now you both look presentable. Take care of each other. You talk about each other like you matter, you know."
 
-Kara flushed. "Ms. Hart, I— about the other day, outside the diner—"
+Kara walked Evelyn to the cab, outside CatCo, wind, cold. Evelyn hugged her quick, tight, duffel.
 
-"You thought I was his girlfriend," Evelyn said warmly. "Anyone would. He has that face that makes people assume the obvious."
+"Take care of him," she said low, so only Kara heard, voice soft, motherly. "He talks about you. Like you matter. He didn't talk about anyone like that before. Not even me, and I raised him after his parents... after."
 
-"You helped him when he came here?" Kara asked.
+"I will," Kara said, eyes wet.
 
-"I rented in the same building when he was figuring out how to live like this," Evelyn said, choosing words that did not require an explanation of the band beneath his cuff. "How to shop, how to use the bus, how to not answer every question as if it were an interrogation. He was very serious. He still is, but less."
+Evelyn looked at her, then at Adrian in doorway, then back. "Good. And take care of yourself too. You both... you both lost worlds, you know. You both try to give back. That's rare. Most people who lose worlds give in to rage and hate. You both strive to give back."
 
-After Evelyn left to finish packing, Kara and Adrian stood in the lobby.
+After the cab left, Adrian placed a chipped mug on his desk that Evelyn had left as a gift. Small chip on rim, washed, next to theater mask magnet she had left after Thanksgiving, small magnet.
 
-"I am sorry I misunderstood," Kara said.
+---
 
-"You did not do anything wrong," Adrian said.
+National City had road rage on loop by noon.
 
-"I felt jealous," Kara admitted. "And then I felt stupid for feeling jealous. And now I feel relieved you have a name like me, and worried more people will look for you."
+A dashcam: two cars, kids' soccer team sticker on one, total cars punch, a man in a suit punching another man, then turning on a bus stop shelter, ripping metal. Children flinching, mother pulling child back, mother screaming.
 
-"It is normal to feel that," he said. "When you see someone important to someone you care about and you do not know where you stand."
+Kara watched it in the break room, alone, jaw tight, hands tight, breathing a little faster than usual, powers humming? No, ordinary, but jaw tight.
 
-Evelyn's cab came at three. Adrian walked her the last block. Kara came to say goodbye.
+Winn came in, saw screen, said, "DEO wants you to cool it."
 
-"You will call?" Evelyn asked Adrian.
+"Cool what?"
 
-"Yes."
+"You're punching harder since Red Tornado. Breaking wrist? No, you ripped forearm, hydraulic fluid spray, you kept punching after it was done, after it was done."
 
-"And eat?"
+Kara looked at her hands, at bandage little dog with cape in pocket, cartoon bandage.
 
-"Yes."
+At CatCo, Cat was sharper than usual. Her mother Katherine was in town, visiting, belittling achievements, unpleasant, making Cat extra sharp, extra cutting, extra.
 
-She hugged him, then turned to Kara. "Take care of him. He is good at taking care of other people. He is bad at letting people take care of him."
+Cat called Kara in, closed the door, blinds, city below.
 
-"I will," Kara said.
+"My mother thinks I built this on luck," Cat said, not looking up at first, looking at city, skyline. "She visited. I stayed. She thinks luck. I built this. You did not, you visited, I stayed."
 
-After the cab left, Adrian placed the chipped mug on his desk next to the theater mask magnet.
+Kara listened, standing, not sitting until Cat gestured, water, Advil.
 
-***
+"Go get me water," Cat said after a minute, voice a little softer, but still Cat, still sharp. "And tell Wraith I want an interview."
 
-The road rage call came while Kara was trying to enjoy five minutes of flying.
+Kara almost laughed, despite everything, despite mother. "I don't know Wraith."
 
-She had gone up above the clouds after Evelyn left, just to breathe. For five minutes she could be just Kara.
+"Everyone knows someone who knows Wraith," Cat said. "Find him. He saved bus, he saved train, he didn't ask anything after. That's interview. Who is Wraith?"
 
-Then two drivers decided a four-way stop was a suggestion.
+Kara said, "I'll try."
 
-They accelerated into the intersection at the same time, clipped each other, lost control, and veered toward a kids' soccer team crossing the street, balls rolling, parents shouting.
+Outside, Adrian stood further back, bullpen pen hearing, ordinary, band at wrist, hearing from across room but did not say. He had heard Cat's question, heard Kara's answer, heard Cat's mother.
 
-Kara dropped from the sky at full speed, red-blue blur, and hit the ground between the cars and the children.
+He had heard Winn's heart faster than usual, from across floor, baseline? No ordinary.
 
-She caught the first car by the front axle, feet digging into asphalt, super strength absorbing momentum, metal crumpling under her hands as she forced it to a stop inches from the crosswalk. The second car she caught with her other arm, using her body as a brace, cape snapping, forcing both vehicles to a dead stop. The sound was brutal — tires screaming, frames twisting. She had to total both to stop them in time. There was no gentle way to stop two tons at forty miles per hour.
+---
 
-The children stared.
+Game night at Kara's was awkward, pizza boxes, blankets, TV, Game of Thrones? No, just game night.
 
-One driver climbed out, nose broken from the airbag, disoriented and angry.
+Lucy and James were a strong team, trivia, finishing each other's sentences, strong team. Winn and Kara were distracted, missing answers, looking at phones, looking at each other.
 
-"You broke my car!"
+Lucy said, "I met Supergirl. Not impressed. She was... distant."
 
-"You almost hit children," Kara said, breathing hard, hands still on twisted metal.
+James looked at Kara, quick, then away, then at Lucy.
 
-He threw a punch at her face, wild, untrained. She raised her forearm to block instinctively, Kryptonian muscle and bone meeting human fist. The impact cracked his wrist. He screamed.
+Lucy added, "My father is in town. General Sam Lane. Dinner tomorrow. James is dreading it."
 
-The children flinched. A parent pulled them back. Someone filmed.
+"I'm not dreading," James said, but he was, hands tight.
 
-By the time she got back to the DEO, the clip was on the news with the caption *Supergirl scares children*.
+"You are," Lucy said, smiling but eyes serious. "You think he doesn't like you."
 
-Henshaw told her to cool it.
+General Lane arrived at DEO the next morning with a request, uniform, stars, folder, serious. Supergirl handed over for testing. Red Tornado, an anti-insurgent android built by Dr. Morrow, executive order, president, anti-insurgent, Morrow.
 
-"Public trust is not automatic," he said. "They will compare. One breaks a wrist, one doesn't. People notice restraint."
+Kara said no, then said yes. She needed to hit something that would not break, something that would not flinch, something that would not be child at bus stop shelter, something that would not be child flinching.
 
-Alex touched her arm after. "You were trying to help. You stopped two cars that would have killed kids."
+The test fight was at DEO base camp, desert, wind, dust, Humvees, soldiers watching, General Lane watching, Alex watching, Hank watching.
 
-"I broke his wrist. I scared them."
+Red Tornado was tall, metal, wind at its fists, eyes red, wind.
 
-At CatCo, Cat's mother was in town.
+Kara flew in, supersonic, absorbing momentum, flight counter rotation, fists forward, super speed, flight inches off ground. Red Tornado redirected momentum, threw her into wall, concrete cracking, dust. She caught mid-air, flight inches off ground, super speed break pattern, tight spirals, heat vision short bursts.
 
-Katherine Grant effortlessly belittled Cat's achievements, looked at Kara as if she were furniture placed incorrectly, told Cat she could not make dinner plans and was leaving.
+She beat it but could not stop punching. Pent-up anger about the road rage clip, about Cat's mother making Cat sharp, about never having a normal life because her parents put her in a ship, about Evelyn leaving, about Wraith getting named before she could tell Adrian she was glad he had a name, about never figuring out ordinary extraordinary. She kept punching. Her fists blurred. She ripped off a forearm with a scream of tortured metal. Sparks flew. Hydraulic fluid sprayed, hissing on hot metal, hydraulic fluid spray.
 
-Cat seemed bummed, but only for a second. Then she was extra sharp with everyone.
+Red Tornado tried self-preservation, tornado throwing Kara back, launched stealth bending light invisible, knocked over Humvee, soldiers shouting, Lane furious, firing, "Stop!"
 
-She was extra sharp with Kara.
+Maxwell Lord had initially declined to help Alex with the mechanical arm. Now he called Alex to a candlelit table at his place, wine, low light, wanted to know more, showed signal logs, wanted to know about Wraith, offering reward once, asking Cat about Wraith, asking Alex about Wraith, offering reward for info on Wraith once.
 
-"Keira, rework these edits. Now. And have a car ready for my mother."
+Kara found James in the garage at CatCo, punching a bag. Methodical boxing form, sweat, hands wrapped, bag swinging.
 
-Kara took the edits and did not argue.
+"I keep thinking about the road rage guy," she said, leaning against totaled car from DEO, super strength denting steel pulling holding overhead flight letting hang setting down gently not destroy but feel weight not break, naming things upset. "I get it. Being angry in public. Men can be angry. Women can't. Find anger behind anger what are you really angry about never have normal life parents put in ship."
 
-At the restaurant, she found James staring at his phone.
+James kept punching, then stopped, breathing hard. "What are you really angry about?"
 
-"Dreading dinner with Lucy's dad?" she asked.
+"Never having a normal life. And also... my friend got named Wraith before I could tell him I was glad he had a name. And my other friend's father is... complicated. And Cat's mother is mean. And I cut my finger and bled first time and it hurt small ordinary way."
 
-"Dreading is a small word." He looked up. "Lucy invited us to game night without telling you. I told her it was your thing."
+James said, "You want to hit something that won't break, or someone who will not flinch?"
 
-Kara sat. "It is all right."
+Kara looked at car, lifted it, super strength, flight inches off ground, letting hang, setting down gently, not destroy but feel weight, not break, naming things upset slips thought Adrian sister was girlfriend James realizes Adrian is Wraith will not tell Lucy moves like someone who does not want to be seen advanced restraint anger behind anger fear becoming someone who scares children never figure out ordinary extraordinary.
 
-James smiled a little. "General Lane is in town. He wants Supergirl handed over to his command to test Red Tornado."
+Adrian stood in the doorway, further back, ordinary clothes, band at wrist, human-level again, ordinary, but eyes steady.
 
-"Red Tornado?"
+"You should not lift cars alone," he said quiet.
 
-"Anti-insurgent android. Dr. T.O. Morrow built it. Lucy is his judicial counsel now. She has a written order from the President that DEO needs to comply. General Lane commissioned it to stop Kryptonians. Fort Rozz escapees. And maybe you and Superman."
+Kara smiled, small, tired. "I know. Thank you."
 
-Game night at Kara's apartment was tense.
+---
 
-Lucy and James were a strong team, knowing each other well. Winn and Kara were distracted. Lucy mentioned having met Supergirl and not being impressed.
+Later, DEO had a new plan: thermally accurate hologram, thank you Kryptonian technology, lure Red Tornado, thermally accurate hologram.
 
-During a break, Lucy mentioned the new masked figure.
+Winn's private monitor showed three new clips of Wraith that day, train station, but he had closed it, no civilian disclosure, private means private.
 
-"Have you seen the footage? The man in black? My father asked about him too. He wants to know if he is Kryptonian. He saw the train footage and said advanced restraint not brute. He wants DEO to bring him in."
+Supergirl fought Red Tornado in industrial yard, not brawl but superpowered. Red Tornado used vortexes to keep at range, predicted dodge, fired there. Kara used super speed break pattern, heat vision short bursts destabilize vortexes, not destroy but disrupt, got close, generated repulsive wind throwing back, learned going underground, super strength punching concrete using earth as cover, erupting behind, grabbing torso, lifting, slamming, cracking yard floor spiderweb, flashbacks parents loading pod you will be safe you will be strong.
 
-Kara kept her face neutral. "What did you tell him?"
+Alex faced down Morrow at warehouse docks, mentally linked, telepathic relay, veins, eyes white, hands twitching. Only way break connection kill him. Winn said like live wire. Alex tried avoid but struggle, Morrow hit head on pipe accidental during apprehension, relay went dark.
 
-"That I do not know. That Supergirl has a new colleague who does not like press." Lucy looked at James. "Is that true?"
+That stopped Red Tornado. Except it didn't. Without mind guiding, it woke up sentient. I am not supposed to be. I am not supposed to.
 
-James looked at Kara, then at Lucy. "He helps. He does not want an interview."
+Kara did not punch. Done punching. She channeled all rage into heat vision, wide sustained beam, bright enough wash out yard lights, hot enough melt asphalt, hit center mass, tried generate vortex deflect too much, burned, broke apart, pieces falling still trying form tornado, one arm learning even as died, gone ash melted metal scorched circle ten feet wide, fifteen feet wide instead of ten. She fell to knees, out of breath, eyes watering, throat raw ozone.
 
-Alex pulled Kara aside later.
+Lucy decided stay National City with James, resigned commission, father disappointment, James pleasure. Lane told James not good enough holding her back. James said you are wrong Lucy thinks wrong.
 
-"General Lane is at DEO base camp tomorrow. They want you to test Red Tornado. You can say no."
+Winn told Alex he discovered while hacking DEO: father Jeremiah and another agent South America track alien, two men entered cave only one left, Hank Henshaw who ended up redacting most file presumed dead other agent Jeremiah declared dead accident. Alex said Henshaw killed father. Winn said file redacted by Henshaw only survivor, eyes glow red chamber.
 
-"I know," Kara said. "Both my team at the DEO and Team Supergirl at CatCo told me I can say no. But I want to prove government can be trusted despite powers. And I am aching for a fight. I need to hit something that won't break."
+CatCo next day, Katherine thankfully leaving soon, Kara entered Cat office, Katherine dressed her down, not reading mind, calling car, insulting to Cat. Cat not only defended Kara calling incredibly good at job but defended herself: I built this you did not you visited I stayed. Mother left not knowing how respond, Cat nursing hangover.
 
-The next day, DEO base camp, outside the city.
+Kara gave Cat glass water, Advil, glass knocked over, went clean shards, Cat warned cut herself, Kara said okay, did indeed cut herself thin line fingertip blood surprised bleeding first time life. Cat said when last tetanus shot go get bandage do not bleed on Persian rug. Kara bathroom tissue blood spot spread hurts small ordinary human way thinks vulnerability chosen different from taking missile on shoulder.
 
-General Sam Lane, Lucy at his side in military gear, Dr. T.O. Morrow and his team, Henshaw and Alex watching as Supergirl arrived.
+James learned via slip that Wraith was Adrian, will not tell Lucy, moves like someone who does not want to be seen, advanced restraint.
 
-The android was tall, red and silver, eyes dark, chest vented. Its hands could generate vortexes.
+Kara at desk, finger bandaged with cartoon bandage little dog with cape, pale but smiling new, looked at Adrian across bullpen. He looked up, quiet you okay from across room, not loud, just mouth, pen across room hearing.
 
-"Anthropomorphic pseudo-entity with combat capabilities," Morrow said. "Self-preservation protocol, stealth mode, tornado generation, adaptive combat algorithm. It learns as it fights."
+She nodded. Small smile.
 
-Kara looked at it, then at General Lane.
+Adrian went back to work, ordinary, band at wrist, chipped mug next to theater mask magnet.
 
-"Supergirl will test its limits," Lane said.
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left.
 
-The test began in a concrete pit.
+Adrian picked up mug, placed back on desk, went back to work.
 
-Red Tornado moved first, faster than a human, generating a tight vortex that threw dust and concrete shards at supersonic speed. Kara dodged with super speed, cape whipping, then flew straight through the vortex, using her own flight to counter its rotation, fists forward. She took a missile on her shoulder — it exploded, she barely flinched, but felt it.
+Kara at desk typing fingers not ache? No after Red Tornado fight, fingers ache? No, powers humming, but finger cut.
 
-She went underground, not as a joke, but as a tactic — super strength punching through concrete, burrowing, using seismic sense to track its steps, then erupting behind it and grabbing its torso, lifting it, slamming it down. The impact cracked the pit floor.
+She thought about what it means to be able to bleed and being able to melt asphalt and being able to be named Wraith and being able to be told you matter.
 
-She landed a series of blows, each one measured, each one shaking dust from the walls. Red Tornado adapted mid-fight, changing its stance, redirecting her momentum, using her own strength against her once, throwing her into a wall. She caught herself mid-air with flight, stopped inches from concrete, and came back faster.
+Adrian went back to work.
 
-The army ended the test.
 
-*Test complete. Stand down.*
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Kara did not stand down.
 
-Her pent-up anger — about the road rage clip, about Cat's mother making Cat sharp, about Evelyn leaving and the chipped mug, about Wraith getting named before she could tell Adrian she was glad he had a name, about never having a normal life because her parents put her in a ship — got the best of her. She kept punching. Her fists blurred. She ripped off a forearm with a scream of tortured metal. Sparks flew. Hydraulic fluid sprayed.
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Red Tornado's emergency self-preservation protocol activated. Its remaining eye flared, it generated a full tornado around itself, throwing Kara back, then launched straight up, stealth mode engaging, bending light, invisible. The wind from its departure knocked over a Humvee.
 
-General Lane was furious.
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-"You let a dangerous robot loose!" he shouted at Kara.
 
-Alex stepped forward. "General, with respect, you commissioned a weapon to stop Kryptonians and then asked a Kryptonian to punch it until it learned to run."
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Lane realized Red Tornado was not safe and told Morrow when they find it, he wants it destroyed. Then he fired Morrow on the spot.
 
-"You are done. Clear your lab."
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Morrow left without another word, but his hands were clenched, and his eyes stayed on Red Tornado's flight path.
 
-Back at CatCo, Cat started yelling at Kara for a typo in a headline.
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Kara, still vibrating with leftover adrenaline, yelled back.
 
-"I reworked the edits twice!"
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-The office went quiet.
 
-Kara was immediately embarrassed and apologized, but Cat was actually impressed. She stared at Kara for a long second, then said, "We are both taking the rest of the day off to drink."
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-During midday martinis at a quiet bar with no cameras, Cat shared how being angry at work is different for women than men. She once saw Perry White throw a chair out the window and be called passionate. When women are angry, they are called difficult.
 
-"You need to find the anger behind the anger," Cat told Kara. "What are you really angry about?"
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Kara thought about the ship, about her parents, about never having a normal life, about seeing Adrian with Evelyn and thinking she had lost something before she had it, about breaking a man's wrist and scaring children.
 
-"I am angry that I will never have a normal life," she said quietly. "My parents guaranteed that the moment they put me in that ship."
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
 
-Cat nodded. "Then channel it another way. Not into a robot that can learn."
 
-Outside, a siren began to rise. Red Tornado was back.
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
+
+
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
+
+
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
+
+
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.
+
+
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist chipped mug next to theater mask magnet.

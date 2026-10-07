@@ -6,7 +6,7 @@
    "badge": "LIVE \u00b7 CH 8 \u00b7 NEW CHAPTERS DAILY",
    "live": true,
    "desc": "Jin Yang, a village boy with a Golden Lion martial soul and a womb-born Adaptation Talent, walks the road to Shrek Academy at eleven. Canon shown, never skipped; the OC added, never centered.",
-   "note": "Snapshot taken 2026-09-23 at Chapter 7 \u2014 the live serial pushes near-daily; read the freshest chapters in the source repo.",
+   "note": "Current as of 2026-10-07 \u2014 the shelf copy tracks the source repo's latest (the live serial pushes near-daily; read the freshest in the source repo).",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
    "repo_name": "soul-land-universal-kit \u00b7 soul_land_2_new",
    "id": "golden_lion",
@@ -15,53 +15,53 @@
      "n": 1,
      "file": "Chapter_01_The_Road_to_Shrek.md",
      "title": "The Road to Shrek",
-     "words": 2834
+     "words": 2487
     },
     {
      "n": 2,
      "file": "Chapter_02_The_Measure.md",
      "title": "The Measure",
-     "words": 2887
+     "words": 2683
     },
     {
      "n": 3,
      "file": "Chapter_03_Monsters_Run.md",
      "title": "Monsters Run",
-     "words": 3681
+     "words": 3471
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Third_Thing.md",
      "title": "The Third Thing",
-     "words": 3402
+     "words": 3048
     },
     {
      "n": 5,
      "file": "Chapter_05_Speed_And_Stance.md",
      "title": "Speed and Stance",
-     "words": 2908
+     "words": 2441
     },
     {
      "n": 6,
      "file": "Chapter_06_Measure_and_Weight.md",
      "title": "Measure and Weight",
-     "words": 2847
+     "words": 2433
     },
     {
      "n": 7,
      "file": "Chapter_07_Three_Months.md",
      "title": "Three Months",
-     "words": 3137
+     "words": 4499
     },
     {
      "n": 8,
      "file": "Chapter_08_The_Sect_Behind_the_Smoke.md",
      "title": "The Sect Behind the Smoke",
-     "words": 3110
+     "words": 2385
     }
    ],
-   "total_words": 24806,
-   "words_label": "25K"
+   "total_words": 23447,
+   "words_label": "23K"
   },
   {
    "title": "The Grey Wolf",
@@ -69,7 +69,7 @@
    "badge": "LIVE \u00b7 PERFECT REBUILD \u00b7 CH 6",
    "live": true,
    "desc": "Ye Cang, a hunter-village boy with Grey Wolf martial soul and innate rank one, dies on Earth and wakes on Douluo with a System called Ledger. Beside canon, same years as Huo Yuhao. Six chapters rebuilt perfectly \u2014 clean and clear, no nonsense repetition, every chapter 2400-3400w gated green, effective talent 3.5x Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow.",
-   "note": "Perfect rebuild v0.7.0 2026-09-26 \u2014 Arc 1 Grey Ridge complete, Arc 2 hem-road craft daily life, Ch6 The Hem Road 2458w. Source: soul-land-2-the-grey-wolf repo.",
+   "note": "Current as of 2026-10-07 \u2014 perfect rebuild v0.7.0, all six chapters in their latest editions (byte-identical to the source repo).",
    "repo": "https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf",
    "repo_name": "soul-land-2-the-grey-wolf",
    "id": "grey_wolf",
@@ -84,34 +84,34 @@
      "n": 2,
      "file": "Chapter_02_The_Quiet_Climb.md",
      "title": "The Quiet Climb",
-     "words": 2428
+     "words": 2440
     },
     {
      "n": 3,
      "file": "Chapter_03_The_Wall.md",
      "title": "The Wall",
-     "words": 2414
+     "words": 2419
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Patient_Kind.md",
      "title": "The Patient Kind",
-     "words": 2498
+     "words": 2488
     },
     {
      "n": 5,
      "file": "Chapter_05_The_Road_Begins.md",
      "title": "The Road Begins",
-     "words": 3125
+     "words": 3370
     },
     {
      "n": 6,
      "file": "Chapter_06_The_Hem_Road.md",
      "title": "The Hem Road",
-     "words": 2458
+     "words": 2427
     }
    ],
-   "total_words": 15798,
+   "total_words": 16019,
    "words_label": "16K"
   },
   {
@@ -120,7 +120,7 @@
    "badge": "LIVE \u00b7 GATE-PASS \u00b7 CH 24",
    "live": true,
    "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's \u2014 his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
-   "note": "Every chapter passes the kit verify gate before shipping. The pacing law rules the road to the thousand-year barrier: sameness skipped, the years told by time-skip.",
+   "note": "Current as of 2026-10-07 \u2014 the canon-voice rollout's latest editions (byte-identical to the source repo); the early chapters are republished as they are rewritten.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
    "repo_name": "soul-land-universal-kit \u00b7 soul_land_devouring_dragon",
    "id": "devouring_dragon",
@@ -129,148 +129,148 @@
      "n": 1,
      "file": "Chapter_01_The_First_Hunger.md",
      "title": "The First Hunger",
-     "words": 3217
+     "words": 3211
     },
     {
      "n": 2,
      "file": "Chapter_02_The_Law_of_the_Snow.md",
      "title": "The Law of the Snow",
-     "words": 3267
+     "words": 3259
     },
     {
      "n": 3,
      "file": "Chapter_03_The_Ring_of_Light.md",
      "title": "The Ring of Light",
-     "words": 3407
+     "words": 3400
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Weight_of_Blood.md",
      "title": "The Weight of Blood",
-     "words": 2705
+     "words": 2698
     },
     {
      "n": 5,
      "file": "Chapter_05_The_Hunger_That_Has_No_Meal.md",
      "title": "The Hunger That Has No Meal",
-     "words": 3390
+     "words": 3381
     },
     {
      "n": 6,
      "file": "Chapter_06_Greater_Than_the_Wall.md",
      "title": "Greater Than the Wall",
-     "words": 2976
+     "words": 2969
     },
     {
      "n": 7,
      "file": "Chapter_07_The_Sense_of_Years.md",
      "title": "The Sense of Years",
-     "words": 2981
+     "words": 2974
     },
     {
      "n": 8,
      "file": "Chapter_08_The_Deep_Country.md",
      "title": "The Deep Country",
-     "words": 3314
+     "words": 3308
     },
     {
      "n": 9,
      "file": "Chapter_09_The_Keeping_Earned.md",
      "title": "The Keeping Earned",
-     "words": 3407
+     "words": 3401
     },
     {
      "n": 10,
      "file": "Chapter_10_The_Cold_Country.md",
      "title": "The Cold Country",
-     "words": 3293
+     "words": 3287
     },
     {
      "n": 11,
      "file": "Chapter_11_The_War_of_the_Lists.md",
      "title": "The War of the Lists",
-     "words": 2841
+     "words": 2833
     },
     {
      "n": 12,
      "file": "Chapter_12_The_Bull_at_the_Water.md",
      "title": "The Bull at the Water",
-     "words": 3296
+     "words": 3288
     },
     {
      "n": 13,
      "file": "Chapter_13_The_Keepers_Line.md",
      "title": "The Keepers' Line",
-     "words": 2570
+     "words": 2564
     },
     {
      "n": 14,
      "file": "Chapter_14_The_Wrong_Face.md",
      "title": "The Wrong Face",
-     "words": 3175
+     "words": 3169
     },
     {
      "n": 15,
      "file": "Chapter_15_The_Hounds_Third_Time.md",
      "title": "The Hound's Third Time",
-     "words": 2236
+     "words": 2229
     },
     {
      "n": 16,
      "file": "Chapter_16_The_One_Print.md",
      "title": "The One Print",
-     "words": 2325
+     "words": 2319
     },
     {
      "n": 17,
      "file": "Chapter_17_The_Long_Wet.md",
      "title": "The Long Wet",
-     "words": 2256
+     "words": 2250
     },
     {
      "n": 18,
      "file": "Chapter_18_The_Dry_Country.md",
      "title": "The Dry Country",
-     "words": 2366
+     "words": 2360
     },
     {
      "n": 19,
      "file": "Chapter_19_The_North_Road.md",
      "title": "The North Road",
-     "words": 2024
+     "words": 2018
     },
     {
      "n": 20,
      "file": "Chapter_20_The_Road_Itself.md",
      "title": "The Road Itself",
-     "words": 2042
+     "words": 2036
     },
     {
      "n": 21,
      "file": "Chapter_21_The_Watch_and_the_Pass.md",
      "title": "The Watch and the Pass",
-     "words": 2025
+     "words": 2017
     },
     {
      "n": 22,
      "file": "Chapter_22_The_Deep_Forest_Proper.md",
      "title": "The Deep Forest Proper",
-     "words": 2032
+     "words": 2025
     },
     {
      "n": 23,
      "file": "Chapter_23_The_Parting.md",
      "title": "The Parting",
-     "words": 2044
+     "words": 2039
     },
     {
      "n": 24,
      "file": "Chapter_24_The_Stone_Country.md",
      "title": "The Stone Country",
-     "words": 2064
+     "words": 2058
     }
    ],
-   "total_words": 65253,
+   "total_words": 65093,
    "words_label": "65K"
   },
   {
@@ -288,94 +288,94 @@
      "n": 1,
      "file": "Chapter_01_Awake.md",
      "title": "Chapter One \u2014 Awake",
-     "words": 2821
+     "words": 2816
     },
     {
      "n": 2,
      "file": "Chapter_02_What_the_Water_Teaches.md",
      "title": "Chapter Two \u2014 What the Water Teaches",
-     "words": 2253
+     "words": 2245
     },
     {
      "n": 3,
      "file": "Chapter_03_The_One_Who_Stayed.md",
      "title": "Chapter Three \u2014 The One Who Stayed",
-     "words": 1960
+     "words": 1952
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Teeth_in_the_Grass.md",
      "title": "Chapter Four \u2014 The Teeth in the Grass",
-     "words": 2127
+     "words": 2118
     },
     {
      "n": 5,
      "file": "Chapter_05_The_One_Who_Watched.md",
      "title": "Chapter Five \u2014 The One Who Watched",
-     "words": 1846
+     "words": 1838
     },
     {
      "n": 6,
      "file": "Chapter_06_The_One_Below.md",
      "title": "Chapter Six \u2014 The One Below",
-     "words": 1999
+     "words": 1992
     },
     {
      "n": 7,
      "file": "Chapter_07_The_One_Who_Keeps.md",
      "title": "Chapter Seven \u2014 The One Who Keeps",
-     "words": 1898
+     "words": 1890
     },
     {
      "n": 8,
      "file": "Chapter_08_The_One_Who_Crossed.md",
      "title": "Chapter Eight \u2014 The One Who Crossed",
-     "words": 2265
+     "words": 2257
     },
     {
      "n": 9,
      "file": "Chapter_09_The_Last_Vigil.md",
      "title": "Chapter Nine \u2014 The Last Vigil",
-     "words": 2225
+     "words": 2218
     },
     {
      "n": 10,
      "file": "Chapter_10_The_One_Who_Answers.md",
      "title": "Chapter Ten \u2014 The One Who Answers",
-     "words": 2488
+     "words": 2480
     },
     {
      "n": 11,
      "file": "Chapter_11_The_Liar_at_the_Door.md",
      "title": "Chapter Eleven \u2014 The Liar at the Door",
-     "words": 2575
+     "words": 2566
     },
     {
      "n": 12,
      "file": "Chapter_12_The_Ten_Thousandth_Year.md",
      "title": "Chapter Twelve \u2014 The Ten Thousandth Year",
-     "words": 1873
+     "words": 1865
     },
     {
      "n": 13,
      "file": "Chapter_13_The_One_Who_Goes.md",
      "title": "Chapter Thirteen \u2014 The One Who Goes",
-     "words": 2502
+     "words": 2494
     },
     {
      "n": 14,
      "file": "Chapter_14_The_Ground_That_Remembers.md",
      "title": "Chapter Fourteen \u2014 The Ground That Remembers",
-     "words": 2494
+     "words": 2486
     },
     {
      "n": 15,
      "file": "Chapter_15_The_One_Who_Is_Named.md",
      "title": "Chapter Fifteen \u2014 The One Who Is Named",
-     "words": 3385
+     "words": 3376
     }
    ],
-   "total_words": 34711,
+   "total_words": 34593,
    "words_label": "35K"
   },
   {
@@ -393,701 +393,701 @@
      "n": 1,
      "file": "chapter_01.md",
      "title": "Awakening Day",
-     "words": 5621
+     "words": 5616
     },
     {
      "n": 2,
      "file": "chapter_02.md",
      "title": "A Thousand Strikes",
-     "words": 4301
+     "words": 4295
     },
     {
      "n": 3,
      "file": "chapter_03.md",
      "title": "What the Metal Said",
-     "words": 5106
+     "words": 5099
     },
     {
      "n": 4,
      "file": "chapter_04.md",
      "title": "The Worst Class",
-     "words": 7611
+     "words": 7605
     },
     {
      "n": 5,
      "file": "chapter_05.md",
      "title": "The Blacksmith's Association",
-     "words": 6199
+     "words": 6193
     },
     {
      "n": 6,
      "file": "chapter_06.md",
      "title": "The Weight of the Worst Class",
-     "words": 5793
+     "words": 5784
     },
     {
      "n": 7,
      "file": "chapter_07.md",
      "title": "The Harbor",
-     "words": 5799
+     "words": 5794
     },
     {
      "n": 8,
      "file": "chapter_08.md",
      "title": "The Transfer Student",
-     "words": 4666
+     "words": 4660
     },
     {
      "n": 9,
      "file": "chapter_09.md",
      "title": "Elementalist",
-     "words": 5820
+     "words": 5816
     },
     {
      "n": 10,
      "file": "chapter_10.md",
      "title": "Hammer Practice",
-     "words": 6487
+     "words": 6482
     },
     {
      "n": 11,
      "file": "chapter_11.md",
      "title": "The Class Promotion Tournament Begins",
-     "words": 5336
+     "words": 5328
     },
     {
      "n": 12,
      "file": "chapter_12.md",
      "title": "Two Ring Opponent",
-     "words": 5205
+     "words": 5199
     },
     {
      "n": 13,
      "file": "chapter_13.md",
      "title": "Flying Soul Masters",
-     "words": 6006
+     "words": 6000
     },
     {
      "n": 14,
      "file": "chapter_14.md",
      "title": "Reappearance of the Golden Scales",
-     "words": 6893
+     "words": 6885
     },
     {
      "n": 15,
      "file": "chapter_15.md",
      "title": "White Robes and Blue Sword, Sky Ice and Snow Cold",
-     "words": 6133
+     "words": 6120
     },
     {
      "n": 16,
      "file": "chapter_16.md",
      "title": "The Dark Eagle Dragon",
-     "words": 5904
+     "words": 5897
     },
     {
      "n": 17,
      "file": "chapter_17.md",
      "title": "I Have a Dragon in My Body?",
-     "words": 5727
+     "words": 5717
     },
     {
      "n": 18,
      "file": "chapter_18.md",
      "title": "The Second Meeting",
-     "words": 5418
+     "words": 5412
     },
     {
      "n": 19,
      "file": "chapter_19.md",
      "title": "Class Zero is Established!",
-     "words": 7243
+     "words": 7236
     },
     {
      "n": 20,
      "file": "chapter_20.md",
      "title": "Battle Armor",
-     "words": 5674
+     "words": 5669
     },
     {
      "n": 21,
      "file": "chapter_21.md",
      "title": "Monstrous Numbers",
-     "words": 9550
+     "words": 9545
     },
     {
      "n": 22,
      "file": "chapter_22.md",
      "title": "The Fifth Time",
-     "words": 5800
+     "words": 5794
     },
     {
      "n": 23,
      "file": "chapter_23.md",
      "title": "The First Line About Her",
-     "words": 6630
+     "words": 6622
     },
     {
      "n": 24,
      "file": "chapter_24.md",
      "title": "The Spirit Pagoda",
-     "words": 5135
+     "words": 5129
     },
     {
      "n": 25,
      "file": "chapter_25.md",
      "title": "What the Forest Teaches",
-     "words": 10346
+     "words": 10339
     },
     {
      "n": 26,
      "file": "chapter_26.md",
      "title": "Four People Who Had Never Fought Together",
-     "words": 6020
+     "words": 6010
     },
     {
      "n": 27,
      "file": "chapter_27.md",
      "title": "What Wu Zhangkong Could Not Teach",
-     "words": 5354
+     "words": 5345
     },
     {
      "n": 28,
      "file": "chapter_28.md",
      "title": "A Friend Is the One Who Tells You",
-     "words": 5303
+     "words": 5292
     },
     {
      "n": 29,
      "file": "chapter_29.md",
      "title": "I Came Anyway",
-     "words": 5905
+     "words": 5899
     },
     {
      "n": 30,
      "file": "chapter_30.md",
      "title": "The Second Note",
-     "words": 4766
+     "words": 4760
     },
     {
      "n": 31,
      "file": "chapter_31.md",
      "title": "One Ring Is Better",
-     "words": 4712
+     "words": 4705
     },
     {
      "n": 32,
      "file": "chapter_32.md",
      "title": "What the Wall Looks Like",
-     "words": 5190
+     "words": 5182
     },
     {
      "n": 33,
      "file": "chapter_33.md",
      "title": "What Cannot Be Summoned",
-     "words": 6228
+     "words": 6221
     },
     {
      "n": 34,
      "file": "chapter_34.md",
      "title": "The Third Rank",
-     "words": 5464
+     "words": 5458
     },
     {
      "n": 35,
      "file": "chapter_35.md",
      "title": "Gift or Debt",
-     "words": 6501
+     "words": 6495
     },
     {
      "n": 36,
      "file": "chapter_36.md",
      "title": "Past the Marks",
-     "words": 4396
+     "words": 4390
     },
     {
      "n": 37,
      "file": "chapter_37.md",
      "title": "The Sixth Saturday",
-     "words": 6255
+     "words": 6249
     },
     {
      "n": 38,
      "file": "chapter_38.md",
      "title": "The Formation",
-     "words": 4465
+     "words": 4460
     },
     {
      "n": 39,
      "file": "chapter_39.md",
      "title": "Little Black",
-     "words": 3737
+     "words": 3732
     },
     {
      "n": 40,
      "file": "chapter_40.md",
      "title": "One Thousand One Hundred and Sixty-Four",
-     "words": 4520
+     "words": 4511
     },
     {
      "n": 41,
      "file": "chapter_41.md",
      "title": "Three Rings",
-     "words": 3668
+     "words": 3663
     },
     {
      "n": 42,
      "file": "chapter_42.md",
      "title": "The Bear",
-     "words": 4072
+     "words": 4067
     },
     {
      "n": 43,
      "file": "chapter_43.md",
      "title": "What Wang Jinxi Understood",
-     "words": 3712
+     "words": 3705
     },
     {
      "n": 44,
      "file": "chapter_44.md",
      "title": "The Hall of Heroes",
-     "words": 4252
+     "words": 4245
     },
     {
      "n": 45,
      "file": "chapter_45.md",
      "title": "The City With No Skyscrapers",
-     "words": 3701
+     "words": 3693
     },
     {
      "n": 46,
      "file": "chapter_46.md",
      "title": "The Grave of Long Bing",
-     "words": 3773
+     "words": 3765
     },
     {
      "n": 47,
      "file": "chapter_47.md",
      "title": "The Unnatural Existence",
-     "words": 3640
+     "words": 3634
     },
     {
      "n": 48,
      "file": "chapter_48.md",
      "title": "Five Million",
-     "words": 3474
+     "words": 3469
     },
     {
      "n": 49,
      "file": "chapter_49.md",
      "title": "The Forest That Was Not A Forest",
-     "words": 4244
+     "words": 4234
     },
     {
      "n": 50,
      "file": "chapter_50.md",
      "title": "The Track",
-     "words": 3533
+     "words": 3528
     },
     {
      "n": 51,
      "file": "chapter_51.md",
      "title": "What He Stood In Front Of",
-     "words": 3634
+     "words": 3625
     },
     {
      "n": 52,
      "file": "chapter_52.md",
      "title": "The Sixth",
-     "words": 3799
+     "words": 3794
     },
     {
      "n": 53,
      "file": "chapter_53.md",
      "title": "The Fourth Rank",
-     "words": 3671
+     "words": 3665
     },
     {
      "n": 54,
      "file": "chapter_54.md",
      "title": "Five Seconds",
-     "words": 3767
+     "words": 3762
     },
     {
      "n": 55,
      "file": "chapter_55.md",
      "title": "The Students of Shrek",
-     "words": 3364
+     "words": 3357
     },
     {
      "n": 56,
      "file": "chapter_56.md",
      "title": "The Shape",
-     "words": 3372
+     "words": 3367
     },
     {
      "n": 57,
      "file": "chapter_57.md",
      "title": "The Terrifying Genius",
-     "words": 4913
+     "words": 4907
     },
     {
      "n": 58,
      "file": "chapter_58.md",
      "title": "The Girl Sent From The Heavens",
-     "words": 3260
+     "words": 3251
     },
     {
      "n": 59,
      "file": "chapter_59.md",
      "title": "What They Investigated",
-     "words": 4529
+     "words": 4523
     },
     {
      "n": 60,
      "file": "chapter_60.md",
      "title": "The Invitation",
-     "words": 3778
+     "words": 3773
     },
     {
      "n": 61,
      "file": "chapter_61.md",
      "title": "What He Said Yes To",
-     "words": 3234
+     "words": 3226
     },
     {
      "n": 62,
      "file": "chapter_62.md",
      "title": "Two Words",
-     "words": 6543
+     "words": 6538
     },
     {
      "n": 63,
      "file": "chapter_63.md",
      "title": "Still Children",
-     "words": 5833
+     "words": 5828
     },
     {
      "n": 64,
      "file": "chapter_64.md",
      "title": "One Week",
-     "words": 5025
+     "words": 5020
     },
     {
      "n": 65,
      "file": "chapter_65.md",
      "title": "The Same Sunday",
-     "words": 5763
+     "words": 5757
     },
     {
      "n": 66,
      "file": "chapter_66.md",
      "title": "Hard to Ignore",
-     "words": 4458
+     "words": 4452
     },
     {
      "n": 67,
      "file": "chapter_67.md",
      "title": "Three Winters",
-     "words": 7661
+     "words": 7656
     },
     {
      "n": 68,
      "file": "chapter_68.md",
      "title": "The Month",
-     "words": 6740
+     "words": 6735
     },
     {
      "n": 69,
      "file": "chapter_69.md",
      "title": "Sixty-One Seconds",
-     "words": 10069
+     "words": 10064
     },
     {
      "n": 70,
      "file": "chapter_70.md",
      "title": "The Greatest City",
-     "words": 6033
+     "words": 6027
     },
     {
      "n": 71,
      "file": "chapter_71.md",
      "title": "The Complete Sentence",
-     "words": 5285
+     "words": 5279
     },
     {
      "n": 72,
      "file": "chapter_72.md",
      "title": "Fourteen Candles",
-     "words": 5012
+     "words": 5007
     },
     {
      "n": 73,
      "file": "chapter_73.md",
      "title": "A Small Price",
-     "words": 4520
+     "words": 4514
     },
     {
      "n": 74,
      "file": "chapter_74.md",
      "title": "Thirteen Years",
-     "words": 4999
+     "words": 4994
     },
     {
      "n": 75,
      "file": "chapter_75.md",
      "title": "The Academy Came Himself",
-     "words": 5007
+     "words": 5000
     },
     {
      "n": 76,
      "file": "chapter_76.md",
      "title": "Any Student",
-     "words": 5290
+     "words": 5285
     },
     {
      "n": 77,
      "file": "chapter_77.md",
      "title": "Win",
-     "words": 3527
+     "words": 3523
     },
     {
      "n": 78,
      "file": "chapter_78.md",
      "title": "Golden Dragon Body",
-     "words": 3564
+     "words": 3558
     },
     {
      "n": 79,
      "file": "chapter_79.md",
      "title": "Fourteen Seconds",
-     "words": 3331
+     "words": 3326
     },
     {
      "n": 80,
      "file": "chapter_80.md",
      "title": "Testing Specialties",
-     "words": 3460
+     "words": 3455
     },
     {
      "n": 81,
      "file": "chapter_81.md",
      "title": "Comprehensive",
-     "words": 2852
+     "words": 2848
     },
     {
      "n": 82,
      "file": "chapter_82.md",
      "title": "A Test of Strength",
-     "words": 2929
+     "words": 2922
     },
     {
      "n": 83,
      "file": "chapter_83.md",
      "title": "Title Douluo",
-     "words": 3161
+     "words": 3156
     },
     {
      "n": 84,
      "file": "chapter_84.md",
      "title": "Zero",
-     "words": 3198
+     "words": 3194
     },
     {
      "n": 85,
      "file": "chapter_85.md",
      "title": "Not Joking",
-     "words": 2933
+     "words": 2928
     },
     {
      "n": 86,
      "file": "chapter_86.md",
      "title": "Points",
-     "words": 3262
+     "words": 3258
     },
     {
      "n": 87,
      "file": "chapter_87.md",
      "title": "The Thing He Was Waiting For",
-     "words": 3765
+     "words": 3756
     },
     {
      "n": 88,
      "file": "chapter_88.md",
      "title": "Crane and Dragon",
-     "words": 3008
+     "words": 3002
     },
     {
      "n": 89,
      "file": "chapter_89.md",
      "title": "Nice Acting!",
-     "words": 3778
+     "words": 3773
     },
     {
      "n": 90,
      "file": "chapter_90.md",
      "title": "The Highest Level",
-     "words": 3435
+     "words": 3429
     },
     {
      "n": 91,
      "file": "chapter_91.md",
      "title": "The Valley of Two Kings",
-     "words": 2961
+     "words": 2953
     },
     {
      "n": 92,
      "file": "chapter_92.md",
      "title": "Seen and Spared",
-     "words": 2943
+     "words": 2937
     },
     {
      "n": 93,
      "file": "chapter_93.md",
      "title": "The Weight of a Hundred Years",
-     "words": 2992
+     "words": 2983
     },
     {
      "n": 94,
      "file": "chapter_94.md",
      "title": "What the Sword Was For",
-     "words": 4112
+     "words": 4104
     },
     {
      "n": 95,
      "file": "chapter_95.md",
      "title": "What Was Real",
-     "words": 3526
+     "words": 3520
     },
     {
      "n": 96,
      "file": "chapter_96.md",
      "title": "One Point",
-     "words": 3958
+     "words": 3953
     },
     {
      "n": 97,
      "file": "chapter_97.md",
      "title": "What Full Marks Buy",
-     "words": 3515
+     "words": 3508
     },
     {
      "n": 98,
      "file": "chapter_98.md",
      "title": "The Heart is the Hammer",
-     "words": 4042
+     "words": 4034
     },
     {
      "n": 99,
      "file": "chapter_99.md",
      "title": "Ten Thousand Refinements",
-     "words": 3379
+     "words": 3373
     },
     {
      "n": 100,
      "file": "chapter_100.md",
      "title": "Every Weapon Is One Idea",
-     "words": 3619
+     "words": 3611
     },
     {
      "n": 101,
      "file": "chapter_101.md",
      "title": "What the Sword Was",
-     "words": 3684
+     "words": 3677
     },
     {
      "n": 102,
      "file": "chapter_102.md",
      "title": "The Honest Instrument",
-     "words": 8482
+     "words": 8476
     },
     {
      "n": 103,
      "file": "chapter_103.md",
      "title": "Scrap Is Not Free",
-     "words": 6162
+     "words": 6155
     },
     {
      "n": 104,
      "file": "chapter_104.md",
      "title": "The Better Offer",
-     "words": 5444
+     "words": 5438
     },
     {
      "n": 105,
      "file": "chapter_105.md",
      "title": "The Sword Said It First",
-     "words": 6662
+     "words": 6654
     },
     {
      "n": 106,
      "file": "chapter_106.md",
      "title": "The Frost Spoke First",
-     "words": 6477
+     "words": 6470
     },
     {
      "n": 107,
      "file": "chapter_107.md",
      "title": "The Door She Showed",
-     "words": 7704
+     "words": 7697
     },
     {
      "n": 108,
      "file": "chapter_108.md",
      "title": "The Receipt",
-     "words": 6335
+     "words": 6330
     },
     {
      "n": 109,
      "file": "chapter_109.md",
      "title": "Something That Hits Back",
-     "words": 5558
+     "words": 5551
     },
     {
      "n": 110,
      "file": "chapter_110.md",
      "title": "The Seam",
-     "words": 5617
+     "words": 5612
     },
     {
      "n": 111,
      "file": "chapter_111.md",
      "title": "Two Smiths, One Roof",
-     "words": 5368
+     "words": 5361
     },
     {
      "n": 112,
      "file": "chapter_112.md",
      "title": "The Freaks",
-     "words": 5397
+     "words": 5392
     },
     {
      "n": 113,
      "file": "chapter_113.md",
      "title": "The Expensive Ticket",
-     "words": 4266
+     "words": 4260
     },
     {
      "n": 114,
      "file": "chapter_114.md",
      "title": "Two Tickets to Shrek",
-     "words": 4130
+     "words": 4123
     },
     {
      "n": 115,
      "file": "chapter_115.md",
      "title": "The Saints Come Down",
-     "words": 4386
+     "words": 4379
     },
     {
      "n": 116,
      "file": "chapter_116.md",
      "title": "The Grindstone",
-     "words": 4443
+     "words": 4438
     }
    ],
-   "total_words": 572212,
-   "words_label": "572K"
+   "total_words": 571471,
+   "words_label": "571K"
   },
   {
    "title": "The Unraveled Tide",
@@ -1104,148 +1104,148 @@
      "n": 1,
      "file": "chapter_01.md",
      "title": "The Two Hiders",
-     "words": 5813
+     "words": 5807
     },
     {
      "n": 2,
      "file": "chapter_02.md",
      "title": "The Sect of Three",
-     "words": 3010
+     "words": 3003
     },
     {
      "n": 3,
      "file": "chapter_03.md",
      "title": "Blue Lightning, Blue Silver",
-     "words": 2716
+     "words": 2709
     },
     {
      "n": 4,
      "file": "chapter_04.md",
      "title": "The Furnace",
-     "words": 3769
+     "words": 3764
     },
     {
      "n": 5,
      "file": "chapter_05.md",
      "title": "The Threshold",
-     "words": 3624
+     "words": 3619
     },
     {
      "n": 6,
      "file": "chapter_06.md",
      "title": "The Trial",
-     "words": 3861
+     "words": 3856
     },
     {
      "n": 7,
      "file": "chapter_07.md",
      "title": "The Whetstone",
-     "words": 4348
+     "words": 4343
     },
     {
      "n": 8,
      "file": "chapter_08.md",
      "title": "First Circles",
-     "words": 3681
+     "words": 3676
     },
     {
      "n": "8b",
      "file": "chapter_08a.md",
      "title": "The First Rank (Chapter 8-B)",
-     "words": 2784
+     "words": 2778
     },
     {
      "n": 9,
      "file": "chapter_09.md",
      "title": "Iron",
-     "words": 3543
+     "words": 3539
     },
     {
      "n": 10,
      "file": "chapter_10.md",
      "title": "The Gate",
-     "words": 3393
+     "words": 3388
     },
     {
      "n": 11,
      "file": "chapter_11.md",
      "title": "The Seams",
-     "words": 3454
+     "words": 3449
     },
     {
      "n": 12,
      "file": "chapter_12.md",
      "title": "The Fur",
-     "words": 3088
+     "words": 3083
     },
     {
      "n": 13,
      "file": "chapter_13.md",
      "title": "The Fifth",
-     "words": 3238
+     "words": 3233
     },
     {
      "n": 14,
      "file": "chapter_14.md",
      "title": "The Lake",
-     "words": 3166
+     "words": 3161
     },
     {
      "n": 15,
      "file": "chapter_15.md",
      "title": "The Ledger of Two Fires",
-     "words": 3753
+     "words": 3745
     },
     {
      "n": 16,
      "file": "chapter_16.md",
      "title": "The Midnight Runner",
-     "words": 3089
+     "words": 3083
     },
     {
      "n": 17,
      "file": "chapter_17.md",
      "title": "The Room Is the Team",
-     "words": 3635
+     "words": 3627
     },
     {
      "n": 18,
      "file": "chapter_18.md",
      "title": "The Red Veil",
-     "words": 3000
+     "words": 2994
     },
     {
      "n": 19,
      "file": "chapter_19.md",
      "title": "The Hidden Weapons",
-     "words": 2846
+     "words": 2840
     },
     {
      "n": 20,
      "file": "chapter_20.md",
      "title": "The Rehearsal",
-     "words": 2885
+     "words": 2880
     },
     {
      "n": 21,
      "file": "chapter_21.md",
      "title": "Round One",
-     "words": 2877
+     "words": 2872
     },
     {
      "n": 22,
      "file": "chapter_22.md",
      "title": "Knockout Brackets",
-     "words": 4013
+     "words": 4008
     },
     {
      "n": 23,
      "file": "chapter_23.md",
      "title": "The Watching",
-     "words": 4482
+     "words": 4477
     }
    ],
-   "total_words": 84068,
+   "total_words": 83934,
    "words_label": "84K"
   },
   {
@@ -1254,7 +1254,7 @@
    "badge": "LIVE \u00b7 CH 15 \u00b7 ULTRA CLEAN PROSE",
    "live": true,
    "desc": "Native hybrid Kryptonian/Daxamite, Adaptation Talent, self-sealed human-level, works for Cat Grant. S01 canon on-page OC, no future knowledge. Ch9-12 clean rebuild: no ticker spam, no Cat private-secrets, proper superpowered fights, consensual romance kara.",
-   "note": "Ch15 R4 1155w ultra clean prose per sweep flag d965b8e - before was summary notes with reviewer voice proper superpowered fight no jokes Tough position Slightly disappointing, now proper prose past tense descriptive no meta no ticker no Cat secrets no spam",
+   "note": "Current as of 2026-10-07 \u2014 all fifteen chapters in their latest editions (the Ch9-Ch15 revisions included; byte-identical to the source repo).",
    "repo": "https://github.com/gm5206663-bit/supergirl-adrian-vale",
    "repo_name": "supergirl-adrian-vale",
    "id": "supergirl_adrian_vale",
@@ -1263,95 +1263,95 @@
      "n": 1,
      "file": "Chapter_01_Adrian_Vale.md",
      "title": "01 Adrian Vale",
-     "words": 4291
+     "words": 4284
     },
     {
      "n": 2,
      "file": "Chapter_02_A_Familiar_Face.md",
      "title": "02 A Familiar Face",
-     "words": 3871
+     "words": 3864
     },
     {
      "n": 3,
      "file": "Chapter_03_The_Name_He_Feared.md",
      "title": "03 The Name He Feared",
-     "words": 3537
+     "words": 3530
     },
     {
      "n": 4,
      "file": "Chapter_04_What_Remains.md",
      "title": "04 What Remains",
-     "words": 3549
+     "words": 3542
     },
     {
      "n": 5,
      "file": "Chapter_05_In_Plain_Sight.md",
      "title": "05 In Plain Sight",
-     "words": 5580
+     "words": 5572
     },
     {
      "n": 6,
      "file": "Chapter_06_Under_the_Headline.md",
      "title": "06 Under the Headline",
-     "words": 4775
+     "words": 4766
     },
     {
      "n": 7,
      "file": "Chapter_07_How_Does_She_Do_It.md",
      "title": "07 How Does She Do It",
-     "words": 3742
+     "words": 3731
     },
     {
      "n": 8,
      "file": "Chapter_08_The_Woman_Who_Stayed.md",
      "title": "08 The Woman Who Stayed",
-     "words": 3972
+     "words": 3965
     },
     {
      "n": 9,
      "file": "Chapter_09_Red_Faced_and_Named.md",
      "title": "09 Red Faced and Named",
-     "words": 2148
+     "words": 4318
     },
     {
      "n": 10,
      "file": "Chapter_10_Red_Faced_Consequence.md",
      "title": "10 Red Faced Consequence",
-     "words": 2641
+     "words": 3504
     },
     {
      "n": 11,
      "file": "Chapter_11_The_Sun.md",
      "title": "11 The Sun",
-     "words": 1933
+     "words": 4268
     },
     {
      "n": 12,
      "file": "Chapter_12_The_Kiss.md",
      "title": "12 The Kiss",
-     "words": 1565
+     "words": 4060
     },
     {
      "n": 13,
      "file": "Chapter_13_Human_for_a_Day.md",
      "title": "13 Human for a Day",
-     "words": 1740
+     "words": 3295
     },
     {
      "n": 14,
      "file": "Chapter_14_Hostile_Takeover.md",
      "title": "14 Hostile Takeover",
-     "words": 1353
+     "words": 3540
     },
     {
      "n": 15,
      "file": "Chapter_15_Blood_Bonds.md",
      "title": "15 Blood Bonds",
-     "words": 1155
+     "words": 2943
     }
    ],
-   "total_words": 45852,
-   "words_label": "46K"
+   "total_words": 59182,
+   "words_label": "59K"
   },
   {
    "title": "One in a Thousand",
@@ -1359,7 +1359,7 @@
    "badge": "LIVE \u00b7 CH 7 \u00b7 GATE-PASS",
    "live": true,
    "desc": "Su Yan of Glorybound \u2014 the city physician's boy, born with the trash beast-soul Luo Sanpao and innate soul power one \u2014 walks his own road in the same town where canon's boy walks his. Canon whole, the OC woven in, every number earned and receipted.",
-   "note": "Chapters land only when the gates pass. The canon runs whole; the OC walks beside it.",
+   "note": "Current as of 2026-10-07 \u2014 all seven chapters in their latest editions (byte-identical to the source repo); the canon runs whole, the OC walks beside it.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
    "repo_name": "soul-land-universal-kit \u00b7 soul_land_3_oc",
    "id": "one_in_a_thousand",
@@ -1368,47 +1368,47 @@
      "n": 1,
      "file": "Chapter_01_The_Reading.md",
      "title": "The Reading",
-     "words": 4301
+     "words": 5184
     },
     {
      "n": 2,
      "file": "Chapter_02_The_House_and_the_Road.md",
      "title": "The House and the Road",
-     "words": 5713
+     "words": 5591
     },
     {
      "n": 3,
      "file": "Chapter_03_A_Bowl_and_a_Name.md",
      "title": "A Bowl and a Name",
-     "words": 6942
+     "words": 6727
     },
     {
      "n": 4,
      "file": "Chapter_04_A_Thousand_Times.md",
      "title": "A Thousand Times",
-     "words": 9894
+     "words": 9885
     },
     {
      "n": 5,
      "file": "Chapter_05_Three_Winters.md",
      "title": "Three Winters",
-     "words": 14300
+     "words": 14273
     },
     {
      "n": 6,
      "file": "Chapter_06_Thirty_Thousand.md",
      "title": "Thirty Thousand",
-     "words": 11317
+     "words": 11312
     },
     {
      "n": 7,
      "file": "Chapter_07_The_Refusal.md",
      "title": "The Refusal",
-     "words": 10742
+     "words": 10737
     }
    ],
-   "total_words": 63209,
-   "words_label": "63K"
+   "total_words": 63709,
+   "words_label": "64K"
   },
   {
    "title": "Qian Xun Ji Reborn",

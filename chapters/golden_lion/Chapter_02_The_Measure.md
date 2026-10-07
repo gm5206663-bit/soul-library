@@ -202,15 +202,3 @@ Down the corridor the rule-giving voice had reached number seven, with no end in
 ---
 
 ---
-
-# CHAPTER CARDS (ledger-sync · non-prose)
-
-**REBUILD NOTE (v4):** plain-law rewrite; all carded values unchanged.
-
-**Carded facts:** age-slate *eleven winters and a spring* · crystal **23** (brush-stall beat) · wax 5-pulse ring-seal · soul-call full (mane, amber-awl eyes, **20 cm claws**, handspan frame, aura "kneel or be counted") · rings **yellow + purple**; doctrine ceiling 764 stated by crowd-math · **Teacher Wang** `[design placement]` — lines: "Shrek collects the possible," thumb-in-furrow, "Count first," "faces differ by this much" · strike: **5 furrows, 2 cun**, ≈5% reserve · fee **2 gold** (purse **29 g 4 s**) · badge **Jia-105** · broom-elder bow flavor · **Room 105 × Qiu Yuan**, two-person administrative rooming per canon system law (108 named as the same system, background) · window bed + hammer + letter-in-drawer · dawn class-lists hook · Room-108 rules-argument as offscreen rumor only.
-
-**Qiu Yuan card v2:** volume-class pride, banner trained two inches; admin-mouth quirk; gets first roommate terms ("announce the forge-hour") — arc alive, canon-silent.
-
-**Self-audit tick:** simile budget held (1/scene, plain) · canon beats exact: crystal/slate/stele/2-gold fee/dorm-two-person system ✓ · teacher dialogue house-checked (plain, in-voice).
-
-**Fortune queue: 0. Next: ch 3 — Class 1, and the woman with the chalk.**

@@ -14,7 +14,7 @@ He knew law before he lived it. Soul power level was title's worth of climbing, 
 
 He was seven years old, and he was at door his father had leaned on for twenty years, and he had arrived there in single year of nights.
 
-He slept better than he had any right to. Machine ran on.
+He slept better than he had any right to. Machine ran on, all hours, at his best, compounding. That was honest yield twenty four seven. Pool darkened. Body grew denser. Blood fed frame.
 
 ---
 
@@ -107,7 +107,6 @@ That night, Ye Cang looked. It was gate of hunt year, and gates got whole panel,
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 10 · innate 1 · the wall, held three years」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 100% → Silent Wind Step Mid 1% (evolution chain) · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」
 > 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」
 > 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」

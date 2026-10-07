@@ -59,7 +59,7 @@ Zhu Lu considered this with the seriousness it deserved; it sat fully inside her
 
 "And the softy-butterfly?"
 
-"Wang Dong." For the first time in the exchange, edge: a cold, collegial, genuinely unmet-yet edge, aristocrat sized. "Hooyuhao's friend. President-mannered." He considered. "He can stay reigning six months. Sunrise is paid for in *mornings*. It's a currency that runs out at noon."
+"Wang Dong." For the first time in the exchange, edge: a cold, collegial, genuinely unmet-yet edge, aristocrat sized. "Huo Yuhao's friend." He considered. "He can stay reigning six months. Sunrise is paid for in *mornings*. It's a currency that runs out at noon."
 
 Zhu Lu filed both, which was her whole education, and rose to leave. At the colonnade she paused — loyalty's last errand — "The gap line, from the first day? In the plaza. He's kept it unpaid, Huabin."
 
@@ -144,18 +144,3 @@ Zhou Yi watched the signatures come in from her sill above the plaza. Unreadable
 ---
 
 ---
-
-# CHAPTER CARDS (ledger-sync · non-prose)
-
-**NATURAL-DOCTRINE anatomy — panel/cause↔effect table:**
-
-| Panel | canon source | divergence rows | cause → effect on-page |
-|---|---|---|---|
-| Part 1 the settling | combat rotation + teacher economy `[canon-adjacent]`; all non-named sparring partners `[design]`-declared | G01, G07 | week-2 spar: score unchanged (canon win), our boy's variant = "warranty" beat; the filing habit born (weatherman matures from aphorism to method — G03 grows without proclamation); Deng Wu learns falling as curriculum (N-5: ordinary life carried) |
-| **Part 2 prince's file — NON-OC PANEL** | canon: Dai Huabin persona (proud, strongest-by-effort, dignified) + Zhu Lu adjutant-role `(canon-adjacent venue: `evening extra practice`)`; subject `[design]` | G01, G03, **G07** | Long-delayed natural bill: his plaza debt ("Your sky" line, day 1) re-marked unpaid; his reading is CORRECT & dignified: "he isn't spending anything" = a peer poignantly decoding G02's same signal as Zhou Yi (two masters of method reading the same boy from opposite stations); horizon order "square-card changes and Sundays" = his homework, no villain-sneer, canon-protected; his rival line at Wang Dong (sunrise currency/noon) = the prince measuring the prince — canonicity untouched |
-| Part 3 hall week 2 | `[canon-era soul-tools system]`; Instructor He `[design]` | **G05 spine** | the boy's first natural era-question, asked as trade-economics, not lament: "why hands on the workbench?" — answer kept human, honest, non-authorial: machines stamp, hands remember (banked ember → the silver-fish drawer of kept words, character not speech) |
-| Part 4 teams board | canon: new-student term assessment, teams of three, ~3-month arc = canon spine of the fresh year `[canon event boldly used]` | G01, G02 | bracket signs itself unpaid-debt-free and nearly even — the school converts dorm warmth into official instrument; opposing team locked as canon's own (Wang Dong · Xiao Xiao · Huo Yuhao = canon team's shape honored); G07 rivalry insured for the season; Zhou Yi's winter-thread visibly alive (G02 payer) |
-
-**Payer discipline:** spine stays at ember-bank (per author's early amber-law moderation: era tension is carried, not tipped); Huabin = horizon player, never pre-emptive villain (canon dignity law).
-**Grammar pass:** avg ≈22, dialogue knotted, no "the way" >2, no ledger-token talk (L-10) — the method is dialogue now.
-**Fortune queue: 0. Next: ch 7 — the filings meet the arena: bracket's first team drill + a week 3 Square Two rematch ((+1 touch? keep receipt)); and the canon corridor's business continues around them.**

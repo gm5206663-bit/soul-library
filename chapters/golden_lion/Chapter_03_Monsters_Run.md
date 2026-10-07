@@ -187,13 +187,13 @@ At the bell, the plaza held ninety-one ruined freshmen, one iron-haired teacher,
 
 The sunrise boy walked, ran-out and glorious anyway — most laps, twice the field's count, and five final minutes flat on his face in the dust.
 
-"First home this morning. Most laps this afternoon. The office of class president is yours." Zhou Yi raised her voice over the murmur. "Any student who defeats him takes the office — and keeps it as long as they can hold it." Her eyes traveled the ruins of Class 1 for challengers, and found none. "Wise. Now the second office. It is not mine to award.
+"First home this morning. Most laps this afternoon. The class takes its gauge from you — whether you want the job or not." Zhou Yi raised her voice over the murmur. "Any student who wants his morning had better outrun it." Her eyes traveled the ruins of Class 1 for challengers to that, and found none. "Wise. Now the true office. It is not a prize for legs.
 
 "Huo Yuhao. Stand."
 
 The plain boy stood. Wobbled. Stayed up.
 
-"The drill's law was: the last one finished is expelled. This class had stopped running and become an audience — and one boy would not stop, and because one boy would not stop, the rest of you stood up and ran beside him. There was no last finisher. So the verdict does not fall today: **no one is expelled — because of him.**" The book closed with a sound like a year ending. "You are my second class president, Huo Yuhao. Bought with legs. Unarguable. The two of you will run this room together without bleeding on it. Dismissed."
+"The drill's law was: the last one finished is expelled. This class had stopped running and become an audience — and one boy would not stop, and because one boy would not stop, the rest of you stood up and ran beside him. There was no last finisher. So the verdict does not fall today: **no one is expelled — because of him.**" The book closed with a sound like a year ending. "You are my class president, Huo Yuhao. The weakest rank in this room — and the office is his anyway. Bought with legs. Unarguable. The rest of you will catch him or follow him. Dismissed."
 
 The applause began in the tired ranks and moved around the square like weather.
 
@@ -211,11 +211,11 @@ Huo Yuhao drank, coughed, and gave the gourd back still half-full. "Half," he sa
 
 "Jin Yang."
 
-"Wang Dong," said Wang Dong, arriving, taking the gourd, and finishing what was left. "Class president, both of us. Petitions accepted during reasonable hours."
+"Wang Dong," said Wang Dong, arriving, taking the gourd, and finishing what was left. "Class monitor's natural monarch. Petitions accepted through him, during reasonable hours."
 
 Somebody's shoe missed his ear by an inch. He ducked without looking and gave the plaza back its smile, and the laugh went around the fountain once, tired and real, and took even the shoe-thrower with it.
 
-"He's not so bad," Huo Yuhao said quietly, watching the other president accept the crowd. "He carried me twelve laps. Complained through ten of them."
+"He's not so bad," Huo Yuhao said quietly, watching Wang Dong accept the crowd. "He carried me twelve laps. Complained through ten of them."
 
 "That's friendship," said Qiu Yuan, solemn from the ground. "Where I come from, complaining is half of it."
 
@@ -272,15 +272,3 @@ one bun, one treaty, two names on one door.
 ---
 
 ---
-
-# CHAPTER CARDS (ledger-sync · non-prose)
-
-**REBUILD NOTE (v4):** plain-law rewrite. Canon spine re-verified (5th verification); butterflies kept.
-
-**Canon spine — preserved:** creed/"monsters" ✓ · fight-stand Huo first/Wang Dong second ("he started it / I did not") ✓ · 100 laps/1 hr/≈300 m `[canon-adjacent]` ✓ · Wang Dong late-to-line first ✓ · Huo 12 short, carried home by Wang Dong, plaza roars ✓ · NINE named expulsions ✓ (100→91 `[canon-adjacent]`) · 30 jin/2 hr/last-expelled rule ✓ · Wang Dong most laps, down at end ✓ · Huo last-moving; class rises behind him ✓ · offices: **Wang Dong (strength, challengable) + Huo Yuhao (resolution; no one expelled because of him)** ✓
-
-**Butterflies `[design, canon-silent]`:** Deng Wu honest-100 (tempted, hauled) · strap-haul rise · gourd "new legs drink first"/"Half" + shoe beat · treaty item four signed · **bun note at the door → ch 4 hook** · "weatherman" nickname born · Deng Wu cousin-letter ("teachers are made of iron") flavor.
-
-**Self-audit tick:** plain-law pass (no stacked figures; 1 plain simile max/scene) · dialogue carried every scene · canon names correct (Zhou Yi, Huo Yuhao, Wang Dong, Dai Huabin, Xiao Xiao-left-out-of-name-use as rule; used only unnamed girl's voice — checked).
-
-**Fortune queue: 0. Next: ch 4 — the school week: theory hall, soul-tools lecture, the ox's daily adherence.**

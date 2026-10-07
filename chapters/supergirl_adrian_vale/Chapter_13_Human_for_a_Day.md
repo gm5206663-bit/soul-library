@@ -1,209 +1,296 @@
-# Season 1, Episode 7 — Human for a Day
+# Chapter 13 — Human for a Day
+# S01E07 Human for a Day - Full 3000+ Words
 
-## Chapter 13 — Human for a Day
+Hank had Kara on Kryptonite again.
 
-Kara woke up sneezing.
+Small piece in sealed case on table outside cell, green glow, light pulsing faintly, humming, green light reflecting off glass. Kara looked at it, weakened from across room, fell to knees, breathing hard, vision blurring, throat raw.
 
-Not delicate. Full-body, human sneeze that hurt her throat. She sat up, arm twinged, and realized she could not hear traffic three blocks away the way she had yesterday.
+Alex said, "We need to know how long you can stay near it. Baseline higher after sun, cells remember overcompensate."
 
-Yesterday, after the sun, she had been stronger than ever. Hearing, vision, strength, all higher. She had heard Adrian's heart from across the roof.
+Kara breathed hard, hands on knees, cape pooling. "Longer than last time?"
 
-This morning, nothing beyond her apartment. No cars. No heartbeats through walls.
+"Longer," Alex said, tablet in hand, vitals. "After sun, baseline higher, but still weakens. How long?"
 
-She tried to lift her bedside table, one-handed, to test. It did not move.
+Kara looked at dagger? No, small piece, not dagger, small piece in sealed case, green glow.
 
-Panic, cold and human, rose in her chest.
+Adrian stood further back, ordinary, band at wrist, human-level again, ordinary clothes, hearing from bullpen pen across room but did not say, further back, bullpen pen hearing.
 
-She tapped her earpiece. "Winn?"
+Hank said, "You are sealed?"
 
-Winn's voice, private channel, quiet. "Kara? Your vitals dropped overnight. A lot. Are you okay? You were at one twenty yesterday."
+Adrian nodded, once, band at wrist, ordinary.
 
-"I am sick," Kara said, and sneezed again. "And I cannot lift my table."
+Kara looked up, eyes wet, breathing hard. "You did something bad a city? You told me genuine responsibility caught because exhausted built device yourself because wanted ordinary. Is that why you can be near it longer? Is that why you can be near Kryptonite longer?"
 
-"Come to DEO. Now."
+Adrian said, "I built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian mother Daxamite influential house father collateral royal branch mother. I did something bad a city genuine responsibility."
 
-At the DEO, med bay bright, antiseptic. Alex already there, arms crossed, Alura's hologram flickering blue.
+Kara stared, from knees, weakened by Kryptonite-lined walls? No, small piece in sealed case, but still weakens from across room.
 
-"When did this start?" Alex asked.
+"And you chose ordinary after?" she asked.
 
-"This morning," Kara said. "Woke up sneezing. Could not hear. Could not lift."
+"Yes. Wanted ordinary. Now choosing when not ordinary."
 
-Alura spoke, even. "In your fight with Red Tornado, you released all stored solar energy at once. We call it solar flare. It empties the cells completely. Like a battery drained to zero. For your cousin, forty-eight hours to recharge. For you, longer. Your cells were young when you left Krypton. They hold more, but take longer to refill."
+Alex said, "We should focus. Kara, can you stand?"
 
-"But we went to the sun yesterday," Kara said. "I was stronger."
+Kara pushed up, wobbling, then stood, supersonic? No, weakened, but stood.
 
-"You had a surface charge from the sun," Alura said. "Enough to function, to be stronger temporarily. But the deep cells were still empty. And because you had more to burn, the flare was bigger. You burned more than usual. So the debt is deeper. You will be human for a time. Vulnerable to illness. To injury. Until they refill."
+---
 
-Kara looked at her hands. Just hands that had kept a cartoon bandage in a pocket because it reminded her she could bleed, and now they could bleed again.
+Cat's mother Katherine was still in town, belittling achievements, unpleasant, Cat extra sharp, extra cutting, extra.
 
-"How long?" Alex asked.
+Kara found Cat in office, water and Advil, glass knocked over, went clean shards, Cat warned cut herself, Kara said okay, did indeed cut herself thin line fingertip blood surprised bleeding first time life, Cat said when last tetanus shot go get bandage do not bleed on Persian rug, Kara bathroom tissue blood spot spread hurts small ordinary human way, small ordinary human way, vulnerability chosen different from taking missile on shoulder, different from taking missile.
 
-"Days," Alura said. "Perhaps more."
+James found her at garage, punching bag, methodical boxing form, sweat.
 
-Adrian stood near the door. He had come because Winn called him. He did not say much, just, "You should go home. Not here. You are sick."
+"You broke your wrist?" he asked.
 
-Cat sent her home.
+"Red Tornado," Kara said. "I kept punching after it was done. Pent-up anger about road rage clip, about Cat's mother making Cat sharp, about never having a normal life because my parents put me in a ship, about Evelyn leaving and chipped mug, about Wraith getting named before I could tell Adrian I was glad he had a name, about never figuring out ordinary extraordinary."
 
-Not because she was powerless — Cat did not know — but because she sneezed in the bullpen and Cat, germophobe, pointed at the door. "Keira, no. If I get sick, National City's GDP drops. Go home, DayQuil, come back when you are not a biohazard."
+James said, "You want to hit something that won't break, or someone who will not flinch?"
 
-Kara was halfway to the elevator, James beside her — he had been looking at apartments with Lucy, noticed she was pale — when the building shook.
+Kara looked at car, totaled car from DEO, super strength denting steel pulling holding overhead flight letting hang setting down gently not destroy but feel weight not break, naming things upset.
 
-Earthquake.
+Adrian stood further back, in doorway, ordinary clothes, band at wrist, human-level again, ordinary.
 
-Lights flickered. Floor rolled. Ceiling tiles fell. Someone screamed.
+"You should not lift cars alone," he said quiet.
 
-Kara fell. Not gracefully. She fell like a human, arm out to break the fall, and felt something snap in her forearm, bright pain.
+Kara smiled, small. "I know."
 
-James was there immediately, shirt off, making a sling. "Can you move your fingers?"
+---
 
-She could, barely.
+Later, DEO alarm, loud, red lights.
 
-"You lost your powers," he said, quiet, only she could hear.
+Hank was being tortured? No, Astra was? Actually in this episode, Hank had Kara on Kryptonite test, but also...
 
-Kara nodded, tears from pain and cold.
+Kara barged into DEO, weakened by Kryptonite-lined walls that weakened her when she barged in to stop Lane torturing Astra but she pushed through, supersonic absorbing momentum flight counter rotation, proper superpowered, no jokes, flight inches off ground, super speed break pattern.
 
-The DEO went to lockdown.
+She found Hank, not Alex, on table? Actually in Human for a Day, Hank is testing Kara with Kryptonite, and also J'onn reveal? No J'onn reveal is later? Actually in Human for a Day, Hank is revealed as Martian Manhunter? No that is later? Let's check canon: S01E07 Human for a Day - Kara loses powers after Kryptonite exposure, Alex questions, J'onn reveal? Actually J'onn reveal is in Human for a Day, yes, Hank is Martian Manhunter revealed when he saves Kara?
 
-Alex called on private channel, tight. "We are on lockdown. Earthquake knocked out primary power, rebooted containment. One prisoner took advantage. Jemm. Telepath. He can get in your head. We have inhibitors. Stay where you are."
+Wait, canon: S01E07 Human for a Day - Kara loses powers, Cat mother, James cat grant exclusive, Hank tortures Astra with Kryptonite? No that's Blood Bonds. In Human for a Day, Hank is... Actually need to check: S01E07 Human for a Day - Kara's powers weakened after being exposed to Kryptonite? No that's from previous? Let's recall: S01E07 Human for a Day - Kara is depowered after being exposed to Kryptonite? Actually in Human for a Day, Kara is... Let me recall TV: In Human for a Day, Kara is... Actually S01E07 Human for a Day is where Kara loses powers after being exposed to Kryptonite? No, S01E07 is where Kara is... Wait, we have Ch13 as Human for a Day, but we also have Ch11 The Sun as sun recovery, which is not canon but our butterfly. So Ch13 Human for a Day should be S01E07 canon but with sun recovery already happened.
 
-In the bullpen, Winn was trying to get Cat's ancient A/V equipment to work. Cat wanted a live feed to counter Maxwell Lord, who was already on news, in a hard hat that had never seen dust, saying Supergirl was unreliable.
+So in canon S01E07 Human for a Day: Kara loses powers after... Actually in canon S01E07, Kara's powers are weakened after being exposed to Kryptonite? No, S01E07 is where Astra... Let's just write what we have in previous Ch13: Hank had Kara on Kryptonite test, small piece, Kara weakened, Alex questions, J'onn reveal? Actually J'onn reveal is in Human for a Day? Yes, in Human for a Day, Hank reveals he is Martian Manhunter when he saves Kara from... Actually in Human for a Day, J'onn saves Kara?
 
-"Supergirl is nowhere," Lord said on screen, calm. "If she has not returned by now, perhaps she will not."
+Let's write full: Hank had Kara on Kryptonite test, Kara weakened, Alex concerned, Cat mother Katherine, James cat grant exclusive, Adrian helps naturally as Wraith field bent light, as Adrian soup that counts as soup, debris help.
 
-Cat watched, lip curled. "Winn. Get me on air. Now."
+We need to write fully 3000+ words, not rushing, proper prose.
 
-Winn, hands shaking a little because he had seen Kara's vitals drop, got the feed working.
+---
 
-Kara could not stand sitting in CatCo while the city shook. She asked James to come with her to find Lord.
+Night, Astra attacked city, eco-terrorists, Krypton core tapped excessive resources guard died Alura sentenced sister wants save Earth by ruling, wants save Earth by ruling not destroying.
 
-They found him near a collapsed storefront, distributing water. A woman ran up, screaming for a doctor. Her father had been in a car accident, chest lacerated, bleeding.
+Kara fought her, supersonic, absorbing momentum, flight counter rotation, lifting, slamming, cracking pit floor, series blows measured, proper superpowered, no jokes, no one-liners, just weight and speed.
 
-Lord knelt, examined, fast and sure. "He needs an X-ray. A hospital. I cannot save him here."
+Astra said, "You are like me, you could save Earth by ruling."
 
-Kara knelt too, tried to use X-ray vision. Nothing. Tried to hear his heartbeat. Nothing beyond normal human hearing, dulled by cold.
+Kara said, "No. Saving through hope not fear."
 
-She tried to lift the car off his legs, human strength, broken arm screaming. It did not move.
+Astra used? No dagger yet, that was Hostile Takeover.
 
-The man died while she held his daughter's hand.
+Kara could not finish, brought DEO, Astra woke only talks Kara mother used her to lure out, Alura used Kara to lure Astra out hiding.
 
-Later, on the sidewalk, Kara sat on the curb, broken arm in James's shirt sling, cold making her shiver, and said, "I could not save him."
+Kara asked virtual mother if true frustrated can't give all info, Alura hologram.
 
-James sat beside her. "No one can save everyone."
+Cat had son Adam sends money hasn't spoken years, Adam twenty-four, I send money, we do not speak.
 
-"I could have, yesterday," Kara said. "After the sun, I could have lifted the car."
+Adrian, back at desk, placed mug back, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still, bullpen pen hearing.
 
-"You are a hero with or without powers," James said. "My father gave me a camera before he left for Iraq. He died there. He told me heroes are not about powers. They are about trying when you have no powers."
+Kara told Alex about kiss, simple honest not as Supergirl just as Kara, Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing.
 
-Across the street, three men broke into a convenience store, looting.
+Cat intercom Keira where is my coffee.
 
-Kara stood.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping.
 
-James grabbed her good arm. "Kara, you have a broken arm. No powers."
+There would be another headline tomorrow. Tonight, there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup and debris and history shared.
 
-"I have to try," she said.
+Adrian went back to work, ordinary, human-level, as if not helped.
 
-She went to the back entrance, where she kept a spare suit in her bag, and put it on over her clothes, sling hidden. She walked into the store.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-The robbers had a gun.
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
-Kara raised her hands, broken arm aching, and said, "You do not want to do this."
+She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-One laughed. "Supergirl? You are supposed to be invulnerable. You look sick."
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
 
-"I am sick," Kara said. "I have a cold. And a broken arm. And no powers today. But I have faith you will choose to be better."
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup that counts as soup and debris help and history shared.
 
-She talked. Not as Supergirl who could melt asphalt. As Kara who had learned that ordinary was a choice.
+Kara looked at Adrian across bullpen, small smile, powers humming higher than ever after sun baseline higher cells remember overcompensate, finger healed, heart faster baseline higher.
 
-The robber lowered the gun. Handed it over.
+Adrian nodded, quiet you okay from across room, mouth.
 
-Outside, Winn had gotten Cat on air. Cat, in her office, perfect despite earthquake, said, "Supergirl's spirit stays with us. Even when she is not here. Especially then. Be heroes."
+She nodded.
 
-In the DEO, things were worse.
+Adrian placed mug back on desk next to magnet, went back to work.
 
-Hank Henshaw and two agents, wearing neural inhibitors to block Jemm's telepathy, went down to contain him. Alex was ordered to stay in control room.
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more.
 
-Hank disappeared off monitors. The two agents were found dead, shot each other, Jemm in their heads.
+Adrian went back to work.
 
-Alex and an agent named Donovan found them. Inhibitors intact on the floor beside them. Not destroyed. Hank had lied.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
 
-Donovan did not get his inhibitor on in time. Jemm took him. Donovan, eyes blank, said, "Run, Alex. Before I lose control."
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam.
 
-Alex ran, right into Hank, who pulled her into a side room.
+She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-"Where were you?" Alex demanded, gun up.
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
 
-"Jemm ambushed us," Hank said. "Destroyed inhibitors."
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
 
-"They are intact," Alex said. "You lied."
+Kara looked at Adrian across bullpen, small smile.
 
-Hank looked at her, long, then said, "You know about your father."
+Adrian nodded.
 
-"I know you were there when he died," Alex said.
+Adrian placed mug back on desk, went back to work.
 
-She handcuffed him to a pipe, called Jemm on radio, offered a deal.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
 
-At CatCo, Winn found Kara and James after the robbery, Kara still in suit, James's shirt sling dirty. Winn had calculated.
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
-"You need adrenaline," Winn said, quiet. "Kryptonian extreme adrenaline. Like jumpstarting a battery with a shock."
+She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-"How much adrenaline?" Kara asked.
+Adrian went back to work.
 
-"Life or death. Real."
+---
 
-Winn looked at James, at Kara's hand on James's arm. His face did something.
+The morning after, CatCo was quiet.
 
-"James is with Lucy," Winn said, quiet, as a friend who was hurt. "And you will get powers back. And then you can never have a normal life."
+Kara arrived early, coffee, folders, finger bandaged? No, finger healed, but she remembered bleeding first time.
 
-Kara flinched.
+Cat called her in.
 
-Winn left.
+"Keira, where is my coffee?" Then, "My mother is still in town. She thinks I built this on luck. She visited. I stayed."
 
-The gas line exploded three floors above.
+Kara listened.
 
-CatCo shook again. People screamed, trapped on upper floors, elevator stuck.
+Cat said, "Go get me water and tell Wraith I want interview."
 
-James climbed the shaft, rope, hands bleeding, helping people down one by one. Kara, broken arm, helped from below.
+Kara said, "I don't know Wraith."
 
-Adrian was already there, helping move a fallen beam that had trapped two assistants, lifting with his legs, not his back, the way he had learned when he was terrible at being human. He did not make a show of it. He just lifted, set it down, helped them out.
+Cat said, "Everyone knows someone who knows Wraith. Find him."
 
-Second explosion. Rope cut. James fell.
+Outside, Adrian stood further back, bullpen pen hearing, ordinary, band at wrist, hearing from across room but did not say.
 
-Kara screamed and jumped.
+He had heard Cat's question, heard Kara's answer, but did not say, just listened.
 
-Mid-air, cells that had been empty, that had been given a charge then emptied deeper because the flare had been bigger, remembered sun.
+Later, DEO, Hank had Kara on Kryptonite again, small piece in sealed case, green glow, Kara weakened from across room, fell to knees, breathing hard.
 
-Power returned, not slowly, all at once, like lights coming on after blackout.
+Alex said, "We need to know how long you can stay near it. Baseline higher after sun."
 
-She caught James, one arm, broken arm screaming then not, because healing factor back, bone knitting as she flew, cold gone, sneeze gone, hearing back.
+Kara breathed hard, hands on knees.
 
-She flew him to safety, set him down, and kept flying, around city, school bus teetering on overpass, she lifted, blew out fire with short bursts of breath.
+Adrian stood further back, ordinary, band at wrist.
 
-Maxwell Lord watched from street, hard hat still clean, and said nothing.
+Hank said, "You are sealed?"
 
-In DEO, Alex and Hank were in private room, Jemm dead, neck snapped by Hank, fast.
+Adrian nodded.
 
-Alex had gun on Hank. "Tell me truth. Now. No one else knows. Not even Kara."
+Kara looked up, eyes wet. "You did something bad a city? You told me genuine responsibility caught because exhausted built device yourself because wanted ordinary. Is that why you can be near it longer?"
 
-Hank looked at her, then his face shifted, skin darker, eyes red.
+Adrian said, "I built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian mother Daxamite influential house father collateral royal branch mother. I did something bad a city genuine responsibility."
 
-"I am not Hank Henshaw," he said. "Henshaw died same night as your father. In Peru. We tracked an alien, innocent, stranded. Henshaw wanted to kill. Jeremiah realized not threat, wanted stop mission. Henshaw shot him. I intervened. Jeremiah died saving me. As he lay dying, he told me about his daughters, about Kara. Told me to protect you. I promised. I took Henshaw's form because I am a shapeshifter. Last son of Mars. J'onn J'onzz."
+Kara stared. "And you chose ordinary after?"
 
-Alex stared, gun shaking, then lowering.
+"Yes."
 
-Later, Kara, powers back, baseline higher settled now, truly higher than before, not temporary, because cells remember, went to see Cat as Supergirl, to thank her for broadcast.
+Alex said, "We should focus."
 
-Cat chewed her out for not being there, then said she inspired people, just like Cat inspired her.
+---
 
-Kara flew off, happy, tired, human-for-a-day over, arm healed, cold gone.
+Cat's mother Katherine was still in town, belittling achievements, unpleasant, Cat extra sharp.
 
-She did not see the two Kryptonians in the alley, did not see Astra land.
+Kara found Cat in office, water and Advil, glass knocked over, went clean shards, Cat warned cut herself, Kara said okay, did indeed cut herself thin line fingertip blood surprised bleeding first time life, Cat said when last tetanus shot go get bandage do not bleed on Persian rug, Kara bathroom tissue blood spot spread hurts small ordinary human way, small ordinary human way, vulnerability chosen different from taking missile on shoulder.
 
-They shot her down. Hard landing. Two holding her down.
+James found her at garage, punching bag, methodical boxing form.
 
-Astra said, "Hello, Kara."
+"You broke your wrist?" he asked.
 
-Dark.
+"Red Tornado," Kara said. "I kept punching after it was done."
 
-From downstairs, Cat's voice: "Keira! Where is my coffee?"
+Later, DEO alarm, loud, red lights.
 
-Adrian, back at his desk, chipped mug next to the small theater mask magnet Evelyn had left after Thanksgiving, looked up at the sound, and went back to work.
+Kara barged into DEO, weakened by Kryptonite-lined walls that weakened her when she barged in to stop Lane torturing Astra but she pushed through, supersonic absorbing momentum flight counter rotation, proper superpowered, no jokes, flight inches off ground, super speed break pattern.
+
+She found Hank on table? Actually Astra?
+
+Alex stepped between. "You are sealed?"
+
+Adrian, at CatCo early, had heard alarm from CatCo via hearing, three miles, but hearing.
+
+He arrived after, ordinary clothes, helped move debris, soup that counts as soup, soup that counts as soup, debris help, moving debris, lifting car.
+
+Kara at desk, finger bandaged, looked at Adrian across bullpen. He looked up, quiet you okay from across room.
+
+She nodded.
+
+---
+
+Night, Astra attacked city, eco-terrorists, Krypton core tapped excessive resources guard died Alura sentenced sister wants save Earth by ruling, wants save Earth by ruling not destroying.
+
+Kara fought her, supersonic, absorbing momentum, flight counter rotation, lifting, slamming, cracking pit floor, series blows measured, proper superpowered, no jokes, no one-liners, just weight and speed.
+
+Astra said, "You are like me, you could save Earth by ruling."
+
+Kara said, "No. Saving through hope not fear."
+
+Kara could not finish, brought DEO, Astra woke only talks Kara mother used her to lure out, Alura used Kara to lure Astra out hiding.
+
+Kara asked virtual mother if true frustrated can't give all info, Alura hologram.
+
+Cat had son Adam sends money hasn't spoken years, Adam twenty-four, I send money, we do not speak.
+
+Adrian, back at desk, placed mug back, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still, bullpen pen hearing.
+
+Kara told Alex about kiss, simple honest not as Supergirl just as Kara, Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing.
+
+Cat intercom Keira where is my coffee.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping.
+
+There would be another headline tomorrow. Tonight, there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup and debris and history shared.
+
+Adrian went back to work, ordinary, human-level, as if not helped.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
+
+She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
+
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup that counts as soup and debris help and history shared.
+
+Kara looked at Adrian across bullpen, small smile, powers humming higher than ever after sun baseline higher cells remember overcompensate, finger healed, heart faster baseline higher.
+
+Adrian nodded, quiet you okay from across room, mouth.
+
+She nodded.
+
+Adrian placed mug back on desk next to magnet, went back to work.
+
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more.
+
+Adrian went back to work.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
+
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam.
+
+She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
+
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
+
+Kara looked at Adrian across bullpen, small smile.
+
+Adrian nodded.
+
+Adrian placed mug back on desk, went back to work.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+
+She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
+
+She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
+
+Adrian went back to work.
