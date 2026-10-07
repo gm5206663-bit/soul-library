@@ -8,43 +8,39 @@ Kara stood outside it, powers back, arm healed, and looked at her aunt.
 
 Astra sat inside, wrists bound with cuffs that glowed faint Kryptonian script. On the table outside the cell, in a sealed case, was a dagger. Green glow. Kryptonite.
 
-Two days ago, in the alley behind Lord Technologies, Astra had held that same dagger to Kara's throat. Kara had been surprised not because Astra had Kryptonite — she knew Lord had been collecting it since Red Tornado — but because Astra was holding it bare-handed and not burning.
+Two days ago, in the alley behind Lord Technologies, Astra had held that same dagger to Kara's throat. Kara had been surprised not because Astra had Kryptonite — she knew Lord had been collecting it since Reactron — but because Astra was holding it bare-handed and not burning. Kryptonians should burn.
 
-In canon, Astra would have said she shielded herself. In our world, the shielding had a history.
+Astra had said she shielded herself.
 
-Three weeks earlier, after the freeway and the train, Cat Grant had named the masked helper at 7am editorial: The Wraith of National City. Not ticker spam every chapter, but once, natural. Headline. Photo blurred, flight, lifting.
+Three weeks earlier, after the freeway and the train, Cat Grant had named the masked helper at 7am editorial: The Wraith of National City. Headline. Photo blurred, flight, lifting.
 
 Lord had offered a reward for info on Wraith, once. DEO had said outside jurisdiction, once. Winn had set a private monitor, tag WRAITH, tracking sightings, closed, no civilian disclosure.
 
 Lord had not found Wraith. But he had found that Wraith's field bent light, that he absorbed momentum, that he lifted without breaking, that he was not Kryptonian in the usual way.
 
-So Lord had started developing shielding. Not for Wraith — for what Wraith might be fighting. He had pulled Red Tornado's arm after Kara melted asphalt with wide sustained beam in Ch10, had studied the ionization, had kept the Kryptonite he had been stockpiling since Reactron.
+So Lord had started developing shielding. Not for Wraith — for what Wraith might be fighting. He had pulled Red Tornado's arm after Kara melted asphalt with a wide beam in the industrial yard, had studied the ionization, had kept the Kryptonite he had been stockpiling.
 
-During Ch11, when Adrian took Kara close to the sun, Lord's satellites had caught a spike. A private log, once.
+During the week when Adrian took Kara close to the sun, Lord's satellites had caught a spike. A private log, once.
 
-Lord had combined: Wraith field data + Red Tornado ionization + sun spike + Kryptonite.
+Lord had combined Wraith field data, Red Tornado ionization, sun spike, and Kryptonite. He had made a lining. Thin, like the DEO's Kryptonite-lined walls that weakened Kara when she barged in to stop Lane torturing Astra, but wearable.
 
-He had made a lining. Thin, like the DEO's Kryptonite-lined walls that weakened Kara when she barged in to stop Lane torturing Astra, but wearable.
-
-Astra had not built it. She had taken it. During Hostile Takeover attack on Lord Technologies at end of Ch13, when Non and Commander Gor attacked Lord Technologies and Lord fought with high-tech gadgets and DEO backup and Kara hit Non mid-flight supersonic absorbing momentum flight counter rotation lifting slamming proper superpowered fight no jokes and Adrian as Wraith helped evacuate field bent light lifting beam lifting car ordinary choice share catching Kara through lab wall quiet you okay, Non had grabbed more than Hank. He had grabbed a case.
+Astra had not built it. She had taken it. During the attack on Lord Technologies at end of last week, when Non and Commander Gor attacked and Lord fought with high-tech gadgets and DEO backup and Kara hit Non mid-flight supersonic absorbing momentum flight counter rotation lifting slamming and Adrian helped evacuate lifting a beam and a car and catching Kara through a lab wall, Non had grabbed more than Hank. He had grabbed a case.
 
 Now that case was open in DEO lab, empty, and Astra's suit had a new sheen at the wrists, where cuffs glowed.
 
-That was why she had not been affected by the Kryptonite dagger in the alley. Not random canon immunity. Natural butterfly of Wraith public naming → Lord reward → Lord develops shielding to capture Wraith → Astra steals it during Lord Tech attack.
-
-Kara understood that now, standing outside cell, because baseline higher settled truly higher permanent cells remember overcompensate, hearing three blocks, hearing Adrian's pen from bullpen, because she was listening for him.
+Kara understood that now, standing outside the cell.
 
 "You let me capture you," Kara said.
 
 Astra smiled, small. "You are learning."
 
-Behind Kara, Alex and J'onn — still in Henshaw's form for now, because only Alex knew per Ch13 J'onn reveal last son Mars real Henshaw died Peru Jeremiah sacrifice promised protect daughters cannot tell Kara yet — watched through glass. Alex was concerned that Kara was not ready to kill Astra if it came to it. Kara had said her cousin does not kill.
+Behind Kara, Alex and J'onn — still in Henshaw's form for now, because only Alex knew — watched through glass. Alex was concerned that Kara was not ready to kill Astra if it came to it. Kara had said her cousin does not kill.
 
 Adrian stood further back. Evelyn's theater mask magnet was in his pocket, because he had taken it from his desk after Cat's emails were hacked and he wanted something ordinary to hold.
 
 Cat's emails had been hacked.
 
-Not Supergirl. Cat Grant, CEO, personal, embarrassing, Lois Lane nasty names, Idris Elba rejection, and worse — board threatening to remove her.
+Cat Grant, CEO, personal, embarrassing, Lois Lane nasty names, Idris Elba rejection, and worse — board threatening to remove her.
 
 Kara had overheard Armstrong, chairman of the board, on the phone in his office above CatCo, saying he hired someone to hack Cat to have her removed.
 
@@ -61,8 +57,6 @@ Kara flinched. "What?"
 "On Krypton, your mother was judge. She put me and Non in prison. We were trying to save Krypton. The core was being tapped, excessive, for resources. We tried to stop it. A guard died. Alura had to sentence us. But she knew we were right. And she used you, now, to lure me."
 
 Kara went to the room with Alura's hologram, asked if it was true, frustrated when Alura could not give all information, because Alura was AI, not mother.
-
-Adrian watched Kara's shoulders, the way she held them when she was trying not to cry.
 
 Later, Cat, in her office, wine on balcony, called Kara in.
 
