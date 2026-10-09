@@ -1413,10 +1413,10 @@
   {
    "title": "Qian Xun Ji Reborn",
    "era": "Soul Land · eleven years before canon (2619–2620)",
-   "badge": "LIVE · CH 4 · GATE-PASS",
+   "badge": "LIVE · CH 5 · GATE-PASS",
    "live": true,
    "desc": "The era’s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji’s body the night after the assault, and writes his own road — a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
-   "note": "Chapters land only when the gates pass. The canon runs whole; the story present has reached the turn of 2619 into 2620.",
+   "note": "Chapters land only when the gates pass. The canon runs whole; the story present has reached the turn of 2619 into 2620, and the Pope has been east to the basin with the two waters.",
    "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
    "repo_name": "qian-xunji-adaptation",
    "id": "qian_xunji",
@@ -1444,10 +1444,16 @@
      "file": "Chapter_04_The_Second_Core.md",
      "title": "The Second Core",
      "words": 2673
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05_The_Two_Waters.md",
+     "title": "The Two Waters",
+     "words": 3395
     }
    ],
-   "total_words": 11031,
-   "words_label": "11K"
+   "total_words": 14426,
+   "words_label": "14K"
   }
  ]
 }
