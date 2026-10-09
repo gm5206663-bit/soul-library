@@ -5,8 +5,11 @@
  <id>https://gm5206663-bit.github.io/soul-library/feed.xml</id>
  <link rel="self" href="https://gm5206663-bit.github.io/soul-library/feed.xml"/>
  <link rel="alternate" href="https://gm5206663-bit.github.io/soul-library/"/>
- <updated>2026-10-07T13:00:00Z</updated>
+ <updated>2026-10-07T15:30:00Z</updated>
  <author><name>Gaurav Meena</name></author>
+<entry><title>Qian Xun Ji Reborn &mdash; Chapter 4 rebuilt in the canon voice</title>
+  <id>urn:soul-library:qxr:ch4v5</id><link href="https://gm5206663-bit.github.io/soul-library/chapters/qian_xunji/Chapter_04_The_Second_Core.md"/>
+  <updated>2026-10-07T15:30:00Z</updated><summary>Rebuilt whole on the author&rsquo;s correction: the staged teacher struck, wrong-world diction out (physician &rarr; doctor), the invented saying out, and the prose rewritten in the register of Chapters 1&ndash;3. 2,784 words, gate PASS. Shelf total now 928,810.</summary></entry>
 <entry><title>The shelf, resynced — every copy now matches its source</title>
   <id>urn:soul-library:shelf:resync</id><link href="https://gm5206663-bit.github.io/soul-library/"/>
   <updated>2026-10-07T13:00:00Z</updated><summary>Twenty-nine stale chapter files replaced with their source repositories' latest editions (Supergirl &mdash; Adrian Vale's chapters 8-15 were old edits); every word count on the site re-measured from the files: 219 chapters, 928,740 words.</summary></entry>

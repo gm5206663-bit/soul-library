@@ -2,13 +2,13 @@
  "serials": [
   {
    "title": "The Golden Lion",
-   "era": "Soul Land 2 \u00b7 The Unrivaled Tang Sect era",
-   "badge": "LIVE \u00b7 CH 8 \u00b7 NEW CHAPTERS DAILY",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "LIVE · CH 8 · NEW CHAPTERS DAILY",
    "live": true,
    "desc": "Jin Yang, a village boy with a Golden Lion martial soul and a womb-born Adaptation Talent, walks the road to Shrek Academy at eleven. Canon shown, never skipped; the OC added, never centered.",
-   "note": "Current as of 2026-10-07 \u2014 the shelf copy tracks the source repo's latest (the live serial pushes near-daily; read the freshest in the source repo).",
+   "note": "Current as of 2026-10-07 — the shelf copy tracks the source repo's latest (the live serial pushes near-daily; read the freshest in the source repo).",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 soul_land_2_new",
+   "repo_name": "soul-land-universal-kit · soul_land_2_new",
    "id": "golden_lion",
    "chapters": [
     {
@@ -65,11 +65,11 @@
   },
   {
    "title": "The Grey Wolf",
-   "era": "Soul Land 2 \u00b7 The Unrivaled Tang Sect era",
-   "badge": "LIVE \u00b7 PERFECT REBUILD \u00b7 CH 6",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "LIVE · PERFECT REBUILD · CH 6",
    "live": true,
-   "desc": "Ye Cang, a hunter-village boy with Grey Wolf martial soul and innate rank one, dies on Earth and wakes on Douluo with a System called Ledger. Beside canon, same years as Huo Yuhao. Six chapters rebuilt perfectly \u2014 clean and clear, no nonsense repetition, every chapter 2400-3400w gated green, effective talent 3.5x Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow.",
-   "note": "Current as of 2026-10-07 \u2014 perfect rebuild v0.7.0, all six chapters in their latest editions (byte-identical to the source repo).",
+   "desc": "Ye Cang, a hunter-village boy with Grey Wolf martial soul and innate rank one, dies on Earth and wakes on Douluo with a System called Ledger. Beside canon, same years as Huo Yuhao. Six chapters rebuilt perfectly — clean and clear, no nonsense repetition, every chapter 2400-3400w gated green, effective talent 3.5x Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow.",
+   "note": "Current as of 2026-10-07 — perfect rebuild v0.7.0, all six chapters in their latest editions (byte-identical to the source repo).",
    "repo": "https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf",
    "repo_name": "soul-land-2-the-grey-wolf",
    "id": "grey_wolf",
@@ -116,13 +116,13 @@
   },
   {
    "title": "The Devouring Dragon",
-   "era": "Soul Land \u00b7 one thousand years after Book One",
-   "badge": "LIVE \u00b7 GATE-PASS \u00b7 CH 24",
+   "era": "Soul Land · one thousand years after Book One",
+   "badge": "LIVE · GATE-PASS · CH 24",
    "live": true,
-   "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's \u2014 his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
-   "note": "Current as of 2026-10-07 \u2014 the canon-voice rollout's latest editions (byte-identical to the source repo); the early chapters are republished as they are rewritten.",
+   "desc": "A nameless Devouring Dragon hatches alone on the Star Luo border of the Star Dou Great Forest. The story is the beast's — his hunger, his ground, and the slow road north. Panels only when needed; plain words by law.",
+   "note": "Current as of 2026-10-07 — the canon-voice rollout's latest editions (byte-identical to the source repo); the early chapters are republished as they are rewritten.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 soul_land_devouring_dragon",
+   "repo_name": "soul-land-universal-kit · soul_land_devouring_dragon",
    "id": "devouring_dragon",
    "chapters": [
     {
@@ -275,103 +275,103 @@
   },
   {
    "title": "Blue Silver",
-   "era": "Pre-canon \u00b7 775 years",
+   "era": "Pre-canon · 775 years",
    "badge": "BOOK ONE COMPLETE",
    "live": false,
    "desc": "A Blue Silver Emperor grass named Home. Seven hundred and seventy-five years of forest history, one absolute law: he never kills. Fifteen rebuilt chapters, all seven gates passing.",
-   "note": "Book One ends on the words THE KEEPER. The original fifteen chapters were rejected and fully rebuilt on a canon spine \u2014 the rebuild is what you read here.",
+   "note": "Book One ends on the words THE KEEPER. The original fifteen chapters were rejected and fully rebuilt on a canon spine — the rebuild is what you read here.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 blue_silver",
+   "repo_name": "soul-land-universal-kit · blue_silver",
    "id": "blue_silver",
    "chapters": [
     {
      "n": 1,
      "file": "Chapter_01_Awake.md",
-     "title": "Chapter One \u2014 Awake",
+     "title": "Chapter One — Awake",
      "words": 2816
     },
     {
      "n": 2,
      "file": "Chapter_02_What_the_Water_Teaches.md",
-     "title": "Chapter Two \u2014 What the Water Teaches",
+     "title": "Chapter Two — What the Water Teaches",
      "words": 2245
     },
     {
      "n": 3,
      "file": "Chapter_03_The_One_Who_Stayed.md",
-     "title": "Chapter Three \u2014 The One Who Stayed",
+     "title": "Chapter Three — The One Who Stayed",
      "words": 1952
     },
     {
      "n": 4,
      "file": "Chapter_04_The_Teeth_in_the_Grass.md",
-     "title": "Chapter Four \u2014 The Teeth in the Grass",
+     "title": "Chapter Four — The Teeth in the Grass",
      "words": 2118
     },
     {
      "n": 5,
      "file": "Chapter_05_The_One_Who_Watched.md",
-     "title": "Chapter Five \u2014 The One Who Watched",
+     "title": "Chapter Five — The One Who Watched",
      "words": 1838
     },
     {
      "n": 6,
      "file": "Chapter_06_The_One_Below.md",
-     "title": "Chapter Six \u2014 The One Below",
+     "title": "Chapter Six — The One Below",
      "words": 1992
     },
     {
      "n": 7,
      "file": "Chapter_07_The_One_Who_Keeps.md",
-     "title": "Chapter Seven \u2014 The One Who Keeps",
+     "title": "Chapter Seven — The One Who Keeps",
      "words": 1890
     },
     {
      "n": 8,
      "file": "Chapter_08_The_One_Who_Crossed.md",
-     "title": "Chapter Eight \u2014 The One Who Crossed",
+     "title": "Chapter Eight — The One Who Crossed",
      "words": 2257
     },
     {
      "n": 9,
      "file": "Chapter_09_The_Last_Vigil.md",
-     "title": "Chapter Nine \u2014 The Last Vigil",
+     "title": "Chapter Nine — The Last Vigil",
      "words": 2218
     },
     {
      "n": 10,
      "file": "Chapter_10_The_One_Who_Answers.md",
-     "title": "Chapter Ten \u2014 The One Who Answers",
+     "title": "Chapter Ten — The One Who Answers",
      "words": 2480
     },
     {
      "n": 11,
      "file": "Chapter_11_The_Liar_at_the_Door.md",
-     "title": "Chapter Eleven \u2014 The Liar at the Door",
+     "title": "Chapter Eleven — The Liar at the Door",
      "words": 2566
     },
     {
      "n": 12,
      "file": "Chapter_12_The_Ten_Thousandth_Year.md",
-     "title": "Chapter Twelve \u2014 The Ten Thousandth Year",
+     "title": "Chapter Twelve — The Ten Thousandth Year",
      "words": 1865
     },
     {
      "n": 13,
      "file": "Chapter_13_The_One_Who_Goes.md",
-     "title": "Chapter Thirteen \u2014 The One Who Goes",
+     "title": "Chapter Thirteen — The One Who Goes",
      "words": 2494
     },
     {
      "n": 14,
      "file": "Chapter_14_The_Ground_That_Remembers.md",
-     "title": "Chapter Fourteen \u2014 The Ground That Remembers",
+     "title": "Chapter Fourteen — The Ground That Remembers",
      "words": 2486
     },
     {
      "n": 15,
      "file": "Chapter_15_The_One_Who_Is_Named.md",
-     "title": "Chapter Fifteen \u2014 The One Who Is Named",
+     "title": "Chapter Fifteen — The One Who Is Named",
      "words": 3376
     }
    ],
@@ -380,13 +380,13 @@
   },
   {
    "title": "The Adaptive Prodigy",
-   "era": "Soul Land 3 \u00b7 Legend of the Dragon King era",
-   "badge": "116 CHAPTERS \u00b7 ALL GREEN",
+   "era": "Soul Land 3 · Legend of the Dragon King era",
+   "badge": "116 CHAPTERS · ALL GREEN",
    "live": false,
-   "desc": "The flagship: OC Lin Hao across 116 gated chapters and a ten-layer verification suite (state \u00b7 footer \u00b7 locks \u00b7 sync \u00b7 zero-tolerance \u00b7 presence \u00b7 workspace \u00b7 divergence \u00b7 completeness \u00b7 momentum) \u2014 every layer green.",
+   "desc": "The flagship: OC Lin Hao across 116 gated chapters and a ten-layer verification suite (state · footer · locks · sync · zero-tolerance · presence · workspace · divergence · completeness · momentum) — every layer green.",
    "note": "Chapter files carry canon-coverage receipts and production notes alongside the prose; the suite-counted story total is ~354,700 words.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 Soul_Land_3_Project",
+   "repo_name": "soul-land-universal-kit · Soul_Land_3_Project",
    "id": "adaptive_prodigy",
    "chapters": [
     {
@@ -1091,13 +1091,13 @@
   },
   {
    "title": "The Unraveled Tide",
-   "era": "Soul Land 2 \u00b7 The Unrivaled Tang Sect era",
-   "badge": "24 CHAPTERS \u00b7 PAUSED",
+   "era": "Soul Land 2 · The Unrivaled Tang Sect era",
+   "badge": "24 CHAPTERS · PAUSED",
    "live": false,
-   "desc": "OC Jiang Che in the SL2 era \u2014 the multi-panel law's home serial: canon always shown on the page, the OC beside it.",
-   "note": "Paused at Chapter 23 with its continuation prompt intact; a revival pass is queued in the workspace. Includes Chapter 8-B, 'The First Rank' (the blacksmith-craft chapter) \u2014 the serial's panel counts 23 numbered chapters.",
+   "desc": "OC Jiang Che in the SL2 era — the multi-panel law's home serial: canon always shown on the page, the OC beside it.",
+   "note": "Paused at Chapter 23 with its continuation prompt intact; a revival pass is queued in the workspace. Includes Chapter 8-B, 'The First Rank' (the blacksmith-craft chapter) — the serial's panel counts 23 numbered chapters.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 Soul_Land_2_Project",
+   "repo_name": "soul-land-universal-kit · Soul_Land_2_Project",
    "id": "unraveled_tide",
    "chapters": [
     {
@@ -1251,10 +1251,10 @@
   {
    "title": "Supergirl - Adrian Vale",
    "era": "DC TV Supergirl S01",
-   "badge": "LIVE \u00b7 CH 15 \u00b7 ULTRA CLEAN PROSE",
+   "badge": "LIVE · CH 15 · ULTRA CLEAN PROSE",
    "live": true,
    "desc": "Native hybrid Kryptonian/Daxamite, Adaptation Talent, self-sealed human-level, works for Cat Grant. S01 canon on-page OC, no future knowledge. Ch9-12 clean rebuild: no ticker spam, no Cat private-secrets, proper superpowered fights, consensual romance kara.",
-   "note": "Current as of 2026-10-07 \u2014 all fifteen chapters in their latest editions (the Ch9-Ch15 revisions included; byte-identical to the source repo).",
+   "note": "Current as of 2026-10-07 — all fifteen chapters in their latest editions (the Ch9-Ch15 revisions included; byte-identical to the source repo).",
    "repo": "https://github.com/gm5206663-bit/supergirl-adrian-vale",
    "repo_name": "supergirl-adrian-vale",
    "id": "supergirl_adrian_vale",
@@ -1355,13 +1355,13 @@
   },
   {
    "title": "One in a Thousand",
-   "era": "Soul Land 3 \u00b7 Legend of the Dragon King era",
-   "badge": "LIVE \u00b7 CH 7 \u00b7 GATE-PASS",
+   "era": "Soul Land 3 · Legend of the Dragon King era",
+   "badge": "LIVE · CH 7 · GATE-PASS",
    "live": true,
-   "desc": "Su Yan of Glorybound \u2014 the city physician's boy, born with the trash beast-soul Luo Sanpao and innate soul power one \u2014 walks his own road in the same town where canon's boy walks his. Canon whole, the OC woven in, every number earned and receipted.",
-   "note": "Current as of 2026-10-07 \u2014 all seven chapters in their latest editions (byte-identical to the source repo); the canon runs whole, the OC walks beside it.",
+   "desc": "Su Yan of Glorybound — the city physician's boy, born with the trash beast-soul Luo Sanpao and innate soul power one — walks his own road in the same town where canon's boy walks his. Canon whole, the OC woven in, every number earned and receipted.",
+   "note": "Current as of 2026-10-07 — all seven chapters in their latest editions (byte-identical to the source repo); the canon runs whole, the OC walks beside it.",
    "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
-   "repo_name": "soul-land-universal-kit \u00b7 soul_land_3_oc",
+   "repo_name": "soul-land-universal-kit · soul_land_3_oc",
    "id": "one_in_a_thousand",
    "chapters": [
     {
@@ -1412,10 +1412,10 @@
   },
   {
    "title": "Qian Xun Ji Reborn",
-   "era": "Soul Land \u00b7 eleven years before canon (2619\u20132620)",
-   "badge": "LIVE \u00b7 CH 4 \u00b7 GATE-PASS",
+   "era": "Soul Land · eleven years before canon (2619–2620)",
+   "badge": "LIVE · CH 4 · GATE-PASS",
    "live": true,
-   "desc": "The era\u2019s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji\u2019s body the night after the assault, and writes his own road \u2014 a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
+   "desc": "The era’s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji’s body the night after the assault, and writes his own road — a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
    "note": "Chapters land only when the gates pass. The canon runs whole; the story present has reached the turn of 2619 into 2620.",
    "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
    "repo_name": "qian-xunji-adaptation",
@@ -1425,7 +1425,7 @@
      "n": 1,
      "file": "Chapter_01_The_Night_After.md",
      "title": "The Night After",
-     "words": 3392
+     "words": 3394
     },
     {
      "n": 2,
@@ -1443,10 +1443,10 @@
      "n": 4,
      "file": "Chapter_04_The_Second_Core.md",
      "title": "The Second Core",
-     "words": 2716
+     "words": 2784
     }
    ],
-   "total_words": 11292,
+   "total_words": 11362,
    "words_label": "11K"
   }
  ]
