@@ -20,7 +20,7 @@ machine-checked against canon before it lands here.
 | The Unraveled Tide | Soul Land 2 | 24 chapters, paused |
 | One in a Thousand | Soul Land 3 | 🔴 LIVE — 7 chapters, 64K words; the OC beside canon in Glorybound |
 | Supergirl — Adrian Vale | DC TV · Supergirl S01 | 🔴 LIVE — 15 chapters, 59K words, ultra clean prose; a native Kryptonian/Daxamite OC in season one |
-| Qian Xun Ji Reborn | Soul Land · 11 years before canon | 🔴 LIVE — 4 chapters, gate-pass; the era's Angel Douluo — a codex instead of a war, the second core formed through the sword's winter |
+| Qian Xun Ji Reborn | Soul Land · 11 years before canon | 🔴 LIVE — 4 chapters, all rebuilt in the canon voice and gate-pass; the era's Angel Douluo — a codex instead of a war, the second core formed through the sword's winter |
 
 ## How this is built
 
