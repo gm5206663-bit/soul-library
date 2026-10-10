@@ -1413,10 +1413,10 @@
   {
    "title": "Qian Xun Ji Reborn",
    "era": "Soul Land · eleven years before canon (2619–2620)",
-   "badge": "LIVE · CH 6 · GATE-PASS",
+   "badge": "LIVE · CH 7 · GATE-PASS",
    "live": true,
    "desc": "The era’s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji’s body the night after the assault, and writes his own road — a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
-   "note": "Chapters land only when the gates pass. The story present has reached the turn of 2619 into 2620: the Pope has been east to the basin with the two waters, and come home with two gold rings that carry no year.",
+   "note": "Chapters land only when the gates pass. The story present has reached the cold breaking in spring 2620: the Pope has come home from the basin with two gold rings and a new rank, and his daughter has been born.",
    "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
    "repo_name": "qian-xunji-adaptation",
    "id": "qian_xunji",
@@ -1456,10 +1456,16 @@
      "file": "Chapter_06_The_Colour_of_Gold.md",
      "title": "The Colour of Gold",
      "words": 3396
+    },
+    {
+     "n": 7,
+     "file": "Chapter_07_The_Cold_Broke.md",
+     "title": "The Cold Broke",
+     "words": 2605
     }
    ],
-   "total_words": 17808,
-   "words_label": "17K"
+   "total_words": 20413,
+   "words_label": "20K"
   }
  ]
 }
