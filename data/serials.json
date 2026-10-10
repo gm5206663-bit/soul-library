@@ -1413,10 +1413,10 @@
   {
    "title": "Qian Xun Ji Reborn",
    "era": "Soul Land · ten years before canon (2619–2621)",
-   "badge": "LIVE · CH 11 · GATE-PASS",
+   "badge": "LIVE · CH 9 · GATE-PASS",
    "live": true,
    "desc": "The era’s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji’s body the night after the assault, and writes his own road — a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
-   "note": "Chapters land only when the gates pass. The story present has reached the thaw of 2621: Bibi Dong is Pope at ninety-five, and he has come down off the hill having passed eight of the Nine Trials — the nine angel cards turned one by one, the sixth考 worth a level against his father&rsquo;s incense, the seventh考 the Angel Holy Sword, the eighth考 the judgment gates where the Angel God demanded the guardian&rsquo;s condemnation and the refusal was the passing answer — the four bones of the Angel Set carrying him to ninety-nine, the Angel Sacred Armor on his bones, three cores turning, 千道流 alive, and the ninth card exactly as face down as the day the Angel God died.",
+   "note": "Chapters land only when the gates pass. The story present stands at early summer 2620: Bibi Dong is a Titled Douluo at ninety-five with nine rings and the red hundred-thousand, 千仞雪 is five months old, and he is still the Pope at ninety-seven with two cores and two of the six Angel bones. The two chapters that carried the next beat were withdrawn whole on the author's word, so nothing beyond this point is written and nothing downstream of it is true.",
    "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
    "repo_name": "qian-xunji-adaptation",
    "id": "qian_xunji",
@@ -1474,22 +1474,10 @@
      "file": "Chapter_09_The_Cold_North_Sea.md",
      "title": "The Cold North Sea",
      "words": 2673
-    },
-    {
-     "n": 10,
-     "file": "Chapter_10_The_Second_Chair.md",
-     "title": "The Second Chair",
-     "words": 2619
-    },
-    {
-     "n": 11,
-     "file": "Chapter_11_The_Ninth_Door.md",
-     "title": "The Ninth Door",
-     "words": 3399
     }
    ],
-   "total_words": 31974,
-   "words_label": "32K"
+   "total_words": 25956,
+   "words_label": "26K"
   }
  ]
 }
