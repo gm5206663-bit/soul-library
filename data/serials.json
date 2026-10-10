@@ -1416,7 +1416,7 @@
    "badge": "LIVE · CH 11 · GATE-PASS",
    "live": true,
    "desc": "The era’s Angel Douluo, eleven years before Tang San is born: a lifelong reader wakes in Qian Xun Ji’s body the night after the assault, and writes his own road — a codex instead of a war, a guild of teachers, and the quiet count of the strongest under the gods. Canon shown whole, never skipped; plain language; every number receipted.",
-   "note": "Chapters land only when the gates pass. The story present has reached the thaw of 2621: Bibi Dong is Pope at ninety-five, confirmed nineteen to one; he walked the Angel God trials one winter and came down at ninety-nine in the Angel Sacred Armor with the Angel Holy Sword in his hand and three cores turning &mdash; blood, sword, and sun &mdash; and the ninth door stays exactly as closed as the day the Angel God died. 千道流 lives.",
+   "note": "Chapters land only when the gates pass. The story present has reached the thaw of 2621: Bibi Dong is Pope at ninety-five, and he has come down off the hill having passed eight of the Nine Trials — each level taken, each reward earned, the sixth考 worth a level against his father&rsquo;s incense, the seventh考 the Angel Holy Sword, the eighth考 the three judgment gates and the four bones of the Angel Set that carried him to ninety-nine — in the Angel Sacred Armor, three cores turning, 千道流 alive because a canon price was quoted and refused, and the ninth考 exactly as unlit as the day the Angel God died.",
    "repo": "https://github.com/gm5206663-bit/qian-xunji-adaptation",
    "repo_name": "qian-xunji-adaptation",
    "id": "qian_xunji",
@@ -1479,17 +1479,17 @@
      "n": 10,
      "file": "Chapter_10_The_Second_Chair.md",
      "title": "The Second Chair",
-     "words": 2469
+     "words": 2619
     },
     {
      "n": 11,
      "file": "Chapter_11_The_Ninth_Door.md",
      "title": "The Ninth Door",
-     "words": 2730
+     "words": 3396
     }
    ],
-   "total_words": 31155,
-   "words_label": "31K"
+   "total_words": 31971,
+   "words_label": "32K"
   }
  ]
 }
