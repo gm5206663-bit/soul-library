@@ -17,15 +17,29 @@ Exit 0 = clean. Any failure prints a receipt and exits 1.
 """
 import os, re, sys
 
-KIT = sys.argv[1] if len(sys.argv) > 1 else '/tmp/mine/kit'
+# SCOPE LAW (repaired 2026-10-11). This defaulted to /tmp/mine/kit — an absolute
+# path from the machine the tool was written on. Anywhere else it died in a
+# traceback, which reads like a bug rather than what it is: the check could not
+# reach its subject. A check that cannot reach its subject must say so, by name.
+KIT = (sys.argv[1] if len(sys.argv) > 1
+       else os.environ.get('SOUL_KIT')
+       or os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
+           os.path.abspath(__file__)))), 'soul-land-universal-kit'))
 DD = os.path.join(KIT, 'soul_land_devouring_dragon')
+CH_DIR = os.path.join(DD, 'chapters')
 
 def read(p):
     return open(p, encoding='utf-8').read()
 
 def main():
     errs = []
-    chdir = os.path.join(DD, 'chapters')
+    if not os.path.isdir(CH_DIR):
+        print(f'lint_continuity: SCOPE FAIL — no chapters at {CH_DIR}')
+        print(f'  kit root: {KIT}')
+        print('  Pass the kit path as argument 1, or set $SOUL_KIT. A check that')
+        print('  cannot reach its subject verifies nothing, so this is a failure.')
+        return 1
+    chdir = CH_DIR
     disk = sorted(int(m.group(1)) for f in os.listdir(chdir)
                   if (m := re.match(r'Chapter_(\d+)[_.]', f)) and f.endswith('.md'))
     n = max(disk)
@@ -59,9 +73,10 @@ def main():
     if errs:
         print('continuity lint: FAIL')
         for e in errs: print('  - ' + e)
-        sys.exit(1)
+        return 1
+    print(f'COVERAGE: {len(disk)} chapter file(s) read from {chdir}')
     print(f'continuity lint: PASS — {len(rows)} timeline rows monotonic; ch1–{n} covered in TIMELINE and CONTINUITY; '
           f'{len(cites)} place citations all valid')
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

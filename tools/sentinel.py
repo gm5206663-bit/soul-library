@@ -20,6 +20,16 @@ Workspace checks:
 """
 import json, os, re, subprocess, sys, datetime, urllib.request
 
+# SCOPE LAW (repaired 2026-10-11). This tool scans a kit checkout AND this
+# library. Run without --kit it silently ran the library-side checks alone and
+# still printed a clean bill of health — "1 pass / 0 warn / 0 fail — 1 checks",
+# with 21 checks it knows how to run left unmentioned. That is a check reporting
+# success while covering less than it claims. Now it declares its coverage, and
+# a partial run FAILS unless the caller asks for a partial run in so many words.
+CAPACITY = 22          # the checks this tool runs with a full kit checkout.
+                       # If you add a check, raise this number — the whole point
+                       # of a declared capacity is that it can be wrong out loud.
+
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NOW = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
@@ -46,6 +56,7 @@ def fetch(url):
 
 def main():
     kit = None
+    partial_ok = '--partial' in sys.argv
     for i, a in enumerate(sys.argv):
         if a == '--kit' and i + 1 < len(sys.argv):
             kit = os.path.abspath(sys.argv[i + 1])
@@ -218,7 +229,14 @@ def main():
     n_fail = sum(1 for c in checks if c['status'] == 'fail')
     json.dump({'generated': NOW, 'n_pass': n_pass, 'n_warn': n_warn, 'n_fail': n_fail, 'checks': checks},
               open(f'{SITE}/sentinel_data.json', 'w'), indent=1)
+    print(f'COVERAGE: {len(checks)} of {CAPACITY} checks ran'
+          + (f' — kit {kit}' if kit else ' — NO KIT GIVEN, the workspace checks did not run'))
     print(f'sentinel: {n_pass} pass / {n_warn} warn / {n_fail} fail — {len(checks)} checks')
+    if not kit and not partial_ok:
+        print('SCOPE: sentinel cannot verify the workspace without a kit checkout.')
+        print('       Pass --kit /path/to/soul-land-universal-kit, or say --partial to')
+        print(f'       accept a run that covers {len(checks)} of {CAPACITY} checks.')
+        return 1
     return 0
 
 if __name__ == '__main__':
