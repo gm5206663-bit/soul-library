@@ -26,9 +26,13 @@ import json, os, re, subprocess, sys, datetime, urllib.request
 # with 21 checks it knows how to run left unmentioned. That is a check reporting
 # success while covering less than it claims. Now it declares its coverage, and
 # a partial run FAILS unless the caller asks for a partial run in so many words.
-CAPACITY = 22          # the checks this tool runs with a full kit checkout.
-                       # If you add a check, raise this number — the whole point
-                       # of a declared capacity is that it can be wrong out loud.
+CAPACITY = 26          # the checks this tool runs with a full kit checkout.
+                       # 2026-10-12: was 22 while a full run executed 26 — the
+                       # line read "26 of 22 checks ran", which is a coverage
+                       # declaration that cannot be true. Counted from a real
+                       # full-kit run; if you add a check, raise this number —
+                       # the whole point of a declared capacity is that it can
+                       # be wrong out loud, and now the selftest checks it.
 
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NOW = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -54,7 +58,38 @@ def fetch(url):
     except Exception as e:
         return None
 
+def verdict(n_fail, kit, partial_ok):
+    """The exit decision, alone, so it can be tested instead of trusted.
+
+    1 = a real failure or a scope refusal · 0 = a run that is entitled to say pass.
+    """
+    if not kit and not partial_ok:
+        return 1
+    if n_fail:
+        return 1
+    return 0
+
+
+def selftest():
+    """A gate only ever seen to pass is a gate nobody tested. Four cases."""
+    cases = [
+        ('a full run with every check passing passes', verdict(0, '/kit', False), 0),
+        ('a full run with one failed check FAILS', verdict(1, '/kit', False), 1),
+        ('no kit without --partial fails (scope refusal)', verdict(0, None, False), 1),
+        ('no kit WITH --partial delivers what it can', verdict(0, None, True), 0),
+    ]
+    ok = True
+    for name, got, want in cases:
+        good = got == want
+        ok &= good
+        print(f"  [{'ok ' if good else 'FAIL'}] {name:52s} exit={got} (want {want})")
+    print('sentinel selftest: ' + ('PASSED' if ok else 'FAILED'))
+    return 0 if ok else 1
+
+
 def main():
+    if '--selftest' in sys.argv:
+        return selftest()
     kit = None
     partial_ok = '--partial' in sys.argv
     for i, a in enumerate(sys.argv):
@@ -144,7 +179,11 @@ def main():
         u = os.path.join(kit, 'SOUL_LAND_UNIVERSAL_KIT')
         w = os.path.join(kit, 'SOUL_LAND_WORKSPACE', 'kit')
         if os.path.isdir(u) and os.path.isdir(w):
-            out, rc = run(f'diff -rq {u} {w}', kit)
+            # Machine files are not the law's subject: a tool run inside one
+            # tree leaves __pycache__ there and the law is about the kit's
+            # CONTENT being identical, not about which side ran python last.
+            out, rc = run(f'diff -rq --exclude=__pycache__ --exclude=.git '
+                          f"--exclude='*.pyc' {u} {w}", kit)
             add('workspace', 'kit trees byte-identical (D1 law)', rc == 0,
                 'released kit == working copy' if rc == 0
                 else 'DRIFT: ' + '; '.join(out.strip().splitlines()[:2])[:200])
@@ -236,6 +275,13 @@ def main():
         print('SCOPE: sentinel cannot verify the workspace without a kit checkout.')
         print('       Pass --kit /path/to/soul-land-universal-kit, or say --partial to')
         print(f'       accept a run that covers {len(checks)} of {CAPACITY} checks.')
+        return 1
+    # 2026-10-12: a failed check did not fail the run. The sentinel printed
+    # "25 pass / 0 warn / 1 fail" and exited 0, so the kit's own D1 law could sit
+    # broken since 2026-09-28 without any caller noticing — the exact sin this
+    # file was repaired to stop making: reporting success while something failed.
+    if n_fail:
+        print(f'FAILED: {n_fail} check(s) did not pass — see above and sentinel_data.json.')
         return 1
     return 0
 
