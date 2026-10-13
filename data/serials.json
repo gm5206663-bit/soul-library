@@ -1514,6 +1514,633 @@
    ],
    "total_words": 25956,
    "words_label": "25K"
+  },
+  {
+   "id": "fire_phoenix",
+   "title": "Fire Phoenix",
+   "era": "Soul Land 4",
+   "badge": "LIVE · CH 52",
+   "live": true,
+   "desc": "Yan Shuo, the true awakened Fire Phoenix. The post-ranking arc has been rebuilt from the Ch46/47 transition; the active sequence runs through Chapter 52 — “Amiable Beasts.”",
+   "note": "Edge: after Chapter 52. The late-arc V2 promotion is staged and awaits the author’s ruling.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01.md",
+     "title": "Beneath the Same Dawn",
+     "words": 4484
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02.md",
+     "title": "Warm Hands",
+     "words": 3953
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03.md",
+     "title": "The Shape Inside",
+     "words": 3607
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04.md",
+     "title": "The First Record",
+     "words": 4126
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05.md",
+     "title": "The Weight Between Them",
+     "words": 6666
+    },
+    {
+     "n": 6,
+     "file": "Chapter_06.md",
+     "title": "The Right Wings",
+     "words": 6252
+    },
+    {
+     "n": 7,
+     "file": "Chapter_07.md",
+     "title": "What Came Home",
+     "words": 6331
+    },
+    {
+     "n": 8,
+     "file": "Chapter_08.md",
+     "title": "The Bell After the Sky",
+     "words": 6710
+    },
+    {
+     "n": 9,
+     "file": "Chapter_09.md",
+     "title": "Three Months of Quiet Fire",
+     "words": 5652
+    },
+    {
+     "n": 10,
+     "file": "Chapter_10.md",
+     "title": "The Building That Held Its Breath",
+     "words": 5462
+    },
+    {
+     "n": 11,
+     "file": "Chapter_11.md",
+     "title": "The Tenth Name",
+     "words": 6628
+    },
+    {
+     "n": 12,
+     "file": "Chapter_12.md",
+     "title": "The Forest That Answered",
+     "words": 5527
+    },
+    {
+     "n": 13,
+     "file": "Chapter_13.md",
+     "title": "The Seat That Waited",
+     "words": 4920
+    },
+    {
+     "n": 14,
+     "file": "Chapter_14.md",
+     "title": "The Fire That Did Not Step In",
+     "words": 4270
+    },
+    {
+     "n": 15,
+     "file": "Chapter_15.md",
+     "title": "The First Coin",
+     "words": 4230
+    },
+    {
+     "n": 16,
+     "file": "Chapter_16.md",
+     "title": "The Door That Answered",
+     "words": 5376
+    },
+    {
+     "n": 17,
+     "file": "Chapter_17.md",
+     "title": "The Question at the Table",
+     "words": 5355
+    },
+    {
+     "n": 18,
+     "file": "Chapter_18.md",
+     "title": "The Bright Edge",
+     "words": 5468
+    },
+    {
+     "n": 19,
+     "file": "Chapter_19.md",
+     "title": "The Question No Teacher Should Hear",
+     "words": 6344
+    },
+    {
+     "n": 20,
+     "file": "Chapter_20.md",
+     "title": "The Answer Behind the Door",
+     "words": 5399
+    },
+    {
+     "n": 21,
+     "file": "Chapter_21.md",
+     "title": "The Meaning of a Plus Sign",
+     "words": 6057
+    },
+    {
+     "n": 22,
+     "file": "Chapter_22.md",
+     "title": "The Quietest Place",
+     "words": 5637
+    },
+    {
+     "n": 23,
+     "file": "Chapter_23.md",
+     "title": "Ten Seconds",
+     "words": 5942
+    },
+    {
+     "n": 24,
+     "file": "Chapter_24.md",
+     "title": "Twenty Minutes",
+     "words": 5561
+    },
+    {
+     "n": 25,
+     "file": "Chapter_25.md",
+     "title": "The Second Weight",
+     "words": 8180
+    },
+    {
+     "n": 26,
+     "file": "Chapter_26.md",
+     "title": "The Test That Chose a Target",
+     "words": 6302
+    },
+    {
+     "n": 27,
+     "file": "Chapter_27.md",
+     "title": "The Door That Chose Twice",
+     "words": 3765
+    },
+    {
+     "n": 28,
+     "file": "Chapter_28.md",
+     "title": "The Match They Were Allowed to See",
+     "words": 5060
+    },
+    {
+     "n": 29,
+     "file": "Chapter_29.md",
+     "title": "The Defeat He Chose",
+     "words": 4294
+    },
+    {
+     "n": 30,
+     "file": "Chapter_30.md",
+     "title": "The Color Pressure Found",
+     "words": 6917
+    },
+    {
+     "n": 31,
+     "file": "Chapter_31.md",
+     "title": "The Match the Board Owed",
+     "words": 5241
+    },
+    {
+     "n": 32,
+     "file": "Chapter_32.md",
+     "title": "The Years That Learned to Wait",
+     "words": 4482
+    },
+    {
+     "n": 33,
+     "file": "Chapter_33.md",
+     "title": "The Door That Became a Cocoon",
+     "words": 4725
+    },
+    {
+     "n": 34,
+     "file": "Chapter_34.md",
+     "title": "The Twenty-First Pulse",
+     "words": 5524
+    },
+    {
+     "n": 35,
+     "file": "Chapter_35.md",
+     "title": "The Fire That Remembered Its Name",
+     "words": 5150
+    },
+    {
+     "n": 36,
+     "file": "Chapter_36.md",
+     "title": "The Year Between Wings and Stars",
+     "words": 5722
+    },
+    {
+     "n": 37,
+     "file": "Chapter_37.md",
+     "title": "The Dragon Outside the Window",
+     "words": 6046
+    },
+    {
+     "n": 38,
+     "file": "Chapter_38.md",
+     "title": "Names Borrowed by Children",
+     "words": 6590
+    },
+    {
+     "n": 39,
+     "file": "Chapter_39.md",
+     "title": "A Vortex Learns to Hold",
+     "words": 8333
+    },
+    {
+     "n": 40,
+     "file": "Chapter_40.md",
+     "title": "The Scan Before the Roar",
+     "words": 6161
+    },
+    {
+     "n": 41,
+     "file": "Chapter_41.md",
+     "title": "No Loopholes in the Sky",
+     "words": 5958
+    },
+    {
+     "n": 42,
+     "file": "Chapter_42.md",
+     "title": "The Pool That Lied",
+     "words": 4333
+    },
+    {
+     "n": 43,
+     "file": "Chapter_43.md",
+     "title": "Thirty Seconds of Green",
+     "words": 6740
+    },
+    {
+     "n": 44,
+     "file": "Chapter_44.md",
+     "title": "The Door That Chose Three",
+     "words": 6603
+    },
+    {
+     "n": 45,
+     "file": "Chapter_45.md",
+     "title": "Thanks, and the Score Not Yet Shown",
+     "words": 6455
+    },
+    {
+     "n": 46,
+     "file": "Chapter_46.md",
+     "title": "The Sea Opens Before the Crown",
+     "words": 5295
+    },
+    {
+     "n": 47,
+     "file": "Chapter_47.md",
+     "title": "Five Hundred and Five",
+     "words": 2502
+    },
+    {
+     "n": 48,
+     "file": "Chapter_48.md",
+     "title": "The Line in the Stars",
+     "words": 1741
+    },
+    {
+     "n": 49,
+     "file": "Chapter_49.md",
+     "title": "No Pattern Underfoot",
+     "words": 2205
+    },
+    {
+     "n": 50,
+     "file": "Chapter_50.md",
+     "title": "The Forest Counts Separately",
+     "words": 1993
+    },
+    {
+     "n": 51,
+     "file": "Chapter_51.md",
+     "title": "The Cost of Quiet",
+     "words": 1941
+    },
+    {
+     "n": 52,
+     "file": "Chapter_52.md",
+     "title": "Amiable Beasts",
+     "words": 2496
+    }
+   ],
+   "total_words": 270711,
+   "words_label": "270K"
+  },
+  {
+   "id": "lan_shen",
+   "title": "Lan Shen",
+   "era": "Soul Land 3 · dual-track",
+   "badge": "LIVE · CH 7",
+   "live": true,
+   "desc": "A dual-track reincarnation serial: canon on the page, complete and in order, with the OC’s parallel running on the same clock — the butterfly only where the tracks touch.",
+   "note": "Shelf copy tracks the kit.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_What_the_Master_Said.md",
+     "title": "Chapter_01_What_the_Master_Said.md",
+     "words": 4216
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Fifteen.md",
+     "title": "The Fifteen",
+     "words": 5153
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_Find.md",
+     "title": "The Find",
+     "words": 5175
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_Bringing_Her_Home.md",
+     "title": "Bringing Her Home",
+     "words": 4641
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05_Stay_Here.md",
+     "title": "Stay Here and Be My Little Sister",
+     "words": 5207
+    },
+    {
+     "n": 6,
+     "file": "Chapter_06_Gifted.md",
+     "title": "Gifted",
+     "words": 4125
+    },
+    {
+     "n": 7,
+     "file": "Chapter_07_Fed.md",
+     "title": "Fed",
+     "words": 3694
+    }
+   ],
+   "total_words": 32211,
+   "words_label": "32K"
+  },
+  {
+   "id": "fire_dragon_lizard",
+   "title": "Fire Dragon Lizard",
+   "era": "Soul Land 1",
+   "badge": "SHIPPED · 5 CHAPTERS",
+   "live": false,
+   "desc": "The OC is Tang San’s own age from Holy Spirit Village — his best friend — with the Ground Fire Dragon Lizard martial soul and a womb-born Adaptation Talent. No system; nothing fixed — things go naturally, that is the rule.",
+   "note": "Complete at five chapters.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01.md",
+     "title": "Two Beginnings",
+     "words": 4752
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02.md",
+     "title": "The Fire in the Star",
+     "words": 3546
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03.md",
+     "title": "Three Months",
+     "words": 3443
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04.md",
+     "title": "The Road Out",
+     "words": 3457
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05.md",
+     "title": "The Proof",
+     "words": 3412
+    }
+   ],
+   "total_words": 18610,
+   "words_label": "18K"
+  },
+  {
+   "id": "holy_spirit",
+   "title": "Holy Spirit",
+   "era": "Soul Land 2",
+   "badge": "PAUSED · CH 4",
+   "live": false,
+   "desc": "A reincarnator born into the SL2 era with full canon memory and the Adaptation Talent from the womb, awakening the Devouring Dragon martial soul.",
+   "note": "Paused at Chapter 4; revival queued.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Walk_In.md",
+     "title": "The Walk-In",
+     "words": 3632
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Answer.md",
+     "title": "The Answer",
+     "words": 3362
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_Right_Way.md",
+     "title": "The Right Way",
+     "words": 3355
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_The_Use.md",
+     "title": "The Use",
+     "words": 3347
+    }
+   ],
+   "total_words": 13696,
+   "words_label": "13K"
+  },
+  {
+   "id": "system_cheat",
+   "title": "The System Cheat",
+   "era": "Soul Land",
+   "badge": "DESIGN · 4 SAMPLE CHAPTERS",
+   "live": false,
+   "desc": "A reborn transmigrator, an apple, and a silent System with slots that train while he sleeps.",
+   "note": "Design stage — the system is fully specified; four sample chapters on the shelf.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Awakening_Day.md",
+     "title": "The Awakening Day",
+     "words": 3724
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Gate_at_Yunxi.md",
+     "title": "The Gate at Yunxi",
+     "words": 3756
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_White_Ring.md",
+     "title": "The White Ring",
+     "words": 5237
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_The_Still_Well.md",
+     "title": "The Still Well",
+     "words": 3089
+    }
+   ],
+   "total_words": 15806,
+   "words_label": "15K"
+  },
+  {
+   "id": "dragon_prince_yuan",
+   "title": "Dragon Prince Yuan",
+   "era": "Dragon Prince Yuan (Yuan Zun)",
+   "badge": "CH 1 · FOUNDATION",
+   "live": false,
+   "desc": "A native-born OC in the Yuan Zun / Dragon Prince Yuan world — canon-aware, with natural butterfly effects; sources are the donghua, manhua and novel.",
+   "note": "Foundation initialized; Chapter 1 gated; the serial waits on source text.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01.md",
+     "title": "The Second Son in the Green Smoke",
+     "words": 3707
+    }
+   ],
+   "total_words": 3707,
+   "words_label": "3K"
+  },
+  {
+   "id": "stark_heir",
+   "title": "Stark Heir",
+   "era": "MCU · film order",
+   "badge": "MCU · CH 1–5",
+   "live": false,
+   "desc": "Mark Howard Stark — Tony’s son, born 1996 — a public heir with a hidden mutation and a Talent older than his first breath; canon runs fully on-page in film order (Iron Man 1 anchor).",
+   "note": "Chapters 1–5 shipped and gated.",
+   "repo": "https://github.com/gm5206663-bit/stark_heir",
+   "repo_name": "stark_heir",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_Before_the_News.md",
+     "title": "Before the News",
+     "words": 5901
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_The_Albatross.md",
+     "title": "The Albatross",
+     "words": 6378
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_Return.md",
+     "title": "The Return",
+     "words": 5053
+    },
+    {
+     "n": 4,
+     "file": "Chapter_04_The_Workshop_Rebirth.md",
+     "title": "The Workshop Rebirth",
+     "words": 5527
+    },
+    {
+     "n": 5,
+     "file": "Chapter_05_Gulmira.md",
+     "title": "Gulmira",
+     "words": 4788
+    }
+   ],
+   "total_words": 27647,
+   "words_label": "27K"
+  },
+  {
+   "id": "mcu_eternal",
+   "title": "MCU Eternal — Varun",
+   "era": "MCU · post-Blip (Eternals)",
+   "badge": "PAUSED · CH 3",
+   "live": false,
+   "desc": "An eleventh Eternal in an alternate MCU timeline — gravity and kinetic command, the Adaptation Talent; the divergence is the OC’s existence.",
+   "note": "Paused at Chapter 3 by the author’s order; files intact.",
+   "repo": "https://github.com/gm5206663-bit/mcu_eternal_fanfic",
+   "repo_name": "mcu_eternal_fanfic",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Weight_of_Waking.md",
+     "title": "The Weight of Waking",
+     "words": 2890
+    },
+    {
+     "n": 2,
+     "file": "Chapter_02_First_Crew.md",
+     "title": "First Crew",
+     "words": 2900
+    },
+    {
+     "n": 3,
+     "file": "Chapter_03_The_First_Shore.md",
+     "title": "The First Shore",
+     "words": 3422
+    }
+   ],
+   "total_words": 9212,
+   "words_label": "9K"
+  },
+  {
+   "id": "sl3_new",
+   "title": "Soul Land 3 — The New Serial (working title)",
+   "era": "Soul Land 3",
+   "badge": "RETIRED · 1 GATED CHAPTER",
+   "live": false,
+   "desc": "A serial founded in the Legend of the Dragon King era — planned, gated, then retired by the author’s plan-change. One chapter kept.",
+   "note": "Frozen 2026-09-22; title pending Ruling R1.",
+   "repo": "https://github.com/gm5206663-bit/soul-land-universal-kit",
+   "repo_name": "soul-land-universal-kit",
+   "chapters": [
+    {
+     "n": 1,
+     "file": "Chapter_01_The_Choosing.md",
+     "title": "The Choosing",
+     "words": 3824
+    }
+   ],
+   "total_words": 3824,
+   "words_label": "3K"
   }
  ]
 }

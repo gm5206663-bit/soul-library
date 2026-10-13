@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13 02:13 UTC",
+ "generated": "2026-10-13 02:59 UTC",
  "n_pass": 26,
  "n_warn": 0,
  "n_fail": 0,
@@ -8,7 +8,7 @@
    "serial": "adaptive_prodigy",
    "check": "tree absent (deleted by author ruling 2026-10-03)",
    "status": "pass",
-   "receipt": "tree deleted 2026-10-03 by the author's word \u2014 shelf (116 ch) + private repo are the copies"
+   "receipt": "tree deleted 2026-10-03 by the author's word \u2014 the shelf (116 ch) and the kit's adaptive_prodigy/ tree are the copies"
   },
   {
    "serial": "blue_silver (parked)",

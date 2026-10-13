@@ -153,7 +153,7 @@ def main():
         sl3p = os.path.join(kit, 'Soul_Land_3_Project')
         add('adaptive_prodigy', 'tree absent (deleted by author ruling 2026-10-03)',
             not os.path.isdir(sl3p),
-            'tree deleted 2026-10-03 by the author\'s word — shelf (116 ch) + private repo are the copies'
+            'tree deleted 2026-10-03 by the author\'s word — the shelf (116 ch) and the kit\'s adaptive_prodigy/ tree are the copies'
             if not os.path.isdir(sl3p) else 'tree is BACK on disk — confirm against the author\'s delete ruling')
 
         # ── the real gates, actually run ──────────────────────────────────
@@ -212,11 +212,19 @@ def main():
 
         # ── kit README serial rows vs disk (the drift that bit before) ────
         rd = open(os.path.join(kit, 'README.md'), encoding='utf-8').read()
-        m = re.search(r'devouring-dragon serial \((\d+) chapters', rd)
+        # 2026-10-13: the README became a cockpit table; the old 'devouring-dragon
+        # serial (N chapters' phrase died with it and this check silently stopped
+        # running (the coverage line caught it: 25 of 26). The row moved, so the
+        # check moved — and if the row ever vanishes again, say so as a FAIL
+        # rather than skipping.
+        m = re.search(r'\*\*Devouring Dragon\*\*[^|\n]*\|[^|\n]*\|\s*(\d+)\s*·', rd)
+        disk = count_md(os.path.join(kit, 'soul_land_devouring_dragon', 'chapters'))
         if m:
-            disk = count_md(os.path.join(kit, 'soul_land_devouring_dragon', 'chapters'))
             add('workspace', 'kit README DD row vs disk', int(m.group(1)) == disk,
                 f'README says {m.group(1)}; disk has {disk}')
+        else:
+            add('workspace', 'kit README DD row vs disk', False,
+                'cockpit README has no Devouring Dragon row — update this check or the row')
 
     # ── the public profile's live-edge claims, fetched live ──────────────
     prof = fetch('https://raw.githubusercontent.com/gm5206663-bit/gm5206663-bit/main/README.md')

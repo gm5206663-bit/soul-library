@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>The Soul Library — gated Soul Land fanfiction</title>
+ <title>The Soul Library — gated fanfiction</title>
  <subtitle>New chapters and editions from the serials of Gaurav Meena</subtitle>
  <id>https://gm5206663-bit.github.io/soul-library/feed.xml</id>
  <link rel="self" href="https://gm5206663-bit.github.io/soul-library/feed.xml"/>
  <link rel="alternate" href="https://gm5206663-bit.github.io/soul-library/"/>
- <updated>2026-10-13T02:30:00Z</updated>
+ <updated>2026-10-13T07:00:00Z</updated>
  <author><name>Gaurav Meena</name></author>
+<entry><title>Nine serials added &mdash; the whole workshop now reads on the shelf</title>
+  <id>urn:soul-library:expansion-2026-10-13</id><link href="https://gm5206663-bit.github.io/soul-library/"/>
+  <updated>2026-10-13T07:00:00Z</updated><summary>The Fire Phoenix (52 chapters), Lan Shen (7), Fire Dragon Lizard (5, complete), Holy Spirit (4, paused), The System Cheat (4 samples), Dragon Prince Yuan (1), Stark Heir (5, MCU), MCU Eternal &mdash; Varun (3, paused), and the retired SL3 serial&rsquo;s single gated chapter &mdash; nine serials joined the shelf in one sync. The library now reads 312 chapters, 1,351,161 words, 18 serials; every file byte-identical to its source, sentinel twenty-six checks green.</summary></entry>
 <entry><title>The shelf caught up &mdash; Grey Wolf to Chapter 10, Supergirl to 17, every number re-measured</title>
   <id>urn:soul-library:resync-2026-10-13</id><link href="https://gm5206663-bit.github.io/soul-library/"/>
   <updated>2026-10-13T02:30:00Z</updated><summary>A full resync against the sources. The Grey Wolf had missed Chapters 7&ndash;10 &mdash; &ldquo;The Third Village&rdquo;, &ldquo;Road To Shrek&rdquo;, &ldquo;Shrek City&rdquo;, &ldquo;The Combat Exam&rdquo; &mdash; and held an older Chapter 6. Supergirl &mdash; Adrian Vale stood at fifteen files against seventeen: the Ch9&ndash;Ch15 revisions and Chapters 16&ndash;17, &ldquo;Childish Things&rdquo; Parts 1 and 2, are now in. The Unraveled Tide&rsquo;s twenty-four files were all older than the source&rsquo;s 2026-10-11 sentence repair, and came in with it. Thirty-eight files in all: six new, thirty-two replaced; every chapter on the shelf is now byte-identical to its source. Every count was then re-measured with the site&rsquo;s own tool &mdash; 230 chapters, 955,737 words &mdash; and the search index, recaps, analytics, sitemap, badges and front page followed. The library also gained the tool that makes this repeatable: tools/sync_shelf.py copies, re-measures, rebuilds every machine surface, and refuses to finish unless a fresh byte comparison finds zero differences. Totals quoted in older entries below are dated records of their day, not today&rsquo;s count.</summary></entry>

@@ -30,7 +30,8 @@ WHAT IT DELIBERATELY DOES NOT DO
 
 Usage:
   python3 tools/sync_shelf.py --kit /path/to/soul-land-universal-kit \
-      [--supergirl /path/to/supergirl-adrian-vale] [--titles titles.json] [--dry]
+      [--supergirl /path/to/supergirl-adrian-vale] [--stark /path/to/stark_heir]
+      [--mcu /path/to/mcu_eternal_fanfic] [--titles titles.json] [--dry]
 
   titles.json adds titles for chapters new to the shelf:
       {"grey_wolf": {"Chapter_07_The_Third_Village.md": "The Third Village"}}
@@ -54,8 +55,17 @@ SOURCE_MAP = {
     'qian_xunji':           ('{kit}/qian_xunji/chapters',                        'soul-land-universal-kit'),
     'supergirl_adrian_vale':('{supergirl}/chapters',                             'supergirl-adrian-vale'),
     'unraveled_tide':       ('{kit}/Soul_Land_2_Project/chapters',               'soul-land-universal-kit'),
+    'fire_phoenix':         ('{kit}/soul_land_4_fire_phoenix/chapters',          'soul-land-universal-kit'),
+    'fire_dragon_lizard':   ('{kit}/soul_land_1_fire_dragon_lizard/chapters',    'soul-land-universal-kit'),
+    'holy_spirit':          ('{kit}/soul_land_holy_spirit/chapters',             'soul-land-universal-kit'),
+    'lan_shen':             ('{kit}/lan_shen/chapters',                          'soul-land-universal-kit'),
+    'system_cheat':         ('{kit}/soul_land_system_cheat/chapters',            'soul-land-universal-kit'),
+    'dragon_prince_yuan':   ('{kit}/dragon_prince_yuan_native_oc_fanfiction/chapters', 'soul-land-universal-kit'),
+    'sl3_new':              ('{kit}/soul_land_3_new/chapters',                   'soul-land-universal-kit'),
+    'stark_heir':           ('{stark}/chapters',                                 'stark_heir'),
+    'mcu_eternal':          ('{mcu}/chapters',                                   'mcu_eternal_fanfic'),
 }
-SKIP_NAMES = {'README.md'}          # source-tree documentation, not a chapter
+SKIP_NAMES = {'README.md', 'CHAPTER_TEMPLATE.md'}    # source-tree docs, not chapters
 
 def ok(m):   print(f'  ✓ {m}')
 def info(m): print(f'    {m}')
@@ -97,13 +107,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--kit', default=os.environ.get('SOUL_LAND_KIT'))
     ap.add_argument('--supergirl', default=os.environ.get('SOUL_LAND_SUPERGIRL'))
+    ap.add_argument('--stark', default=os.environ.get('SOUL_LAND_STARK'))
+    ap.add_argument('--mcu', default=os.environ.get('SOUL_LAND_MCU'))
     ap.add_argument('--titles')
     ap.add_argument('--dry', action='store_true')
     a = ap.parse_args()
     if not a.kit or not os.path.isdir(a.kit):
         die('--kit /path/to/soul-land-universal-kit is required (or SOUL_LAND_KIT)')
     fmt = dict(kit=os.path.abspath(a.kit),
-               supergirl=os.path.abspath(a.supergirl) if a.supergirl else '')
+               supergirl=os.path.abspath(a.supergirl) if a.supergirl else '',
+               stark=os.path.abspath(a.stark) if a.stark else '',
+               mcu=os.path.abspath(a.mcu) if a.mcu else '')
     titles = json.load(open(a.titles)) if a.titles else {}
     measure = load_measure()
 
