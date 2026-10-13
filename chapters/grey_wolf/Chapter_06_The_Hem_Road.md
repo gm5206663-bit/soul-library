@@ -30,13 +30,13 @@ He did not use speed surge that makes blow slide off. At purple it added three c
 
 He walked because walking was honest arithmetic, father had said, and banked fire for later.
 
-Second day he passed first hem village, forty roofs like his own ridge, smoke from chimneys low, children chasing chickens. Women carrying water, men mending roofs before winter, he stopped at well because rope was frayed. Well needed rope more than he needed hurry, he spliced it because hands knew work. Point leading, thrust recover low guard, boar point leads moving thing hand's width. Hands knew work because spear flow taught hands to lead. Woman at well gave him water and half flatbread for it. She did not ask where boy his age learned to splice rope so it held. Village knows when not to ask.
+Second day he passed first hem village, forty roofs like his own ridge, smoke from chimneys low, children chasing chickens. Women carrying water, men mending roofs before winter, he stopped at well because rope was frayed. "Frayed since spring," the woman at the well said. Well needed rope more than he needed hurry, he spliced it because hands knew work. Point leading, thrust recover low guard, boar point leads moving thing hand's width. Hands knew work because spear flow taught hands to lead. Woman at well gave him water and half flatbread for it. She did not ask where boy his age learned to splice rope so it held. Village knows when not to ask.
 
 He ate flatbread walking and watched village children chase dogs that did not chase him, that was new and honest. Dogs smelled something old on him now, not wolf, not boy, but both, grey line gave vitality recovery predator frame. Dogs knew predator frame and gave it space, he liked that better than barking because barking wastes air.
 
 Third day he passed second village, sixty roofs, larger, with small shrine and market board. He read board without moving lips, prices for grain, for salt, for iron, he understood. He had read many boards now, fluent reading came from years of boards and father's tally marks. He did not show it because showing reading at eleven invites questions.
 
-He found work at edge of village, old man had fence leaning, post rotted at base. He set post straight with one lift because flowing body made it easy. Not show, just point leading, weight through legs, not back. Old man watched him set post straight with one lift and did not ask how boy his age did it. Village knows when not to ask, and Ye Cang knew when not to answer. Old man let him sleep in loft for it, loft smelled of hay and supper below, warm and honest. He paid with mended fence and straightened gate, not coin.
+He found work at edge of village, old man had fence leaning, post rotted at base. "Rotted at the base," the old man said. "Whole fence leans on it." He set post straight with one lift because flowing body made it easy. Not show, just point leading, weight through legs, not back. Old man watched him set post straight with one lift and did not ask how boy his age did it. Village knows when not to ask, and Ye Cang knew when not to answer. Old man let him sleep in loft for it, loft smelled of hay and supper below, warm and honest. He paid with mended fence and straightened gate, not coin.
 
 At night in loft of second village inn with smell of other men's suppers below, like inn loft at first gate of road, he looked. Ledger gave him whole of it every line as it did at every gate he had ever crossed. But this night was not gate, no update, no just gain, so he did not write full. Normally can check in status file everything when needed, as author said. So he checked status file in mind and found it honest, and slept sleep of man whose tally had come out even.
 
@@ -54,7 +54,7 @@ At noon fifth day, he sat hem road edge, spear across knees, counting cart ruts 
 
 Sixth day he met hunters, two men with bows, one with dog, coming south. They looked at his frame and spear and amber eyes and grey tint hair when sun hit. They nodded, as hunters nod to hunters, he nodded back, they did not ask about rings. He did not show them, to world yellow hundred-year, true color only Ledger if any.
 
-Hunters told him hem road ahead was soft after rain, better to walk edge, he thanked them with clear speech. Plain speech grown into clear speech at a hundred, grown mind's plain speech six years local tongue saying what needed saying no more. They went south, he went north, both honest, both keeping hem.
+"Road ahead is soft after rain," one hunter said. "Walk the edge." He thanked them with clear speech. Plain speech grown into clear speech at a hundred, grown mind's plain speech six years local tongue saying what needed saying no more. They went south, he went north, both honest, both keeping hem.
 
 Seventh day he reached edge of forest skirt, forest stood east dark even at distance. Great Star Dou Forest far east, but this was smaller wood, still beast country. Hem road kept west of trees, as father said hem north never in trees. He obeyed because father had walked hem roads and knew. He walked west edge where fields met trees, where hard ground was honest, where no one owned it, and that honesty mattered more than speed.
 
@@ -98,7 +98,9 @@ He slept back to wall, spear point leading, and dreamed of nothing because tally
 
 - **PROPOSED (all numbers PROPOSED not canon, details in STATUS.md):** Level 30 Great Soul Master, rings yellow 120y/603y within limits aging to purple PROPOSED via Heavenly Dream, concealment dimming PROPOSED not canon, Spirit Connection 200-300 not Sea 850, body 100-150kg not 100-150kg, martial soul Wolf ice thin canon Ice Wolf Mid mutation PROPOSED, skills Netherlight/Windstride with canon Ghost Wolf / Stormwind Demon Wolf skills — see STATUS.md for full evolution chain — not repeated here.
 
+- **DIALOGUE FLOOR (repair 2026-10-11):** 5 spoken lines added — well woman "Frayed since spring"; old man "Rotted at the base" / "Whole fence leans on it"; hunter "Road ahead is soft after rain" / "Walk the edge". Reader edition had 0 spoken lines, violating the floor of 3.
+
 - **History:** Chapter 06 The Hem Road — Arc 2 road east / city — road compressed montage — arrival Shrek City gates — no level/ring/bloodline update — 0 panel lines per F22 — clean no repetition — canon-strict — no repetitive fusion chain in footer, details in STATUS.md.
 
-- **Word count (body):** 2426w — band 2400-3400 IN — avg14-18 — over60 0 the-way 0 bare 0 — clean.
+- **Word count (body):** 2446w — band 2400-3400 IN — avg 15.6 — median 15 — over60 0 — the-way 0 — bare 0 — dialogue 5 lines — clean.
 

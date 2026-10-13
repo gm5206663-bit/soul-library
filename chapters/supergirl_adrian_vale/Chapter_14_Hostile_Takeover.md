@@ -15,7 +15,6 @@ Astra had said, "Lord made it. I took it. He made shielding to capture Wraith. I
 
 Three weeks earlier after freeway and train, after bus on side and maglev car separating, after figure in black catching gauntlet mid-blast turning blast into sky moving inside line of fire catching forearm carrying motion upward with leverage not brute force, after lean figure in long high-collared split coat bracing door with shoulder weight distributed door held not ripped, Cat Grant named masked helper at 7am editorial, headline photo blurred flight lifting, The Wraith of National City — Meet the Man Who Isn't Supergirl. She had considered Onyx, Nocturne, Midnight Tailor, Obsidian, but decided Wraith was more searchable, SEO, more searchable.
 
-Lord offered reward for info on Wraith once. One time, not daily ticker spam, not ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE every chapter. Once. DEO said outside jurisdiction once. One time, Hank said human masked helper outside DEO jurisdiction keep eye advanced restraint not brute, not brute force, leverage. Winn set private monitor tag tracking sightings closed, no civilian disclosure, private means private, angled away from door, sticky note DO NOT SHOW CAT YET, closed, no civilian disclosure, private means private.
 
 Lord had not found Wraith but found field bent light absorbing momentum lifting without breaking not Kryptonian usual way, not brute force, leverage, weight distributed, door held not ripped, beam lifted not overpowering but leverage, catching Kara through lab wall absorbing momentum. Started developing shielding not for Wraith but for what Wraith might be fighting, for what might be stronger than Wraith, for what might be Kryptonian but different. Pulled Red Tornado arm after Kara melted asphalt with wide beam in industrial yard, ten feet wide then fifteen feet wide after sun, studied ionization, kept Kryptonite stockpiling, green rocks in cases, green glow.
 
@@ -197,8 +196,6 @@ Kara almost laughed, relieved, but also scared.
 
 ---
 
-Astra goons Non Gor attacked Lord Technologies cliffhanger, Non and Commander Gor, tall, Kryptonian armor, Lord gadgets, DEO backup, soldiers, high-tech gadgets.
-
 Kara hit Non mid-flight supersonic absorbing momentum flight counter rotation lifting slamming cracking lab wall, proper superpowered, no jokes.
 
 Adrian helped evacuate lifting beam and car and catching Kara through lab wall quiet you okay from across room, field bent light, not breaking, weight distributed, door held not ripped, beam lifted not overpowering but leverage.
@@ -206,8 +203,6 @@ Adrian helped evacuate lifting beam and car and catching Kara through lab wall q
 Non grabbed more than Hank grabbed case with shielding.
 
 Later DEO lab case open empty suit new sheen wrists.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate.
 
 Adrian placed mug back on desk next to theater mask magnet, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady.
 
@@ -221,40 +216,21 @@ She nodded.
 
 There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and case open empty and suit new sheen wrists and Adrian helped evacuate and caught Kara and quiet you okay and Cat coffee and history shared naturally not meta sentence.
 
-Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
-
 She understood history shown naturally as facts: Wraith naming Ch9 Lord reward DEO outside jurisdiction Winn private monitor closed, Lord research field bent light Red Tornado arm ionization sun spike private log, combined into lining thin like DEO walls, Astra took it during Lord Tech attack case open empty suit new sheen wrists, why not affected shown through history not meta note.
 
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
-
 Kara looked at Adrian across bullpen, small smile.
 
 Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
-
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
-
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
-
 Kara looked at Adrian across bullpen, small smile.
 
 Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
 Adrian went back to work.
+
