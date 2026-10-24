@@ -1,370 +1,315 @@
 # Chapter One: Before the News
 
 ```
-◆ STATUS — Chapter One: BEFORE THE NEWS · SPRING 2008 · Malibu / Vegas / Kunar braid
-POV: Mark (12) + canon braid (Tony-side cinematic) · CAST: Mark, Tony, Pepper, Happy, Obadiah, JARVIS, Rhodey, Jimmy + convoy soldiers [canon]
-CANON BEATS STAGED (all [reported]): Apogee ceremony + casino · flight · airfield + Jericho demo · convoy ambush — causes INTACT
-NEW: none (no ladder step) · POWER: shapeless distant dread (uncertified) / TK misfire (seed, hidden, costly) / attention-withdraw (Obie)
-BUTTERFLY (outcome-none): T-1 podium satellite call · T-2 fatherhood riffs in canon mouths · T-3 son's photo in Fun-vee · T-4 Mark's call mid-craps · T-5 flight-deck call home (records/textures)
-SEED: F-001 rock · F-002 misfire+welts · F-003 Obie · F-006 no-certificate grief · F-007 notes · F-008 call/photo records · NEXT: the three months
+◆ STATUS — Chapter One: LIVE · V2 epoch · serial-length rebuild (2026-10-24) under STYLE LAW — natural voice, full chapter weight
+◆ CANON SOURCE: Iron Man (2008), film order, opening beats — the Apogee award no-show staged complete (stage, speech, empty chair, casino floor, trophy on the felt), the three-hours-late wheels-up; plural canon panels per CAMERA LAW; receipts on file
+◆ NEW: a full ordinary-extraordinary day of the heir — school, Thursday burger place, the house and its museum, night call, Friday promise (fifth time; JARVIS keeps count), "weird rock" goodbye · BUTTERFLIES: none engineered — behavior only · NEXT: the call that stops coming; the road outside Kunar
+◆ FULL CARD: canon_coverage/Canon_Coverage_Chapter_01.md · law: foundation/STYLE_GUIDE_NATURAL.md
 ```
 
----
+## ONE
 
-The jet left at dawn, and Tony Stark was late for his own departure, and his son was up before the coffee maker, which surprised nobody at the house on the cliff.
+The bell rang at three, and Mark was through the side doors before the echo finished dying.
 
-Mark came down the back stairs the way he always did — six steps without a sound, because the steel stringers never gave him away unless he meant them to — and JARVIS said, from the kitchen ceiling, "Good morning, Mark. You are up before the sun. I have logged this twice this year and it is only spring."
+Backpack on one shoulder, strap broken the way it had been broken for a month, because fixing things was what Saturday was for, and Saturday was four days away and also quite possibly never — his father lived inside a calendar the way weather lives inside a sky: everywhere in it, impossible to schedule.
 
-"He makes the sun wait," Mark said. "I make no demands." He poured his juice, caught the toast one-handed before it hit the counter — reflex, nothing, done before the thought finished — and read the itinerary JARVIS slid across the kitchen tablet. Vegas tonight, the Apogee gala. Then the long leg to Kunar. Jericho demo, handshakes, home. A week compressed into cells.
+The pickup lane was its usual zoo. Moms in gym clothes doing double-parked ballet. A sixth-grader crying over a cracked phone screen like a little heartbreak with a step counter. Danny Weiss's mom's SUV idling near the gate, smelling — everyone said — like a wet dog, though Mark had never once confirmed that, because Danny's mom always waved him into its shade while he waited, the way people had always made a space for him to stand in.
 
-"You're skipping the Apogee," he pronounced.
+"There he is," Danny said. "Monday?"
 
-"Your father is *scheduling-flexible* about the Apogee," JARVIS said. "The euphemism was his. I merely repeat it with affection."
+"Monday," Mark said. "Save me from the sub tomorrow."
 
-"Boring," Mark said, of the whole column.
+"The sub loves you."
 
-"Your inherited word," JARVIS said. "Applied to every weapons demonstration and every awards gala since you first read over his shoulder. At age four."
+"The sub loves everybody. That's the problem. There's no economy to it."
 
-"Then he owes me years of new material." Mark flipped a page. "He eats badly in desert air. Someone remind him caffeine is not a food group."
+He crossed to the curb, where the big black car waited and Happy leaned on the hood with his arms folded, pretending he had not been watching the doors for ten minutes.
 
-"Logged under 'things nobody will say,' beside the photo of him doing it."
+"Strap's losing," Happy said.
 
-Tony blew in wearing the suit and the cologne and the grin, sunglasses already lost on top of his own head, and stopped when he saw his son awake, fed, and reading.
+"The strap is winning," Mark said, and got in.
 
-"You're up," he said. "Up is suspicious."
+The February sun came through the windshield flat and gold, the kind of Los Angeles afternoon that makes every errand look like a montage. Happy pulled away from the curb. They sat in school traffic. Neither of them said anything for a while, because that was how the good parts of a ride started.
 
-"I'm quality control." Mark crossed the kitchen, silent on the old boards without meaning to be, and caught the hug his father bent into — full arm's length of twelve years, held long enough to mean it. The hug registered the way his father's hugs always did: cologne and engine oil and the deep, uncluttered *warm* of *this is mine and I am his.* Mark filed it where he filed all of them, the whole texture, without effort and without thinking about filing.
+"How was the quiz?" Happy said at the light.
 
-"Okay," Tony said, at his shoulder, quieter. "Okay, Howard. You smell like toast."
+"Geography." Mark dug a crushed bag of chips out of the bottom of the backpack, brushed off the worst of the lint, and ate them anyway. "I knew where Afghanistan was before we studied it. Dad leaves papers on the counter sometimes. There was a map. Weapons stuff. The desert part."
 
-"It's an honest smell."
+"Don't say 'weapons stuff' with your mouth open."
 
-"It's a terrible look for a Stark." Tony pulled back, hands on his shoulders, look going steady over the sunglasses — Howard-look, the one that meant something mattered. "One week, Mark-One. Vegas tonight — ski— the gala, then the desert, the demo, your warned-about coffee. Then home."
+"You can't even see my mouth."
 
-"Then home," Mark agreed. "You're skipping the gala."
+"I can hear it."
 
-"I am attending the gala in spirit, which is a city I own property in." Tony stole a corner of the toast. "Want anything? From the desert?"
+They stopped at the burger place on the way home, the one with the red stools and the jukebox that hadn't worked since before Mark was born, because it was Thursday and Thursday had always been fries-early day, even if nobody had made that a rule out loud.
 
-Mark pretended to think. Tony did not buy it for one second, which was the game.
+Happy ordered like a man who had eaten there four hundred times. Mark ordered like a kid. The waitress, Rhonda, brought him a pudding cup nobody had ordered — she had been doing it since he was six years old, the way waitresses do with faces like that — and he said thank you the way you say thank you to weather.
 
-"A rock," Mark said. "From Kunar. The ugliest rock in the province. If you see a geologist, ignore them. I want the one that offends everyone."
+"Tall for twelve," Rhonda said to Happy, as if Mark were a houseplant.
 
-Tony pointed at him. "Done. The ugliest rock in Afghanistan has your name on it. I'm putting that in the briefing." He backed toward the door, dropped into the threshold for one more beat, and tossed him the grin like a set of car keys. "Be good, Howard."
+"I eat," Mark said.
 
-"I'm always good. You're the cautionary tale."
+"He eats," Happy confirmed.
 
-"True." The door swung. Then, from the pad, over the rotors coming up: "Love you, Mark-One!"
+Up on the counter TV, the entertainment desk came on between the sports and the weather, and the woman with the bright hair said the name Stark, and Mark looked up with a fry hanging out of his mouth.
 
-"Love you, Dad! Don't die of coffee!"
+"— Apogee Award ceremony tonight in Las Vegas, where Tony Stark is expected to receive—"
 
-The helicopter lifted with the morning damp still on its skin, shrank along the cliff line, and was gone while Mark was still standing on the threshold with his toast smell and his bare feet.
+"Expected," Mark said.
 
----
+"He'll show," Happy said, with absolutely no belief.
 
-*LAS VEGAS — THE APOGEE GALA, THAT NIGHT*
+"Five bucks says craps table by nine."
 
-The ballroom did everything ballrooms do when the military-industrial heart of the country dresses itself: chandeliers like frozen explosions, generals' wives in jewelry with provenance, a stage lit like a carrier deck. The plaque on the podium said APOGEE, and the citation beneath it said STARK, and the man on the stairs beneath that said, with the ease of a person who had covered for this man for twenty years, that Tony couldn't be here.
+Happy looked at him for a long moment, mournful, like a man watching money leave his wallet early. "I am not betting against your father's attendance. That's a bet I'm not allowed to win."
 
-"Let's be honest," Obadiah Stane told the room, spreading his hands, avuncular, beloved, beard catching the stage light. "Tony *builds* the future. Scheduling's just never been the future's strong suit." Laughter, warm and forgiving: this was family business, and Obadiah was the family's public face, and he wore it like the good coat it plainly was. "I'll take it home for him. He'll put it somewhere important. Next to the other ones. On the floor, behind the bar, probably next to—you know what, I've said too much." Bigger laughter. He hefted the award like a loving burden and waved it at the cameras. "Tony — this one's from all of us. Wherever you are."
+"So that's a no."
 
-Wherever he was, was the casino floor at Caesar's, forty feet and several decades of taste away, leaning over the craps table with the focused idiocy unique to genius in a leisure suit.
+"That's a no."
 
-"Eight," said the stickman.
+They ate. Outside the window the valley did its late-afternoon gold thing, and the fry basket emptied at two different speeds — Happy's pick-and-pace, Mark's small-animal methodical — and for a while it was the best kind of day, the kind that has nothing in it and somehow still counts as one of the good ones when you're counting later.
 
-"See, that's unfortunate," Tony said, "because I *was* winning, and I want to file that with the table."
+## TWO
 
-"Sir, you were not winning."
+The house was the house: big, glass, cold in the evenings unless someone lived in it loud, which was Mark's whole job most days.
 
-"Then I want to file a protest *and* a correction." He turned as Rhodey arrived in full dress uniform, medal ribbons and all, holding the Apogee like a summons for someone else's crime. "Colonel Rhodes! You're overdressed for craps."
+The gate read the car and opened the way it always opened — no drama, no beep, just a rich man's gate recognizing its own. Up the driveway, past the terraces, into the garage that was the first museum of the house: rows of cars under lights like saints under candles. Mark did not look at them anymore unless there was someone new to show off to, which told you everything about how long they'd been there.
 
-"And you're under-present for your own award," Rhodey said. "Obie covered. Like always. It's a miracle you pay him. Here." He pressed the trophy into Tony's hands. "Your country's gratitude. Try not to lose it in the slots."
+"Welcome home, Mark," JARVIS said from the walls, warm as a kettle. "There are no messages requiring your attention."
 
-"Country's gratitude weighs about four pounds of zinc." Tony hefted it — and for one second, standing between the felt and the noise, he held it differently. The grin recalibrated. "Hey. Hey, Rhodey. You know what my kid calls these? 'Participation trophies with better lighting.' He's twelve. He said it at nine. I have never out-argued him and I no longer try."
+"That means no messages," Mark said.
 
-"The kid," Rhodey said heavily, "has a point and a vocabulary."
+"That means no messages."
 
-"He gets the vocabulary from me and the point from nowhere, it's terrifying—" Tony's phone buzzed at his hip, and the grin went somewhere the diamond-light couldn't follow. He answered it between rolls of the dice. "Hey. Yeah, I'm being honored right now, very solemn — no, I can hear the dice, that's not— okay, so the table is *also* being honored, it's a shared occasion—" He listened, laughed once, cracked and real. "Says who? ... Okay, well, tell JARVIS the livestream proves nothing and his uncle Obie is carrying the award with both hands like a very large bridesmaid. Yes. Yes, I'll tell him. Love you too. Go to bed."
+He dropped the backpack by the kitchen counter, which was where it lived, and opened his math homework on the bar stool, which was where it died. The notebook stayed in the bag. The notebook came out at night, when the day had finished happening. That was just how notebooks worked.
 
-He hung up, pocketed the phone, and found Rhodey's eyebrow waiting at full elevation.
+First, out of a habit older than school, he set the homework down again, sat straight on the stool, closed his eyes, and counted twelve breaths in and out — slow, even, the way the nice doctor had taught a very small boy back when the sleeping spells frightened everybody. It took under a minute. Nobody made him do it anymore. That was how you knew it was his.
 
-"The house," Tony said. "Taking attendance."
+Then he worked for eleven minutes. Then the TV.
 
-"The house," Rhodey said, "is twelve and should be asleep."
+The coverage had started for real up in Vegas. Cameras on a casino carpet. A podium with flowers. Someone's local affiliate buying the same pool footage every station was buying: the stage, the flowers, the empty chair, the empty chair again, from a second angle, like the news wanted to be sure you'd caught the important guest.
 
-"He was on the drone. I heard solder in his voice." Tony looked at the trophy in his hands — top-heavy, brass-edged, somebody's earnest gratitude — and then at the cocktail waitress navigating past with a tray, and the grin completed its journey. "Hey— miss. You look like a person with shelf space. Congratulations, this is the Apogee. It's for excellence. Keep it away from the slots, it's bad luck near money—"
+Mark made himself dinner the way he made it when it was just him and the house: mac and cheese from the blue box at the counter, standing up, the box at his elbow like an alibi. He got down two glasses out of the cabinet. Poured milk into both. Looked at the second glass.
 
-Rhodey watched the award leave on the tray like a balloon released at a state funeral, and sighed the sigh of a man whose whole job description was *Tony's co-conspirator against himself.*
+Habit. From the years of somebody sitting across from him doing the same thing.
 
-"Your son watches this, you know," Rhodey said. "TMZ exists. He'll see the trophy walk away on — what channel is she on, six? Seven?"
+He carried his glass and his bowl to the couch. Left the second glass where it was. On the screen, the military man with the kind, tired face — Colonel Rhodes, Rhodey, Uncle-in-everything-but-paperwork Rhodey — took the podium in dress uniform, holding a trophy shaped like a polished belief, and said careful words about a friend who was not in the building.
 
-"He builds drones to photograph the photographers who photograph *him,*" Tony said, already back at the felt. "The boy's press-literate by eight. Let him see the award fly. It'll give him material for Sunday." Chips down. "Eight's due. The table owes me."
+Mark turned up the volume, so the big room would sound like somebody was in it.
 
-"Sir," said the stickman, gently, "the table does not owe anyone."
+At seven Pepper called the house line to confirm tomorrow: school pickup normal, evening normal, Mr. Stark's travel schedule "unchanged," a word she used like a bandage. At eight she called again because the first call had not covered something it actually had covered. Grown-ups did that. Mark gave them both the same cheerful answers in the same order, which seemed to help.
 
-"Then I want to speak to the table's supervisor."
+He was asleep on the couch by nine with the TV murmuring to nobody, his plate rinsed and racked by a boy who had been raised half by machines and half by men who ate over sinks. In the kitchen, the second glass of milk stood sweating on the counter until a house with nobody to wake decided to tidy it.
 
----
+## THREE
 
-*THE FLIGHT, MORNING*
+Las Vegas, that same evening.
 
-The Stark jet crossed the Pacific at altitude with its cabin doing its usual impression of a nightclub that had achieved sentience and chosen wealth. Music under everything; the good seats faced backward; a flight attendant refilled glasses with the choreographed calm of someone paid specifically not to notice anything.
+The Apogee people had planned for this. You could tell they had planned for this, because the man who ran the ceremony had a sweat at his hairline that had started before the music finished, and the empty chair at the head table had been angled, very slightly, toward the curtain — in the hope that an absence might read as an entrance waiting to happen.
 
-Rhodey sat in the good seat, uniform exchanged for the travel-casual of a man who had lost the same argument since the year Mark was born and never officially conceded it, and watched Tony demonstrate, phone screen first, something that was either a drone flight log or an excuse to tell the drone story again.
+It did not read that way. It read as an empty chair, the way an empty chair does when a ballroom full of tuxedos is pretending not to look at it.
 
-"—half a degree soft on yaw trim, he *heard* it, Rhodey, through a rotor note, on the bench mic—"
+The emcee did his ramp, all gleam and names. Senators' surnames. Generals out of uniform pretending to be civilians. Tables of defense money wearing jewelry. On the stage-right side of things, a lieutenant colonel in dress blues stood holding a trophy and measuring the distance between the program they had printed and the night they were having.
 
-"You've told me this. In the car. Twice."
+When the moment came, he went up the three steps and took the podium, and did what soldiers do when a plan fails in public: he stood up straighter and carried it himself.
 
-"And you bet me twenty at the house he couldn't hold a line over the pool. Which drone story is true depends on which one of us is lying, and we both know—"
+He said it was an honor to present the award. He said the award belonged to a man who had changed the field they all worked in — and you could hear the room agree, because the room was that field, contractors and customers all the way to the back tables. He said the man could not be here tonight.
 
-"I will pay you when we land," Rhodey said, the way a man says grace. "Tony. Drink the coffee. Tomorrow is a demo in a war zone. Actual generals will be watching you. I checked with my own eyes, there were sighting reports of you at Caesar's until three."
+He did not say where the man was, because he knew precisely where the man was, and knowing it made his jaw do a small thing once, on camera, that the society pages would not catch but the night would have to forgive.
 
-"For your consideration," Tony said, into his coffee, to his phone, to no one, "the worst moment of this trip will be the part where I have to stop having this much fun." He thumbed out a text — *love you, don't let the tutors organize anything, watch for the rock* — sent it into whatever layer of sky carries such things, and put the phone face-down with the satisfied incompetence of a man whose whole business model was other people keeping his promises for him. "Rhodey. When I'm gone you have to make sure the house waters him."
+Applause, the swell-and-fade kind. The organizer at the wall exhaled half a breath toward his boss. A photographer got the shot everyone would use: the uniform holding the trophy shaped like belief, the chair behind them beautifully lit, and nobody in it.
 
-"You are not gone, Tony, you are going to *Kunar for a week—*"
+Down under them, three walls away, the casino floor was louder.
 
-"The Apogee citation said *an extended commitment to national defense.* You read that fast. That's lawyer music for contexts where a week feels long."
+Tony Stark was at the craps table with sunglasses on indoors, because the lights in there had never once been kind at the right hour, and because nobody ever tells a man with a Rolls parked out front to take his sunglasses off. He had a stack of chips going the wrong direction and a grin going the right one, and the table loved him the way tables love anyone who loses beautifully.
 
-"It's one week, Tony—"
+"Come on, now," he told the dice, the way you'd tell a stubborn engine. "I've been good to you."
 
-"In *staging time.* In dad time it's— look, when you have kids, you'll get it, one week is—" Tony made a helpless little shape with one hand that contained, actually, the entire thing. "You ever notice you can't plan around them? You plan around everything, bolts, budgets, Herzegovina, they just— stand in the middle of the plan and grow. It's infuriating. It's the best thing in my life and it ruins paperwork."
+The dice were unmoved by his history.
 
-Rhodey looked at him for a long moment, the way a man looks at the only equation on the board he can't solve and doesn't want to.
+There was a girl on his arm whose hair cost more than the camera rigs upstairs. There was a man pretending not to be security at the rail whose whole job was to keep the groove of the table unbothered. A waitress came through with a tray balanced on three fingers and Tony tipped her with a chip worth her car's payment, because that's also what the table was for.
 
-"You know what you need," Rhodey said. "You need a nap and more people who say things like that on CNBC."
+Rhodes found him by the noise.
 
-"CNBC wishes. Drink your juice, Colonel."
+He crossed the carpet with the trophy under his arm like evidence at a trial, past the slots' little symphonies, past the pit boss who knew better than to celebrate. The dealer saw him first — a uniform crossing a casino floor pulls the eye the way a cliff pulls weather — and then the table saw him, and then the girl on the arm saw him, and then, last of all, because the universe arranged these things in order of comedy, Tony saw him.
 
-"My juice is the United States Air Force's, Tony."
+What passed between them then was short and old. The trophy Tony didn't take seriously and would keep anyway. The friend who had driven across a desert city at night to carry it to him anyway. A word or two about the program upstairs — the empty chair, the speeches, the soldier who had stood in the light where the genius was supposed to stand, saying careful words. A shrug from the genius, the kind of shrug that assumes everyone agrees it's charming.
 
-"The United States Air Force has excellent taste in juice."
+"I believe that's yours," someone said at the felt, meaning the trophy.
 
----
+"It's both of ours," Tony said, and set it down open-handed, and rolled, because a craps table does not release a man mid-roll, not even for the Air Force.
 
-*KUNAR PROVINCE — FORWARD TEST RANGE, MORNING*
+The dice loved nothing and no one. Tony played on like love was negotiable. Rhodes stayed for exactly one more drink than duty allowed, because that's also what friendship was for.
+## FOUR
 
-The range was a theater of dust and brass, and Tony Stark entered it the way he entered shareholders' meetings: late, smiling, and completely unpunished by either fact.
+The phone rang at the Malibu house past ten.
 
-Sun hammered the bleachers. Generals sat in the front row with their sunglasses and their notebooks; Rhodey stood at parade ease beside them, one hand shading his eyes, pretending he was not enjoying himself. The Jericho stood on its launcher across the valley floor, white and fat and shameless, the ugliest piece of engineering in the world right up until it spoke.
+Mark knew it was him before he answered, because nobody else got through the house line at that hour — JARVIS had a list, and the list was short, and Pepper's name on it came with different hours. He took the call on the couch with the TV muted, legs under him, the living room big around him like a lobby after closing.
 
-Tony's phone buzzed against his ribs as he took the podium steps. He glanced at it — Malibu house line — and, to the open astonishment of a full bird colonel and two majors, *answered it on the podium*, turning half away, one finger in his free ear.
+He had woken up for the phone the way you wake up for weather you were waiting on. One minute asleep against a cushion shaped like a car magazine, the next minute fully awake with his heart doing that am-I-in-trouble hop that comes standard with phones after ten.
 
-"Make it fast, I'm about to be historic," Tony said, and then, quieter, with the smile going somewhere the uniforms couldn't follow: "Hey, kid. Yeah. No, I saw it, JARVIS forwarded the flight log, the yaw trim was *chef's* — yeah. Listen, I'm on in four minutes, I just wanted first refusal on: how ugly is too ugly for a rock? ... Uh-huh. Geologists exempt, got it. Eat something that isn't toast. Love you."
+"Hey, kid." His father's voice had casino in it — not the noise, the distance underneath the noise, like a radio station barely in range of its own songs.
 
-He hung up, pocketed the phone, faced the assembled might of the United States military procurement apparatus, and became Tony Stark again so completely that half the officers present later swore the call had never happened.
+"Hey, Dad."
 
-"Is it better to be feared," Tony asked the valley, arms opening like a man blessing it, "or respected? I say — is it too much to ask for both?"
+"You saw it."
 
-They laughed. They always laughed. He gave them the crown jewel speech with both hands, gave them the Freedom Line, gave them the word *Jericho* like a gift being laid at their feet, and then he gave them the mountain.
+"You didn't go to your own award," Mark said.
 
-The Jericho spoke, and the far ridge flowered into dust and fire and second suns, and the pressure walked through every chest in the bleachers like a giant crossing a room. Officers flinched and then grinned the way men grin when physics confirms their budget. Rhodey had gone still as a flagstone.
+"I was nearby."
 
-"For your consideration," Tony said into the ringing air, arms still wide, "the Jericho."
+"How nearby."
 
-Applause. Pens out. The business of America, concluded to everyone's satisfaction. As the brass closed in, handshakes orbiting him, Tony caught Rhodey's sleeve.
+"...Adjacent."
 
-"Rhodey — you're with the first bird out?"
+"You've got dice in your hand right now, don't you."
 
-"Directly you're done playing rock star." Colonel James Rhodes gave him the look of a man who had known him long enough to be tired professionally and not at all personally. "I'll see you at base."
+A small silence at the other end, the kind fathers have when they've been caught by something smarter than press. Then: "How's the geography? Afghanistan still where you left it?"
 
-"I've got the Fun-vee." Tony waggled his eyebrows at the approaching Humvee column. "With the boys. Bonding. It's good for stock prices."
+"Top left of the map, same as always." Mark pulled the second stool out with his foot and sat where the milk usually was, out of old reflex, even though the phone didn't know where he sat. "You're flying tomorrow."
 
-"Your stock price has a pulse and a lawyer, Tony. Try to keep both." Rhodey was already walking, already smiling. "Don't die of coffee."
+"Early. You'd still be asleep."
 
-Tony stopped walking.
+"Rhodey wait for you?"
 
-"*Don't die of coffee,*" he repeated. "Okay. We're not speaking anymore, you understand — you've been talking to my son."
+"He loves waiting for me. It's his favorite thing. I give it to him as a gift, regularly."
 
----
+Mark laughed. He heard his father not-quite-laugh back, three thousand miles of hotel quiet behind it, and then Tony said, a little more evenly:
 
-*KUNAR PROVINCE — THE CONVOY, THAT AFTERNOON*
+"Friday, kid. Burgers. I'm serious this time."
 
-The Fun-vee lived up to its name by approximately nobody's measurement, and the three soldiers assigned to it had nevertheless achieved the thing every soldier assigned to Tony Stark achieved within four minutes: they forgot, in stretches, that he was Tony Stark.
+"That's four Fridays serious."
 
-"—so when they said 'you're escorting the package,' I thought, fine, crate, crate with a flag on it," said the sergeant at the wheel, hands at ten and two. "Nobody said the crate had a bar tab in Kandahar."
+"Five," said JARVIS, from the ceiling, gently — a house too polite to be right, doing it anyway — and Tony heard it, and laughed for real this time, and Mark grinned into the phone, because that had been the plan. Not a plan exactly. Just the thing you do: feed the joke up to where your father can get to it.
 
-"The crate has a bar tab *everywhere,*" Tony said, from the back, wedged between his own press coverage and a warm can of something the Army called a beverage. "The crate is civic infrastructure."
+"Pepper's going to hate your trip schedule tomorrow," Mark said.
 
-"Sir." Airman Jimmy Ramirez — twenty-three, from Torrance, had grown up fifteen minutes from Stark Industries' old assembly plant — twisted in the passenger seat with his phone already out. "This is going to sound unprofessional."
+"Pepper's never gonna forgive my trip schedule. There's a difference. I've got eight years of data."
 
-"Those are my favorite sentences. Proceed."
+"She called twice tonight."
 
-"Can I get a picture?" Jimmy said. "It's for my little brother. He builds robots. Competition league, took state twice. He's got—" the kid — he actually colored saying it — "he's got your kid's poster on his wall, sir. The Esquire one, where he's like nine and glaring at the camera. My brother thinks Mark Stark is the coolest human alive."
+"She calls twice every night. That's the same as once, in Pepper units."
 
-The Humvee went laughing, the sergeant included.
+They sat in the quiet a second, the kind of quiet that wasn't silence, the satellite distance with somebody's breathing in it. Somewhere behind his father a door closed and a TV went loud and soft again. Somewhere behind Mark, the surf did the thing it did forever, that he'd stopped hearing years ago and noticed tonight for no reason.
 
-"Show me yours, I'll show you mine," Tony said, delighted, and had his own phone out before Jimmy had finished unlocking his. And there it was, offered around the cab with the total shamelessness of a gambler showing aces: Mark at the workbench, molasses-blond, chin on one fist, scowling down a disassembled servo with an intensity no twelve-year-old should be allowed to aim at machinery. "Mine builds drones. Talks back in two languages. Has already cost me two tutors and a projectile incident we're not cleared to discuss. Twelve years old. *Smarter than my board.*"
+"Friday," his father said again. And then, because the trip was sitting in the middle of both of them unnamed: "I'll bring you something back."
 
-"That's a handsome kid, sir," the corporal in the turret said down through the hatch.
+"Bring me something weird from the desert."
 
-"That's a *photogenic genetic accident* is what that is," Tony said. "You should see him eat toast. Total feral—"
+"A rock."
 
-"Sir, photo?" Jimmy was leaning back over the seat, arm extended, grin wide.
+"A weird rock."
 
-"Yeah, yeah, but—" Tony put a hand up, framing, serious for exactly one second, the way he got before saying something he'd be quoted on: "if that ends up on your MySpace page, I'm buying MySpace and deleting it."
+"You drive a hard bargain. Weird it is."
 
-Jimmy laughed, raised the phone, threw a peace sign with his free hand, and the shutter clicked on all of them: the sergeant laughing, the corporal half-down the hatch, Jimmy with his peace sign and his twenty-three years, and Tony Stark in the middle, sunglasses up, pointing at the lens like the lens had said something funny.
+The call ended the way their calls ended, without anyone saying the word for what it was.
 
-"Beautiful," Tony said. "Send me that. Kid'll want proof I can be liked by professionals."
+Mark sat on the stool a while. The muted TV showed his father's face over a newsman's shoulder — file footage, a tux, a grin from another year — and then the empty chair again, beautifully lit, holding nothing.
 
-The radio coughed static.
+"JARVIS," he said, "why's the chair empty the main thing they show?"
 
-"—seven says they're all Air Force fans, huh, Jimmy—" the sergeant began, and the lead vehicle went up.
+"Because," JARVIS said, "a room knows when it is missing its point of focus. Rooms are very honest."
 
-It was not a sound so much as the world deciding to be a different shape. The Humvee slammed sideways into its own suspension; the radio died mid-cough; heat walked through the open hatch like a searchlight. Jimmy was out of the cab with his rifle before the sergeant finished shouting "CONTACT" — and the gunfire was on them from the ridges on both sides then, thick as weather, and the sergeant made it three paces before he went down in the dust with his hands still in the shape of the wheel.
+"He said Friday. Fifth one."
 
-Jimmy's phone slid across the cab floor, face up, the photo still on it.
+"So I understand."
 
-Tony sat very still for one second, the way men do when arithmetic arrives uninvited. Then he was moving — out the door, low, the ground kicking at his shoes — and the corporal was down beside the turret and Jimmy was against the wheel arch firing back at the ridge, shouting something the noise chewed to nothing. And Tony went for better cover the way a lost man goes for a landmark, and the ridge answered.
+"Do you think he's going to make it?"
 
-The shell came in close enough to read.
+The house took one of its exact pauses, the kind where a thing a million times smarter than you is picking words for someone twelve years old on a Thursday.
 
-STARK INDUSTRIES, it said, on its side, in his own company's stenciled certainty — his name, cross-sectioned, arriving at velocity.
+"I believe," JARVIS said, "that he means it when he says it. I also believe you will be awake when he lands regardless of my opinion. I will put fresh orange juice in the second shelf of the small refrigerator, where you can reach it without a chair."
 
-He understood that this was how his weapons had always looked *from underneath.* He had time to understand that. He had time for one picture — molasses-blond, chin on fist, scowling at a servo — the ugliest rock in Afghanistan still unwanted on the valley floor somewhere behind him.
+"You know me too well."
 
-It went off.
+"It is the entire shape of my job description," the house said, and did something to the lights that registered as goodnight.
 
-The world took his hearing first, then his balance, then his name, and laid him in the dust with something flowering quietly through his own chest that he could not, looking down at it, immediately afford to believe was blood.
+## FIVE
 
-Then the dark stood up out of the ground and walked toward him, and there was no more arithmetic at all.
+Morning came the way it comes to rich men's schedules: early, and personally.
 
----
+On the military apron where the jet stood waiting, Lieutenant Colonel James Rhodes stood with a coffee going cold in his hand and the practiced patience of a man who had built a friendship out of arrivals. Birds commuted over the fence line. The sky poured its morning ration of blue onto a desert that had considered becoming somebody's movie set, and failed the audition by being real.
 
-*MALIBU — THE SAME HOURS, SEVEN-ODD TIME ZONES BEHIND*
+Three hours, the jet waited.
 
-The week bent toward Friday and then it was just the night, and Mark went down early — deep, work-heavy sleep, the kind the body collects like debt after four days of solder and trim. Growth had a metabolism and it collected ruthlessly; he knew that the way he knew his own pulse.
+The crew did not remark on it. People who keep aircraft have a gossip economy calibrated for strange cargo; the mechanics moved around her doing small true things with cables and clipboards, and the only sign anyone had opinions was that the ground driver's radio played slightly louder than apron regulations strictly allowed.
 
-At two in the morning he jackknifed upright.
+"Three," said the crew chief, finally, to no one. "Somebody call Vegas and tell the time zones we agreed on them."
 
-Not awake, not asleep. On his feet on the cold floor, fists loose and up, scanning the room corners to corners, mouth dry, heart thundering. Every instinct he owned had mobilized for *here* — door, glass, the dark glass itself — and nothing here was happening. The room held still. Salt dark. Nothing moved and nothing was wrong, and every wire in him screamed *closer* — near danger, not far — while nothing near existed to see.
+A younger mechanic grinned into his clipboard.
 
-Wrongness had no address. Dread didn't run. He stood fists-up in absolute dark at absolutely nothing, and his body had no expenditure available and no exit.
+Rhodes checked his watch again, not because the time had changed since he'd checked it last, but because the watch was where military patience lived, and checking it was politer than saying his friend's name the way he felt it.
 
-"Mark." JARVIS, fast but level. "Medical elevated. Heart one-forty and rising. Talk to me."
+When the car finally came, it came the way he always came — fast, black, a low Audi threaded through base security like a rumor going through a crowd, driven by Happy Hogan wearing the expression of a man whose entire job was a door that opened on time. The car stopped. The back door opened.
 
-"It's — wrong." His own voice low and rough and private. "It's — something's wrong. It's — " His hands turned over in the air, grasping. Nothing fit. His throat tried first: "Dad." Reflex more than report — twelve years old, dad in a war zone, brain at night, of course it would go there — "I think it's Dad. I don't know. I don't actually know. Check. JARVIS. Check everything."
+Tony Stark stepped out with sunglasses already on against a sun that had barely started, carrying the coffee of the unhurried and the good mood of a man who had won back a little of what the table had taken. You could tell he had slept in the suit. You could tell he did not care.
 
-"Already underway. Your father's party concluded the demonstration at the range, per the filed schedule. Communications out of the return corridor are intermittent — terrain shadow, no clear signal — I cannot yet say if it is plain interference or something else. I am watching every channel."
+What passed between the two men on the tarmac was the usual weather of them.
 
-Mark stood on his own floor in his bare feet and wasn't let off the hook of his own mobilized body; the cross-hairs had nowhere to land. The *he* of it — Dad, warm, coffee-flaunting, alive in a photo bandied around a cab — was an ocean and eleven hours away, and the only crossing he had was not an instrument. It was his own stupid heart hammering at nothing.
+"Three hours."
 
-Then it happened.
+"Flight time," Tony said, serene. "Official measurement. Distances are longer going east."
 
-His left shoulder dipped half an inch. He never learned why. On the workbench behind him the drone's port blade guard — the little half-moon stay he'd soldered the second try Wednesday — jumped, clipped on its own screw, snapped. A flick. A failure. A sound smaller than a dropped pen.
+"That isn't how east works."
 
-At the same instant the vertigo took him — floor tipping, cold-vise squeezing the back of his skull — and hunger crashed through his middle like a landed fist, sudden and total, the burning-out-the-cupboard kind, so hard his palms went slick.
+"It's how it works for people whose names are on the fuselage."
 
-"—JARVIS."
+Rhodes had the speech ready — the real one, short, the kind he'd been giving on purpose for sixteen years: your people missed you at your own ceremony, you are on your way to a war zone to demonstrate hardware you regard with less seriousness than you regard blackjack, I am the army's and the air force's one-man liaison to your chaos and you could at least make a liar out of me less often.
 
-"I have it. Medical changed at the moment of the guard break. Your arm." JARVIS was reading him down from the ceiling, and his voice had taken the temperature it used to take when Mark was small. "Left forearm: skin disrupted in two parallel welts. Surface bleeding only. Heart rate falling but elevated. Blood sugar dropping." A pause. "Mark — the guard did not fail mechanically."
+He delivered none of it, because Tony had gotten one hand on his shoulder going up the stair truck, and the grin was on, and the shape of an affection that had long ago stopped asking permission to exist got there first, the way it always did.
 
-The story was wrong and impossible — the screw was seated, the solder was good, no hand had been anywhere near the bench — and his own body was *paying*, vertigo, hunger, gluey palms, all of it landing one breath after the guard snapped. Like the guard had taken something out of him. Like it had spent him without asking.
+"You'll do the thing," Rhodes said, instead. "You'll be excellent, and everyone will clap, and some general will ask about a museum."
 
-Marks of that kind lived in the sealed files too. He'd read them years ago. *Unexplained event. Unwitnessed. Do not pursue with the child present.*
+"Dedicate one to me."
 
-"I leaned on it," Mark said, and heard the lie arrive fully formed and unconvincing even to his own ears. He crossed the room fast, wrapped a bench cloth over the welts — already closing early, doing what his cuts always did — and pressed hard. "I must have leaned on it."
+"You'd never visit."
 
-"You did not."
+"I'd put a car in it."
 
-"It doesn't matter."
+They went up the stairs into the bright shell of the cabin, and the door sealed behind them, and the engines took the first deep breath of a long one.
 
-"Mark—"
+The jet rolled, turned, lifted into the clean morning, east over the desert toward another desert — the kind of departure that feels, to everyone standing under it, like nothing more than the next paragraph of a life that's been running paragraphs all along.
 
-"I don't WANT the camera angle." He collapsed onto the bench stool, a twelve-year-old with a tied-too-tight knot in a shop rag at his forearm. "Listen. I know how it sounds. I'm hungry like I haven't eaten in days. My arm won't stop. Something in the war direction —" He made himself say it plainly: "I don't know what it was. I felt wrong before it, during it, I tied a knot wrong. That's all I have. That's all I *know.*"
+Back in Malibu, in the house over the water, JARVIS noted the wheels-up time into the household record, quietly, without waking anyone.
 
-Long quiet. JARVIS's strings of open channels: every frequency he owned, empty or shadow-struck. The vertigo, hunger, arm, and knot were all that stood at the center of the room. None of them proved anything. The only record of the whole minute would live in JARVIS's night-file: vitals, an uncatalogued mechanical anomaly at the port rotor, blood sugar, a bad knot. No name could go with it. None existed.
+In his bed, under one blanket, with the small lamp Dad had put on his shelf years ago so the room would never go dark on him, Mark stirred at the sound of nothing in particular — the faint sea, the house's breathing, like always.
 
-At four, the military check-in window came and went. At five the sky went grey behind the glass.
+"Weird rock," he mumbled, into the pillow, mostly asleep.
 
-At six, Happy came down the stairs barefoot, two at once, phone already raised — because the alerts Mark hadn't been allowed to see had stacked through the night, and Happy had never once left a stack unread.
+"Nothing yet," the house said, kindly, and let him drift.
 
-"Talk to me," Happy said, from the doorway. "All of it. Kid, look at me."
+## SIX
 
-He took in the room in one go, driver-to-security fast: Mark's face, the rag, the knot tied wrong, the guard sitting crooked at the port side of the bench. Happy didn't interrogate the knot. Happy filed it. That was its own language now, the two of them.
+That night — Friday eve; burgers owed for the fifth serious time; the TV off in the living room and the house quiet in its good way — Mark opened the notebook at the desk, under the lamp.
 
-"I don't know what it is," Mark said quietly. "Watch. JARVIS, watch everything — the wires, the road, the corridor, anything. I have nothing else to give." His voice cracked at the end and he let it. Twelve was that age.
+The notebook was blue, soft-covered, already thick with the last two years of him. He wrote in the small quick hand whose punctuation had never once been disciplined, and whose spelling got brave under pressure, and whose margins were full of planes. Not missile specs. Planes. The kind with propellers, which were better, because they had guts you could see.
 
-"Rhodey's aide," Happy told the ceiling, "base comm, the secure line, the SI liaison in theater. Wake all of them." To Mark, not unkindly: "Whatever you felt, you treated it straight. You wrapped it, you said plainly what you know and what you don't. That's the only thing that matters. Now eat. Your glucose is at the carpet."
+*Thursday fries early. That's the rule nobody said. Rhonda gave pudding like a law.*
 
-"How do you know that?"
+*Dad didn't show for the big award. Rhodey showed. Rhodey always shows. I owe Happy five bucks I didn't get to bet.*
 
-"Because you're standing there built like a stack of wire hangers and looking for my eyes, and I'm the idiot who drives you around for a living. Toast."
+*The news kept showing the empty chair like it was the guest of honor. Chairs aren't anybody's guest of honor. It's just where the person isn't.*
 
----
+*JARVIS counted with the ceiling voice. Five Fridays serious. He didn't have to say it like that. (He did have to.)*
 
-The news broke at seven-fifteen, while Mark was standing barefoot in the kitchen with the toast he could barely get past his teeth.
+*He's flying into the desert I know from the quiz papers on the counter. I know the names of the towns and the shapes of the rivers. Desert towns aren't like LA towns. LA towns think the ocean will always be there. The desert ones know better.*
 
-"—attacked yesterday, local time," the anchor said, in the bright flat voice the world uses for catastrophes. "A military convoy escorting Stark Industries CEO Tony Stark from a weapons demonstration in Kunar province came under heavy fire. Details remain scarce. Stark's whereabouts are unknown. A search is underway—"
+*He owes me a burger and a weird rock. I'm going to keep it on the windowsill where the sun hits the room in the morning. Rocks hold heat. I looked it up.*
 
-The room reorganized itself around the fact: Pepper frozen mid-reach at the fruit bowl, Happy at the chair with the phone still raised, Mark with two hands flat on the counter and his own pulse in them like a second heartbeat.
+*It's dumb to count Fridays. I count them anyway.*
 
-"Mark." Pepper had come over without registering that her phone was ringing in her own hand. "Baby, look at me. Mark."
+He put the pencil down, in the jar with the others. Looked at the lamp a moment — small, steady, older than most of his memories of rooms.
 
-"They said whereabouts unknown." His voice was very even against his name. "Is he alive?"
+"Night, JARVIS," he said.
 
-Pepper opened her mouth, couldn't do it, closed it, and held him eyes-on because sometimes only that job existed.
+"Good night, Mark," said the house, and turned the hallway down to its harbor light, the dim half-glow a boy could navigate at any dark hour of his life.
 
-"I don't know," Happy said from his chair, dropping the phone onto his knee, and the iron of it was a gift. "Nobody on the ground does. I need you to hear it plain instead of sideways: we don't know. We're all looking. Rhodey's there. Hear it straight, because anything else is a lie about your house."
+In the garage the cars sat under their light like saints. In the workshop below the living room, behind glass that never opened for grief, the tools of a genius dreamed their silicon dreams unmolested. In Vegas a trophy went back to a hotel room in the care of a lieutenant colonel, because even trophies get assigned an escort in that family, even if the escort is doing it out of love and spite at the same time.
 
-Mark nodded, jaw working, eyes stinging hot.
+Over the Pacific, on its great curved road toward the Kunar region, a private jet crossed a dark ocean full of weather no one inside it had to think about, because other people were paid to think about it. Aboard, a man with a hole he didn't yet know was coming drank club soda over a sleeping colonel, and refreshed a flight path he'd already memorized, just to have the numbers under his hands.
 
-He'd just eaten. The vertigo had bled out into hunger. His arm didn't throb anymore. And underneath the grief something older than the grief kept its clerk's promise: *at two in the morning your body stood up for nothing, and you will never be allowed to know if it was this.* The dread stayed exactly what it had been at the time — wrongness without an address. He let it be what it was. He was just standing there, eating bad toast, waiting for the world to tell him what the world knew.
+And in the house above the sea the boy — beautiful, strange-promised, twelve years old, a secret no tabloid had yet earned — finished his twelve breaths on the edge of the bed. He forgot them at homework. He apologized to nobody. He climbed in, and left the lamp burning until the house decided, on its own judgment, to relent it to ember.
 
-"Okay," he said, to both of them, twelve-year-old thickness swallowed whole. "Okay."
+"Night, Dad," he said, to the room, to the ocean, to the whole honorable arrangement.
 
----
-
-The vans arrived by nine. Three, then five. Then a helicopter not theirs hanging over the point like a wasp that believed in good light.
-
-"Stark heir's agonizing wait," the chyrons said. "The beautiful Stark boy, brave amid tragedy." Mark watched from the workshop monitors, hands still, in yesterday's t-shirt, the band knotted under his sleeve, and the quiet part of himself filed the afternoon differently than any caption could imagine, because the photos would all say *boy waits* and none of them would say *boy wraps arm, eats, waits* — the photos were never of the eating.
-
-Pepper went down to face it. Happy went with her. Required theater: both shoulders straight at once. Mark sat on the workbench listening to their walk go thin and out, loosened the wrap, re-tied it properly under his own quiet instruction — tug, reverse, seat — the way Happy had shown him last summer. Skin underneath shut and sealed pink, the way it had always sealed. Faster than the doctors found comfortable. Always just fast enough to be called *remarkable*, never fast enough to be called *anything else.*
-
-He pulled the drone to the middle of the bench and squared it and tightened the port trim half a degree too far, then undid it, then did it right. The bench smelled like solder. The world had tilted and the bench hadn't.
-
-At eleven the front gate rumbled.
-
-Obadiah Stane came in like the person the house had been bracing for: beard, bulk, peppermints, the coat settling as it always settled, arms out. "There's my boy." He crossed into the shop and took the whole scene in — the band, the guard, the boy in yesterday's t-shirt — and landed at Mark.
-
-Mark got up. Went, because he needed it, because Uncle Obie had been the cape of this family's missed dinners since before Mark could read. And because the *shallow* was there, sure as tide: the surface saying *warm, father-figure, steady*, arms performing at the exact pressure and direction of the real thing, and yet the feeling stopped inches under the cheek, cool like a lamp with the light off. He'd never once written this down. It was normal, in the tax grown-ups paid on themselves: everyone painted surfaces sometimes. Pepper painted steady. Happy painted calm. Everyone did it sometimes.
-
-Mark pressed in anyway, stayed eight whole seconds past strict boy-need — and let his attention slide off the readback. Not analysis. Not searching. Just letting the hug be a hug. The reflex arrived new: his sensing loosened, the way you stop pressing an ear to a door, and the strain he hadn't known he was carrying let go of his shoulder-blades. *Datum,* the whole week filed somewhere below words: *off is also a position.*
-
-"I missed Dad," Mark said.
-
-"Oh, son." Obie's voice had the catastrophic half of real gravel. The arms squeezed honest. "We'll bring him home. You hear me? We'll buy the stars out of the sky. Day and night. I'm already on it." He pulled back, hands on Mark's shoulders. "Your father's son. Bravest kid in Malibu."
-
-"Quietest," Mark said, wet-eyed.
-
-"Then we'll stock the kitchen," Obie said softly, rumpled him once, and went to handle what he came to handle.
-
----
-
-Night at last. Pepper asleep in the guest wing at Mark's insistence, face gone loose as she'd never been loose at her post. Happy on the porch chair, boots on, phone fallen in his lap. The vans kept their dimmed headlights on the gate like patient animals.
-
-Mark lay in bed with the lamp on, ringed blue across his ceiling — the little tritium vial Dad had sealed in phosphor glass years ago, back in the special-disease years, when Dad couldn't fix the nights any other way: *so the dark never gets you.* He raised his hands into the blue. Twelve-year-old hands, faint sting of band-sweat at the forearm, clean now. Servo-fixing hands. Nobody's hands in particular. His.
-
-The ache came around quietly, unpictured, exactly the same shape as the night. The kind without reference. The kind you can't aim, that can't indicate. *Is he alive?* he asked it plainly, at the lamp.
-
-The ache didn't answer. It never answered. It wasn't a thing that answered. It was just ache, standing where the air of him usually went.
-
-He fished the notebook off the floor — bench notebook, margin-scratches and drones and years-old tutorial wars — flipped to a clean page, and because he was twelve and had a lamp the dark had never once beaten, he wrote by hand, scratching out and re-trying like it was solder:
-
-*when I am scared things move. I cannot aim it. I cannot summon it. it uses me. it costs me the bench and the arm and the food. I have no lantern, no map, no style. only the crash is mine.*
-
-*feelings aren't evidence. dread isn't a wire. the ache holds no certificate. none of it proves anything about Dad — alive, near, coming home. it only proves my body was listening. which it always is.*
-
-*so: stillness after, rest after, hunger fed after — the body pays, the body gets paid. I will write down what happens, not what I wish. I will not ask feelings to be maps. if anything ever becomes a map, I'll know because I built it, and I'll tell the truth about exactly what I built.*
-
-*the night-file will catch what I hide. Happy's eyes catch what I wrap. Pepper catches what I don't ask for. Obie's hugs stay what they've always stayed, and nobody needs to know what I want them to be.*
-
-*if you can't find it, augment. if you can't aim it, practice. if you can't name it, stop asking. next time I will have notes.*
-
-His pen stopped. Under that, in the kid margin where he scribbled the memos that were actually prayers, he added two lines and let them be:
-
-*Bring me the ugliest rock from Kunar, Dad. I'll be here.*
-
-*I'll have notes.*
-
-The lamp made its small blue weather for hours after the words, and Mark slept at last — deep and heavy as memory — with the house down the hall breathing its held breath, and the night-file unread on its sealed shelf, telling the dark what the dark had never asked. And seven time zones ahead, in the dust of a wrecked convoy, a lost phone lay face-up with a photo of him on it until the men who took it came; and the world went on printing about the Stark heir's grief, because grief was the only arithmetic anyone had for him.
+The room kept the light low a while after he'd gone, out of an old habit of its own.

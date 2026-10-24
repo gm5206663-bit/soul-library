@@ -2047,10 +2047,10 @@
    "id": "stark_heir",
    "title": "Stark Heir",
    "era": "MCU · film order",
-   "badge": "MCU · CH 1–5",
-   "live": false,
+   "badge": "MCU · CH 1–2",
+   "live": true,
    "desc": "Mark Howard Stark — Tony’s son, born 1996 — a public heir with a hidden mutation and a Talent older than his first breath; canon runs fully on-page in film order (Iron Man 1 anchor).",
-   "note": "Chapters 1–5 shipped and gated.",
+   "note": "V2 epoch (2026-10-24 rebuild): chapters 1–2 shipped and gate-passed — natural voice, canon complete on film order; V1 retired to archive.",
    "repo": "https://github.com/gm5206663-bit/stark_heir",
    "repo_name": "stark_heir",
    "chapters": [
@@ -2058,35 +2058,17 @@
      "n": 1,
      "file": "Chapter_01_Before_the_News.md",
      "title": "Before the News",
-     "words": 5901
+     "words": 4185
     },
     {
      "n": 2,
-     "file": "Chapter_02_The_Albatross.md",
-     "title": "The Albatross",
-     "words": 6378
-    },
-    {
-     "n": 3,
-     "file": "Chapter_03_The_Return.md",
-     "title": "The Return",
-     "words": 5053
-    },
-    {
-     "n": 4,
-     "file": "Chapter_04_The_Workshop_Rebirth.md",
-     "title": "The Workshop Rebirth",
-     "words": 5527
-    },
-    {
-     "n": 5,
-     "file": "Chapter_05_Gulmira.md",
-     "title": "Gulmira",
-     "words": 4788
+     "file": "Chapter_02_The_Week_Without_Friday.md",
+     "title": "The Week Without Friday",
+     "words": 4465
     }
    ],
-   "total_words": 27647,
-   "words_label": "27K"
+   "total_words": 8650,
+   "words_label": "9K"
   },
   {
    "id": "mcu_eternal",
